@@ -1,0 +1,1 @@
+"Server=.\\SQLEXPRESS;Initial Catalog=vision;Integrated Security=SSPI;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true"
