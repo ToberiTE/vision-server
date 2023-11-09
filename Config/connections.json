@@ -1,6 +1,0 @@
-[
-  "Server=.\\SQLEXPRESS,1433;Initial Catalog=vision;Integrated Security=SSPI;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true",
-  "testconnection",
-  "123123",
-  "hello"
-]
