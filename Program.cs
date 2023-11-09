@@ -9,43 +9,19 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-string activeConnectionPath = "Config/active-connection.json";
-
-string selectedConnection = "";
-
-if (File.Exists(activeConnectionPath))
+var connection = string.Empty;
+if (builder.Environment.IsDevelopment())
 {
-    string active = System.Text.Json.JsonSerializer.Deserialize<string>(File.ReadAllText(activeConnectionPath)) ?? "";
-    if (!string.IsNullOrEmpty(active))
-    {
-        selectedConnection = active;
-    }
+    builder.Configuration.AddEnvironmentVariables().AddJsonFile("appsettings.Development.json");
+    connection = builder.Configuration.GetConnectionString("AZURE_SQL_CONNECTIONSTRING");
 }
 else
 {
-    selectedConnection = "";
-}
-
-List<string> dbConnections = new();
-string connectionsPath = "Config/connections.json";
-
-if (File.Exists(connectionsPath))
-{
-    string connectionStrings = File.ReadAllText(connectionsPath);
-    if (!string.IsNullOrEmpty(connectionStrings))
-    {
-        dbConnections = System.Text.Json.JsonSerializer.Deserialize<List<string>>(connectionStrings) ?? new List<string>();
-    }
-}
-else
-{
-    File.Create(connectionsPath).Close();
-    string connectionStrings = File.ReadAllText(connectionsPath);
-    dbConnections = System.Text.Json.JsonSerializer.Deserialize<List<string>>(connectionStrings) ?? new List<string>();
+    connection = Environment.GetEnvironmentVariable("AZURE_SQL_CONNECTIONSTRING");
 }
 
 builder.Services.AddDbContext<VisionContext>(options =>
-    options.UseSqlServer(selectedConnection));
+    options.UseSqlServer(connection));
 
 var app = builder.Build();
 
@@ -58,69 +34,6 @@ app.UseCors(x => x
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
-app.MapGet("/connections", () => { return dbConnections; });
-
-app.MapPost("/connections", (string connString) =>
-{
-    string path = "Config/connections.json";
-    dbConnections?.Add(connString);
-    string json = System.Text.Json.JsonSerializer.Serialize(dbConnections);
-
-    if (File.Exists(path))
-    {
-        File.WriteAllText(path, json);
-    }
-    else
-    {
-        File.Create(path).Close();
-    }
-
-    File.WriteAllText(path, json);
-});
-
-app.MapPost("/connections/set", (string conn) =>
-{
-    string path = "Config/active-connection.json";
-    if (!string.IsNullOrEmpty(conn))
-    {
-        selectedConnection = conn;
-        string json = System.Text.Json.JsonSerializer.Serialize(selectedConnection);
-
-        if (File.Exists(path))
-        {
-            File.WriteAllText(path, json);
-        }
-        else
-        {
-            File.Create(path).Close();
-        }
-
-        File.WriteAllText(path, json);
-    }
-});
-
-app.MapGet("/connections/active", () =>
-{
-    string path = "Config/active-connection.json";
-    string active = System.Text.Json.JsonSerializer.Deserialize<string>(File.ReadAllText(path)) ?? "";
-    if (!string.IsNullOrEmpty(active))
-    {
-        return active;
-    }
-    return "";
-});
-
-app.MapDelete("/connections/delete", (string conn) =>
-{
-    string path = "Config/connections.json";
-    dbConnections?.Remove(conn);
-    List<string> connections = System.Text.Json.JsonSerializer.Deserialize<List<string>>(File.ReadAllText(path)) ?? new List<string>();
-    connections?.Remove(conn);
-    File.WriteAllText("connections.json", System.Text.Json.JsonSerializer.Serialize(connections));
-    if (conn == selectedConnection) { selectedConnection = ""; }
-}
-);
 
 app.MapGet("/transactions", async (VisionContext db) =>
 {
