@@ -1,1 +1,1 @@
-"Server=DESKTOP-P414O6H,1433;Initial Catalog=vision;Integrated Security=False;User ID=vision;Password=Vision!vision;Encrypt=false;TrustServerCertificate=true"
+"Server=tcp:visionsql.database.windows.net,1433;Initial Catalog=vision;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;Authentication='Active Directory Default'"
