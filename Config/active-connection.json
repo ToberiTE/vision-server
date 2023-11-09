@@ -1,1 +1,1 @@
-"Server=.\\SQLEXPRESS,1433;Initial Catalog=vision;Authentication=SQL Server Authentication;User ID=vision;Password=Vision!vision;Encrypt=false;TrustServerCertificate=true"
+"Server=.\\SQLEXPRESS,1433;Initial Catalog=vision;Integrated Security=False;User ID=vision;Password=Vision!vision;Encrypt=false;TrustServerCertificate=true"
