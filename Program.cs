@@ -28,7 +28,16 @@ var app = builder.Build();
 app.UseCors(x => x
     .AllowAnyMethod()
     .AllowAnyHeader()
-    .SetIsOriginAllowed(origin => true)
+    .SetIsOriginAllowed(origin =>
+    {
+        if (origin == "https://vision-client.azurewebsites.net" ||
+           origin.StartsWith("http://localhost"))
+        {
+            return true;
+        }
+
+        return false;
+    })
     .AllowCredentials());
 
 app.UseHttpsRedirection();
