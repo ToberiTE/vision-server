@@ -1,1 +1,1 @@
-"Server=DESKTOP-P414O6H\\SQLEXPRESS,1433;Initial Catalog=vision;Integrated Security=False;User ID=vision;Password=Vision!vision;Encrypt=false;TrustServerCertificate=true"
+"Server=DESKTOP-P414O6H,1433;Initial Catalog=vision;Integrated Security=False;User ID=vision;Password=Vision!vision;Encrypt=false;TrustServerCertificate=true"
