@@ -82,7 +82,6 @@ C:\Users\Adminpc\Documents\Dev projekt\vision-server\bin\Debug\net7.0\appsetting
 C:\Users\Adminpc\Documents\Dev projekt\vision-server\bin\Debug\net7.0\appsettings.json
 C:\Users\Adminpc\Documents\Dev projekt\vision-server\bin\Debug\net7.0\Config\active-connection.json
 C:\Users\Adminpc\Documents\Dev projekt\vision-server\bin\Debug\net7.0\Config\connections.json
-C:\Users\Adminpc\Documents\Dev projekt\vision-server\bin\Debug\net7.0\connections.json
 C:\Users\Adminpc\Documents\Dev projekt\vision-server\bin\Debug\net7.0\Server.exe
 C:\Users\Adminpc\Documents\Dev projekt\vision-server\bin\Debug\net7.0\Server.deps.json
 C:\Users\Adminpc\Documents\Dev projekt\vision-server\bin\Debug\net7.0\Server.runtimeconfig.json

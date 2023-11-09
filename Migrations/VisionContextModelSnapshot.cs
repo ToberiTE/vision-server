@@ -47,1752 +47,1752 @@ namespace Server.Migrations
                         new
                         {
                             id = 1,
-                            date = new DateTime(2020, 10, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.71332324f,
-                            net_income = 0.73493797f
+                            date = new DateTime(2020, 9, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.94244885f,
+                            net_income = 0.9168974f
                         },
                         new
                         {
                             id = 2,
-                            date = new DateTime(2020, 4, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.73066264f,
-                            net_income = 0.7841442f
+                            date = new DateTime(2020, 6, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.76386964f,
+                            net_income = 0.05361274f
                         },
                         new
                         {
                             id = 3,
-                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7423767f,
-                            net_income = 0.48203754f
+                            date = new DateTime(2020, 2, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.59458786f,
+                            net_income = 0.09448294f
                         },
                         new
                         {
                             id = 4,
-                            date = new DateTime(2020, 2, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.55619633f,
-                            net_income = 0.46684098f
+                            date = new DateTime(2020, 11, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9306857f,
+                            net_income = 0.21559903f
                         },
                         new
                         {
                             id = 5,
-                            date = new DateTime(2020, 1, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.012372405f,
-                            net_income = 0.8868749f
+                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8783306f,
+                            net_income = 0.5148883f
                         },
                         new
                         {
                             id = 6,
-                            date = new DateTime(2020, 1, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6957792f,
-                            net_income = 0.65847164f
+                            date = new DateTime(2020, 8, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.89580965f,
+                            net_income = 0.09596006f
                         },
                         new
                         {
                             id = 7,
-                            date = new DateTime(2020, 6, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.02178758f,
-                            net_income = 0.7864056f
+                            date = new DateTime(2020, 1, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.12939629f,
+                            net_income = 0.08740994f
                         },
                         new
                         {
                             id = 8,
-                            date = new DateTime(2020, 11, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.4634938f,
-                            net_income = 0.26719138f
+                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3170024f,
+                            net_income = 0.6645945f
                         },
                         new
                         {
                             id = 9,
-                            date = new DateTime(2020, 4, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7791602f,
-                            net_income = 0.008948511f
+                            date = new DateTime(2020, 2, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.39045385f,
+                            net_income = 0.85130376f
                         },
                         new
                         {
                             id = 10,
-                            date = new DateTime(2020, 2, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.1658736f,
-                            net_income = 0.963875f
+                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8017978f,
+                            net_income = 0.7289882f
                         },
                         new
                         {
                             id = 11,
-                            date = new DateTime(2020, 6, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.38539013f,
-                            net_income = 0.29708028f
+                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7414095f,
+                            net_income = 0.993389f
                         },
                         new
                         {
                             id = 12,
-                            date = new DateTime(2020, 7, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.70755136f,
-                            net_income = 0.00045961727f
+                            date = new DateTime(2020, 4, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.014921704f,
+                            net_income = 0.1349521f
                         },
                         new
                         {
                             id = 13,
-                            date = new DateTime(2020, 5, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.64699936f,
-                            net_income = 0.64441323f
+                            date = new DateTime(2020, 3, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.4795253f,
+                            net_income = 0.09794877f
                         },
                         new
                         {
                             id = 14,
-                            date = new DateTime(2020, 1, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.78106844f,
-                            net_income = 0.60103047f
+                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.94850355f,
+                            net_income = 0.077617824f
                         },
                         new
                         {
                             id = 15,
-                            date = new DateTime(2020, 3, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.025727397f,
-                            net_income = 0.178233f
+                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.26372963f,
+                            net_income = 0.7936836f
                         },
                         new
                         {
                             id = 16,
-                            date = new DateTime(2020, 4, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3784085f,
-                            net_income = 0.38243032f
+                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6017534f,
+                            net_income = 0.6162985f
                         },
                         new
                         {
                             id = 17,
-                            date = new DateTime(2020, 3, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.08452807f,
-                            net_income = 0.17256792f
+                            date = new DateTime(2020, 8, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.69603413f,
+                            net_income = 0.44475347f
                         },
                         new
                         {
                             id = 18,
-                            date = new DateTime(2020, 2, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.2682646f,
-                            net_income = 0.43156752f
+                            date = new DateTime(2020, 5, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7264408f,
+                            net_income = 0.5961178f
                         },
                         new
                         {
                             id = 19,
-                            date = new DateTime(2020, 12, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.34933487f,
-                            net_income = 0.112891026f
+                            date = new DateTime(2020, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.44719946f,
+                            net_income = 0.409825f
                         },
                         new
                         {
                             id = 20,
-                            date = new DateTime(2020, 12, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.114657715f,
-                            net_income = 0.4763206f
+                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.72412854f,
+                            net_income = 0.4185144f
                         },
                         new
                         {
                             id = 21,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.05049248f,
-                            net_income = 0.9876503f
+                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.41981626f,
+                            net_income = 0.7903171f
                         },
                         new
                         {
                             id = 22,
-                            date = new DateTime(2020, 10, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3364329f,
-                            net_income = 0.85481817f
+                            date = new DateTime(2020, 8, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6715884f,
+                            net_income = 0.032823566f
                         },
                         new
                         {
                             id = 23,
-                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.63461673f,
-                            net_income = 0.9454574f
+                            date = new DateTime(2020, 1, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.14828455f,
+                            net_income = 0.28549194f
                         },
                         new
                         {
                             id = 24,
-                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6548853f,
-                            net_income = 0.23140068f
+                            date = new DateTime(2020, 5, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.4401182f,
+                            net_income = 0.8820449f
                         },
                         new
                         {
                             id = 25,
-                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7926355f,
-                            net_income = 0.92070264f
+                            date = new DateTime(2020, 11, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.106365666f,
+                            net_income = 0.6332398f
                         },
                         new
                         {
                             id = 26,
-                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.32872862f,
-                            net_income = 0.010631387f
+                            date = new DateTime(2020, 10, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.015759286f,
+                            net_income = 0.74646163f
                         },
                         new
                         {
                             id = 27,
-                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.08935015f,
-                            net_income = 0.96344197f
+                            date = new DateTime(2020, 9, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.21312015f,
+                            net_income = 0.9532107f
                         },
                         new
                         {
                             id = 28,
-                            date = new DateTime(2020, 9, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.64431584f,
-                            net_income = 0.71408725f
+                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7117766f,
+                            net_income = 0.60795766f
                         },
                         new
                         {
                             id = 29,
-                            date = new DateTime(2020, 7, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.41315114f,
-                            net_income = 0.18811248f
+                            date = new DateTime(2020, 9, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.16804919f,
+                            net_income = 0.21387269f
                         },
                         new
                         {
                             id = 30,
-                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9982795f,
-                            net_income = 0.21782777f
+                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.19935025f,
+                            net_income = 0.40602162f
                         },
                         new
                         {
                             id = 31,
-                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3259344f,
-                            net_income = 0.0204959f
+                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.11098197f,
+                            net_income = 0.5349665f
                         },
                         new
                         {
                             id = 32,
-                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.019657653f,
-                            net_income = 0.07055922f
+                            date = new DateTime(2020, 5, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.70670545f,
+                            net_income = 0.9103466f
                         },
                         new
                         {
                             id = 33,
-                            date = new DateTime(2020, 5, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.43830144f,
-                            net_income = 0.49089518f
+                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.30746987f,
+                            net_income = 0.49207202f
                         },
                         new
                         {
                             id = 34,
-                            date = new DateTime(2020, 11, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.2544003f,
-                            net_income = 0.8294854f
+                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8340154f,
+                            net_income = 0.8816194f
                         },
                         new
                         {
                             id = 35,
-                            date = new DateTime(2020, 1, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3252337f,
-                            net_income = 0.9085177f
+                            date = new DateTime(2020, 12, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.52457005f,
+                            net_income = 0.56090575f
                         },
                         new
                         {
                             id = 36,
-                            date = new DateTime(2020, 8, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.78029805f,
-                            net_income = 0.9027178f
+                            date = new DateTime(2020, 7, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.73112255f,
+                            net_income = 0.347664f
                         },
                         new
                         {
                             id = 37,
-                            date = new DateTime(2020, 2, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.12879466f,
-                            net_income = 0.4036741f
+                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.59056234f,
+                            net_income = 0.75103796f
                         },
                         new
                         {
                             id = 38,
-                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.32747984f,
-                            net_income = 0.56689095f
+                            date = new DateTime(2020, 4, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8566201f,
+                            net_income = 0.6059294f
                         },
                         new
                         {
                             id = 39,
-                            date = new DateTime(2020, 8, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.14995225f,
-                            net_income = 0.9658081f
+                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.079050675f,
+                            net_income = 0.8058591f
                         },
                         new
                         {
                             id = 40,
-                            date = new DateTime(2020, 11, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3881008f,
-                            net_income = 0.04956773f
+                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.37611213f,
+                            net_income = 0.9884642f
                         },
                         new
                         {
                             id = 41,
-                            date = new DateTime(2020, 11, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.75935096f,
-                            net_income = 0.05140661f
+                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6833571f,
+                            net_income = 0.97723997f
                         },
                         new
                         {
                             id = 42,
-                            date = new DateTime(2020, 8, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8306992f,
-                            net_income = 0.45473903f
+                            date = new DateTime(2020, 11, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.537442f,
+                            net_income = 0.25670043f
                         },
                         new
                         {
                             id = 43,
-                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.025452854f,
-                            net_income = 0.33047003f
+                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7539252f,
+                            net_income = 0.2844755f
                         },
                         new
                         {
                             id = 44,
-                            date = new DateTime(2020, 10, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.28011003f,
-                            net_income = 0.7667522f
+                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.91940415f,
+                            net_income = 0.42212987f
                         },
                         new
                         {
                             id = 45,
-                            date = new DateTime(2020, 2, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.87766457f,
-                            net_income = 0.98231655f
+                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5370318f,
+                            net_income = 0.85635704f
                         },
                         new
                         {
                             id = 46,
-                            date = new DateTime(2020, 5, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.48757204f,
-                            net_income = 0.14393659f
+                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.88581705f,
+                            net_income = 0.9802769f
                         },
                         new
                         {
                             id = 47,
-                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9571234f,
-                            net_income = 0.21267392f
+                            date = new DateTime(2020, 9, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3783841f,
+                            net_income = 0.15585415f
                         },
                         new
                         {
                             id = 48,
-                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.4591553f,
-                            net_income = 0.9047658f
+                            date = new DateTime(2020, 8, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.67630357f,
+                            net_income = 0.9836798f
                         },
                         new
                         {
                             id = 49,
-                            date = new DateTime(2020, 7, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9305161f,
-                            net_income = 0.9124707f
+                            date = new DateTime(2020, 9, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.24423487f,
+                            net_income = 0.21260795f
                         },
                         new
                         {
                             id = 50,
-                            date = new DateTime(2020, 4, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.16387992f,
-                            net_income = 0.22982955f
+                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5244918f,
+                            net_income = 0.52214235f
                         },
                         new
                         {
                             id = 51,
-                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.49601224f,
-                            net_income = 0.35568464f
+                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6964437f,
+                            net_income = 0.2687418f
                         },
                         new
                         {
                             id = 52,
-                            date = new DateTime(2020, 8, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8804491f,
-                            net_income = 0.9294651f
+                            date = new DateTime(2020, 5, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.10001757f,
+                            net_income = 0.48836085f
                         },
                         new
                         {
                             id = 53,
-                            date = new DateTime(2020, 11, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.4783141f,
-                            net_income = 0.44024175f
+                            date = new DateTime(2020, 6, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9270819f,
+                            net_income = 0.69328696f
                         },
                         new
                         {
                             id = 54,
-                            date = new DateTime(2020, 6, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.62044257f,
-                            net_income = 0.6061025f
+                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6558481f,
+                            net_income = 0.34742624f
                         },
                         new
                         {
                             id = 55,
-                            date = new DateTime(2020, 3, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.16608869f,
-                            net_income = 0.6891041f
+                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8918805f,
+                            net_income = 0.9999443f
                         },
                         new
                         {
                             id = 56,
-                            date = new DateTime(2020, 7, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.38258454f,
-                            net_income = 0.2972138f
+                            date = new DateTime(2020, 11, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.28295383f,
+                            net_income = 0.9553391f
                         },
                         new
                         {
                             id = 57,
-                            date = new DateTime(2020, 12, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.43506786f,
-                            net_income = 0.4901212f
+                            date = new DateTime(2020, 3, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.18431182f,
+                            net_income = 0.2809179f
                         },
                         new
                         {
                             id = 58,
-                            date = new DateTime(2020, 9, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.83235294f,
-                            net_income = 0.08109429f
+                            date = new DateTime(2020, 4, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9907283f,
+                            net_income = 0.77693814f
                         },
                         new
                         {
                             id = 59,
-                            date = new DateTime(2020, 9, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.68682784f,
-                            net_income = 0.53243494f
+                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9861917f,
+                            net_income = 0.79204834f
                         },
                         new
                         {
                             id = 60,
-                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.44372213f,
-                            net_income = 0.48345444f
+                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.34317452f,
+                            net_income = 0.5279766f
                         },
                         new
                         {
                             id = 61,
-                            date = new DateTime(2020, 8, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8902491f,
-                            net_income = 0.7616249f
+                            date = new DateTime(2020, 5, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.31365246f,
+                            net_income = 0.13103288f
                         },
                         new
                         {
                             id = 62,
-                            date = new DateTime(2020, 7, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.23318212f,
-                            net_income = 0.47792277f
+                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.14288434f,
+                            net_income = 0.18688078f
                         },
                         new
                         {
                             id = 63,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8742281f,
-                            net_income = 0.9317737f
+                            date = new DateTime(2020, 1, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.06954593f,
+                            net_income = 0.63653517f
                         },
                         new
                         {
                             id = 64,
-                            date = new DateTime(2020, 2, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.34273994f,
-                            net_income = 0.2472443f
+                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.97616744f,
+                            net_income = 0.84659934f
                         },
                         new
                         {
                             id = 65,
-                            date = new DateTime(2020, 7, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9240067f,
-                            net_income = 0.2705143f
+                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.67578906f,
+                            net_income = 0.5230258f
                         },
                         new
                         {
                             id = 66,
-                            date = new DateTime(2020, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6690654f,
-                            net_income = 0.3831658f
+                            date = new DateTime(2020, 5, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3578201f,
+                            net_income = 0.18895191f
                         },
                         new
                         {
                             id = 67,
-                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26872155f,
-                            net_income = 0.13827258f
+                            date = new DateTime(2020, 4, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6329719f,
+                            net_income = 0.7826141f
                         },
                         new
                         {
                             id = 68,
-                            date = new DateTime(2020, 11, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.77522767f,
-                            net_income = 0.25245056f
+                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.61158246f,
+                            net_income = 0.19331165f
                         },
                         new
                         {
                             id = 69,
-                            date = new DateTime(2020, 3, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.014767696f,
-                            net_income = 0.33321902f
+                            date = new DateTime(2020, 8, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6563363f,
+                            net_income = 0.27358982f
                         },
                         new
                         {
                             id = 70,
-                            date = new DateTime(2020, 1, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3272646f,
-                            net_income = 0.21452251f
+                            date = new DateTime(2020, 10, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.108113855f,
+                            net_income = 0.92598695f
                         },
                         new
                         {
                             id = 71,
-                            date = new DateTime(2020, 5, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.35542658f,
-                            net_income = 0.7337061f
+                            date = new DateTime(2020, 3, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.4983679f,
+                            net_income = 0.047736246f
                         },
                         new
                         {
                             id = 72,
-                            date = new DateTime(2020, 9, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.11716823f,
-                            net_income = 0.21107532f
+                            date = new DateTime(2020, 9, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.09303155f,
+                            net_income = 0.4848712f
                         },
                         new
                         {
                             id = 73,
-                            date = new DateTime(2020, 10, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.634603f,
-                            net_income = 0.8408275f
+                            date = new DateTime(2020, 12, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.0526408f,
+                            net_income = 0.38763607f
                         },
                         new
                         {
                             id = 74,
-                            date = new DateTime(2020, 12, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.72544324f,
-                            net_income = 0.4955546f
+                            date = new DateTime(2020, 1, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.21406657f,
+                            net_income = 0.36810324f
                         },
                         new
                         {
                             id = 75,
-                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.34639868f,
-                            net_income = 0.6972953f
+                            date = new DateTime(2020, 4, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9810143f,
+                            net_income = 0.8494986f
                         },
                         new
                         {
                             id = 76,
-                            date = new DateTime(2020, 7, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6911171f,
-                            net_income = 0.74321884f
+                            date = new DateTime(2020, 1, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9610428f,
+                            net_income = 0.03410419f
                         },
                         new
                         {
                             id = 77,
-                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6880736f,
-                            net_income = 0.60687834f
+                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.52192664f,
+                            net_income = 0.370279f
                         },
                         new
                         {
                             id = 78,
-                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.31278858f,
-                            net_income = 0.14607899f
+                            date = new DateTime(2020, 7, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.60879123f,
+                            net_income = 0.8048743f
                         },
                         new
                         {
                             id = 79,
-                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.066143416f,
-                            net_income = 0.9820775f
+                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.119122446f,
+                            net_income = 0.78289026f
                         },
                         new
                         {
                             id = 80,
-                            date = new DateTime(2020, 8, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.4517134f,
-                            net_income = 0.74056554f
+                            date = new DateTime(2020, 8, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.60089874f,
+                            net_income = 0.2793143f
                         },
                         new
                         {
                             id = 81,
-                            date = new DateTime(2020, 7, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8741998f,
-                            net_income = 0.63350695f
+                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6885208f,
+                            net_income = 0.9120025f
                         },
                         new
                         {
                             id = 82,
-                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7237428f,
-                            net_income = 0.4697856f
+                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6335271f,
+                            net_income = 0.63605183f
                         },
                         new
                         {
                             id = 83,
-                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8176773f,
-                            net_income = 0.92514205f
+                            date = new DateTime(2020, 11, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.27837577f,
+                            net_income = 0.7936697f
                         },
                         new
                         {
                             id = 84,
-                            date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7636483f,
-                            net_income = 0.70380414f
+                            date = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5358797f,
+                            net_income = 0.8627373f
                         },
                         new
                         {
                             id = 85,
-                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.059765115f,
-                            net_income = 0.37003696f
+                            date = new DateTime(2020, 8, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.45519164f,
+                            net_income = 0.7242817f
                         },
                         new
                         {
                             id = 86,
-                            date = new DateTime(2020, 11, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9208863f,
-                            net_income = 0.7515067f
+                            date = new DateTime(2020, 7, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.37699673f,
+                            net_income = 0.89795244f
                         },
                         new
                         {
                             id = 87,
-                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.71092296f,
-                            net_income = 0.062128983f
+                            date = new DateTime(2020, 6, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.216316f,
+                            net_income = 0.6318682f
                         },
                         new
                         {
                             id = 88,
-                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6906314f,
-                            net_income = 0.85823f
+                            date = new DateTime(2020, 9, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.45798346f,
+                            net_income = 0.030878326f
                         },
                         new
                         {
                             id = 89,
-                            date = new DateTime(2020, 7, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.29090887f,
-                            net_income = 0.23887897f
+                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6566998f,
+                            net_income = 0.26524818f
                         },
                         new
                         {
                             id = 90,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.21332431f,
-                            net_income = 0.38681647f
+                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8885154f,
+                            net_income = 0.9095129f
                         },
                         new
                         {
                             id = 91,
-                            date = new DateTime(2020, 12, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.900803f,
-                            net_income = 0.34556517f
+                            date = new DateTime(2020, 8, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6379504f,
+                            net_income = 0.26474372f
                         },
                         new
                         {
                             id = 92,
-                            date = new DateTime(2020, 1, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.738043f,
-                            net_income = 0.60710335f
+                            date = new DateTime(2020, 5, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.09684336f,
+                            net_income = 0.5181519f
                         },
                         new
                         {
                             id = 93,
-                            date = new DateTime(2020, 1, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9004173f,
-                            net_income = 0.90307695f
+                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.95077026f,
+                            net_income = 0.24579336f
                         },
                         new
                         {
                             id = 94,
-                            date = new DateTime(2020, 6, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26953626f,
-                            net_income = 0.62849516f
+                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9206812f,
+                            net_income = 0.7663545f
                         },
                         new
                         {
                             id = 95,
-                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.878228f,
-                            net_income = 0.61385703f
+                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.047944818f,
+                            net_income = 0.7932981f
                         },
                         new
                         {
                             id = 96,
-                            date = new DateTime(2020, 8, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.1143905f,
-                            net_income = 0.553945f
+                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.1900438f,
+                            net_income = 0.44337517f
                         },
                         new
                         {
                             id = 97,
-                            date = new DateTime(2020, 11, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.37741596f,
-                            net_income = 0.64526105f
+                            date = new DateTime(2020, 2, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6983595f,
+                            net_income = 0.9165265f
                         },
                         new
                         {
                             id = 98,
-                            date = new DateTime(2020, 12, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.38934433f,
-                            net_income = 0.5770887f
+                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.013416184f,
+                            net_income = 0.6738486f
                         },
                         new
                         {
                             id = 99,
-                            date = new DateTime(2020, 1, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.67775875f,
-                            net_income = 0.8364379f
+                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6538591f,
+                            net_income = 0.6330797f
                         },
                         new
                         {
                             id = 100,
-                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.21543282f,
-                            net_income = 0.67855257f
+                            date = new DateTime(2020, 12, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.12290958f,
+                            net_income = 0.32719332f
                         },
                         new
                         {
                             id = 101,
-                            date = new DateTime(2020, 7, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.943825f,
-                            net_income = 0.77560264f
+                            date = new DateTime(2020, 3, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3916312f,
+                            net_income = 0.4175451f
                         },
                         new
                         {
                             id = 102,
-                            date = new DateTime(2020, 12, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3513487f,
-                            net_income = 0.12165566f
+                            date = new DateTime(2020, 1, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.90075135f,
+                            net_income = 0.941272f
                         },
                         new
                         {
                             id = 103,
-                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.17943563f,
-                            net_income = 0.5941493f
+                            date = new DateTime(2020, 11, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9559057f,
+                            net_income = 0.2511997f
                         },
                         new
                         {
                             id = 104,
-                            date = new DateTime(2020, 11, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7088812f,
-                            net_income = 0.37814635f
+                            date = new DateTime(2020, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7064851f,
+                            net_income = 0.097632326f
                         },
                         new
                         {
                             id = 105,
-                            date = new DateTime(2020, 12, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.38585994f,
-                            net_income = 0.8453949f
+                            date = new DateTime(2020, 5, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.96451694f,
+                            net_income = 0.24169111f
                         },
                         new
                         {
                             id = 106,
-                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.92953146f,
-                            net_income = 0.6604188f
+                            date = new DateTime(2020, 8, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.87197113f,
+                            net_income = 0.4614067f
                         },
                         new
                         {
                             id = 107,
-                            date = new DateTime(2020, 6, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.17426218f,
-                            net_income = 0.84957284f
+                            date = new DateTime(2020, 10, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.06443774f,
+                            net_income = 0.4026133f
                         },
                         new
                         {
                             id = 108,
-                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.53744215f,
-                            net_income = 0.5479219f
+                            date = new DateTime(2020, 4, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.55734175f,
+                            net_income = 0.09811134f
                         },
                         new
                         {
                             id = 109,
-                            date = new DateTime(2020, 8, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.95698774f,
-                            net_income = 0.51014024f
+                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6600291f,
+                            net_income = 0.2569169f
                         },
                         new
                         {
                             id = 110,
-                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6380285f,
-                            net_income = 0.23780271f
+                            date = new DateTime(2020, 1, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.41668823f,
+                            net_income = 0.2545074f
                         },
                         new
                         {
                             id = 111,
-                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.1359527f,
-                            net_income = 0.87154907f
+                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.72537714f,
+                            net_income = 0.38525f
                         },
                         new
                         {
                             id = 112,
-                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9539206f,
-                            net_income = 0.015962165f
+                            date = new DateTime(2020, 9, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.38341746f,
+                            net_income = 0.23822902f
                         },
                         new
                         {
                             id = 113,
-                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5127929f,
-                            net_income = 0.8440616f
+                            date = new DateTime(2020, 9, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.26316392f,
+                            net_income = 0.5697759f
                         },
                         new
                         {
                             id = 114,
-                            date = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7134089f,
-                            net_income = 0.34902027f
+                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3516707f,
+                            net_income = 0.92576844f
                         },
                         new
                         {
                             id = 115,
-                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.52081305f,
-                            net_income = 0.35886368f
+                            date = new DateTime(2020, 3, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3847083f,
+                            net_income = 0.1094366f
                         },
                         new
                         {
                             id = 116,
-                            date = new DateTime(2020, 7, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.29138646f,
-                            net_income = 0.5256618f
+                            date = new DateTime(2020, 4, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5763946f,
+                            net_income = 0.062484637f
                         },
                         new
                         {
                             id = 117,
-                            date = new DateTime(2020, 2, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.03299474f,
-                            net_income = 0.63187474f
+                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.95388216f,
+                            net_income = 0.85858804f
                         },
                         new
                         {
                             id = 118,
-                            date = new DateTime(2020, 2, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.31379727f,
-                            net_income = 0.054302797f
+                            date = new DateTime(2020, 7, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.82147765f,
+                            net_income = 0.48580268f
                         },
                         new
                         {
                             id = 119,
-                            date = new DateTime(2020, 2, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26217106f,
-                            net_income = 0.7062271f
+                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8268312f,
+                            net_income = 0.07381795f
                         },
                         new
                         {
                             id = 120,
-                            date = new DateTime(2020, 3, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7492212f,
-                            net_income = 0.99571484f
+                            date = new DateTime(2020, 10, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.23815675f,
+                            net_income = 0.6912757f
                         },
                         new
                         {
                             id = 121,
-                            date = new DateTime(2020, 5, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26356208f,
-                            net_income = 0.9385729f
+                            date = new DateTime(2020, 2, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.72212124f,
+                            net_income = 0.5259003f
                         },
                         new
                         {
                             id = 122,
-                            date = new DateTime(2020, 11, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.026940508f,
-                            net_income = 0.31052768f
+                            date = new DateTime(2020, 1, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.58628684f,
+                            net_income = 0.68360454f
                         },
                         new
                         {
                             id = 123,
-                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8365255f,
-                            net_income = 0.54463303f
+                            date = new DateTime(2020, 2, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.057181507f,
+                            net_income = 0.08383933f
                         },
                         new
                         {
                             id = 124,
-                            date = new DateTime(2020, 2, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.86954606f,
-                            net_income = 0.9255542f
+                            date = new DateTime(2020, 8, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7177012f,
+                            net_income = 0.55211085f
                         },
                         new
                         {
                             id = 125,
-                            date = new DateTime(2020, 6, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.32367477f,
-                            net_income = 0.5457706f
+                            date = new DateTime(2020, 7, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.4327815f,
+                            net_income = 0.40996006f
                         },
                         new
                         {
                             id = 126,
-                            date = new DateTime(2020, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.22556525f,
-                            net_income = 0.07817876f
+                            date = new DateTime(2020, 5, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2501145f,
+                            net_income = 0.59165204f
                         },
                         new
                         {
                             id = 127,
-                            date = new DateTime(2020, 4, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.12290525f,
-                            net_income = 0.9314925f
+                            date = new DateTime(2020, 3, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8328552f,
+                            net_income = 0.46958855f
                         },
                         new
                         {
                             id = 128,
-                            date = new DateTime(2020, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.1315295f,
-                            net_income = 0.4613402f
+                            date = new DateTime(2020, 5, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.16672012f,
+                            net_income = 0.7283613f
                         },
                         new
                         {
                             id = 129,
-                            date = new DateTime(2020, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7358895f,
-                            net_income = 0.3191743f
+                            date = new DateTime(2020, 3, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9550591f,
+                            net_income = 0.79829574f
                         },
                         new
                         {
                             id = 130,
-                            date = new DateTime(2020, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.63263166f,
-                            net_income = 0.10210656f
+                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.022020638f,
+                            net_income = 0.47172305f
                         },
                         new
                         {
                             id = 131,
-                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.4604722f,
-                            net_income = 0.50342095f
+                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.45791632f,
+                            net_income = 0.36287645f
                         },
                         new
                         {
                             id = 132,
-                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.063086465f,
-                            net_income = 0.6002368f
+                            date = new DateTime(2020, 12, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.060117252f,
+                            net_income = 0.51707214f
                         },
                         new
                         {
                             id = 133,
-                            date = new DateTime(2020, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7077687f,
-                            net_income = 0.24522974f
+                            date = new DateTime(2020, 11, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.23655127f,
+                            net_income = 0.31019643f
                         },
                         new
                         {
                             id = 134,
-                            date = new DateTime(2020, 7, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7904982f,
-                            net_income = 0.8082581f
+                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.09909065f,
+                            net_income = 0.16875936f
                         },
                         new
                         {
                             id = 135,
-                            date = new DateTime(2020, 10, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.98778003f,
-                            net_income = 0.43080112f
+                            date = new DateTime(2020, 5, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.11680835f,
+                            net_income = 0.49032834f
                         },
                         new
                         {
                             id = 136,
-                            date = new DateTime(2020, 1, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.33110178f,
-                            net_income = 0.983388f
+                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.23628278f,
+                            net_income = 0.89334095f
                         },
                         new
                         {
                             id = 137,
-                            date = new DateTime(2020, 12, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.17836766f,
-                            net_income = 0.930882f
+                            date = new DateTime(2020, 10, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.53563046f,
+                            net_income = 0.48161903f
                         },
                         new
                         {
                             id = 138,
-                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.73145145f,
-                            net_income = 0.46761763f
+                            date = new DateTime(2020, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.076152116f,
+                            net_income = 0.098299675f
                         },
                         new
                         {
                             id = 139,
-                            date = new DateTime(2020, 7, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.25174096f,
-                            net_income = 0.9393975f
+                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2885912f,
+                            net_income = 0.51255184f
                         },
                         new
                         {
                             id = 140,
-                            date = new DateTime(2020, 7, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.17326735f,
-                            net_income = 0.7583935f
+                            date = new DateTime(2020, 1, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.92873776f,
+                            net_income = 0.604051f
                         },
                         new
                         {
                             id = 141,
-                            date = new DateTime(2020, 2, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9709368f,
-                            net_income = 0.93234634f
+                            date = new DateTime(2020, 10, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.45257074f,
+                            net_income = 0.21000464f
                         },
                         new
                         {
                             id = 142,
-                            date = new DateTime(2020, 10, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.33542907f,
-                            net_income = 0.3813506f
+                            date = new DateTime(2020, 7, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8919206f,
+                            net_income = 0.44419372f
                         },
                         new
                         {
                             id = 143,
-                            date = new DateTime(2020, 4, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.69872355f,
-                            net_income = 0.08403365f
+                            date = new DateTime(2020, 9, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.50238687f,
+                            net_income = 0.18667646f
                         },
                         new
                         {
                             id = 144,
-                            date = new DateTime(2020, 10, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8673321f,
-                            net_income = 0.037822828f
+                            date = new DateTime(2020, 4, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7365794f,
+                            net_income = 0.9948713f
                         },
                         new
                         {
                             id = 145,
-                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.39850965f,
-                            net_income = 0.117281206f
+                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.29741967f,
+                            net_income = 0.34579375f
                         },
                         new
                         {
                             id = 146,
-                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.11339564f,
-                            net_income = 0.35818934f
+                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.06679468f,
+                            net_income = 0.07990605f
                         },
                         new
                         {
                             id = 147,
-                            date = new DateTime(2020, 4, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9143031f,
-                            net_income = 0.38928702f
+                            date = new DateTime(2020, 1, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.50949544f,
+                            net_income = 0.59800255f
                         },
                         new
                         {
                             id = 148,
-                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9908071f,
-                            net_income = 0.65555936f
+                            date = new DateTime(2020, 8, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.4766496f,
+                            net_income = 0.62938553f
                         },
                         new
                         {
                             id = 149,
-                            date = new DateTime(2020, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.567008f,
-                            net_income = 0.020776471f
+                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3039024f,
+                            net_income = 0.33899748f
                         },
                         new
                         {
                             id = 150,
-                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.45516357f,
-                            net_income = 0.541505f
+                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.49301758f,
+                            net_income = 0.96277285f
                         },
                         new
                         {
                             id = 151,
-                            date = new DateTime(2020, 5, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.11322926f,
-                            net_income = 0.8512864f
+                            date = new DateTime(2020, 1, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.79847044f,
+                            net_income = 0.6238787f
                         },
                         new
                         {
                             id = 152,
-                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.43908018f,
-                            net_income = 0.022631885f
+                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5580841f,
+                            net_income = 0.73865324f
                         },
                         new
                         {
                             id = 153,
-                            date = new DateTime(2020, 9, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3708274f,
-                            net_income = 0.41209325f
+                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8563054f,
+                            net_income = 0.52619845f
                         },
                         new
                         {
                             id = 154,
-                            date = new DateTime(2020, 1, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9840006f,
-                            net_income = 0.8218686f
+                            date = new DateTime(2020, 2, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.776589f,
+                            net_income = 0.58450085f
                         },
                         new
                         {
                             id = 155,
-                            date = new DateTime(2020, 5, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7138624f,
-                            net_income = 0.45848906f
+                            date = new DateTime(2020, 8, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7353117f,
+                            net_income = 0.2923097f
                         },
                         new
                         {
                             id = 156,
-                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.30862868f,
-                            net_income = 0.045234304f
+                            date = new DateTime(2020, 2, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3632049f,
+                            net_income = 0.7704838f
                         },
                         new
                         {
                             id = 157,
-                            date = new DateTime(2020, 12, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.12126434f,
-                            net_income = 0.77914834f
+                            date = new DateTime(2020, 8, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.94755477f,
+                            net_income = 0.34896728f
                         },
                         new
                         {
                             id = 158,
-                            date = new DateTime(2020, 12, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.99869984f,
-                            net_income = 0.09839036f
+                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.82819986f,
+                            net_income = 0.9008121f
                         },
                         new
                         {
                             id = 159,
-                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3879559f,
-                            net_income = 0.13942964f
+                            date = new DateTime(2020, 12, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.11013193f,
+                            net_income = 0.20676646f
                         },
                         new
                         {
                             id = 160,
-                            date = new DateTime(2020, 11, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5411315f,
-                            net_income = 0.9595838f
+                            date = new DateTime(2020, 8, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.65133667f,
+                            net_income = 0.9033776f
                         },
                         new
                         {
                             id = 161,
-                            date = new DateTime(2020, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.14056677f,
-                            net_income = 0.91000324f
+                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.32058343f,
+                            net_income = 0.857967f
                         },
                         new
                         {
                             id = 162,
-                            date = new DateTime(2020, 5, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.60855955f,
-                            net_income = 0.535847f
+                            date = new DateTime(2020, 5, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5626396f,
+                            net_income = 0.2933567f
                         },
                         new
                         {
                             id = 163,
-                            date = new DateTime(2020, 4, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.29431444f,
-                            net_income = 0.5727959f
+                            date = new DateTime(2020, 1, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.49125025f,
+                            net_income = 0.6857056f
                         },
                         new
                         {
                             id = 164,
-                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8016165f,
-                            net_income = 0.060840048f
+                            date = new DateTime(2020, 4, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.61452013f,
+                            net_income = 0.9809319f
                         },
                         new
                         {
                             id = 165,
-                            date = new DateTime(2020, 8, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3455984f,
-                            net_income = 0.007829618f
+                            date = new DateTime(2020, 8, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.20928715f,
+                            net_income = 0.7641907f
                         },
                         new
                         {
                             id = 166,
-                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6034977f,
-                            net_income = 0.13525882f
+                            date = new DateTime(2020, 1, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.79866314f,
+                            net_income = 0.7480822f
                         },
                         new
                         {
                             id = 167,
-                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.82144326f,
-                            net_income = 0.69478387f
+                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2468788f,
+                            net_income = 0.71012884f
                         },
                         new
                         {
                             id = 168,
-                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.62955636f,
-                            net_income = 0.5708347f
+                            date = new DateTime(2020, 4, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5340215f,
+                            net_income = 0.9014678f
                         },
                         new
                         {
                             id = 169,
-                            date = new DateTime(2020, 3, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.49659547f,
-                            net_income = 0.6394924f
+                            date = new DateTime(2020, 3, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.18795429f,
+                            net_income = 0.5107988f
                         },
                         new
                         {
                             id = 170,
-                            date = new DateTime(2020, 4, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5673264f,
-                            net_income = 0.043798603f
+                            date = new DateTime(2020, 6, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.95876753f,
+                            net_income = 0.93348855f
                         },
                         new
                         {
                             id = 171,
-                            date = new DateTime(2020, 4, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.68067265f,
-                            net_income = 0.98404294f
+                            date = new DateTime(2020, 8, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2372169f,
+                            net_income = 0.7734882f
                         },
                         new
                         {
                             id = 172,
-                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7954126f,
-                            net_income = 0.17287816f
+                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.77289623f,
+                            net_income = 0.53979456f
                         },
                         new
                         {
                             id = 173,
-                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3834887f,
-                            net_income = 0.19323608f
+                            date = new DateTime(2020, 2, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.30248153f,
+                            net_income = 0.8572175f
                         },
                         new
                         {
                             id = 174,
-                            date = new DateTime(2020, 9, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5583896f,
-                            net_income = 0.90734696f
+                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.14482872f,
+                            net_income = 0.03975278f
                         },
                         new
                         {
                             id = 175,
-                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.48869425f,
-                            net_income = 0.7509201f
+                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.98553157f,
+                            net_income = 0.85653573f
                         },
                         new
                         {
                             id = 176,
-                            date = new DateTime(2020, 12, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.74945694f,
-                            net_income = 0.030288637f
+                            date = new DateTime(2020, 8, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.56028575f,
+                            net_income = 0.6724549f
                         },
                         new
                         {
                             id = 177,
-                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.94246465f,
-                            net_income = 0.70388967f
+                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6056509f,
+                            net_income = 0.21184629f
                         },
                         new
                         {
                             id = 178,
-                            date = new DateTime(2020, 11, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.86091316f,
-                            net_income = 0.64964634f
+                            date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7603772f,
+                            net_income = 0.971379f
                         },
                         new
                         {
                             id = 179,
-                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.61042535f,
-                            net_income = 0.6418135f
+                            date = new DateTime(2020, 8, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7858097f,
+                            net_income = 0.97967833f
                         },
                         new
                         {
                             id = 180,
-                            date = new DateTime(2020, 6, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9051362f,
-                            net_income = 0.3034023f
+                            date = new DateTime(2020, 7, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3367218f,
+                            net_income = 0.6186658f
                         },
                         new
                         {
                             id = 181,
-                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8097599f,
-                            net_income = 0.40416384f
+                            date = new DateTime(2020, 8, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.13623078f,
+                            net_income = 0.27809122f
                         },
                         new
                         {
                             id = 182,
-                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.38836846f,
-                            net_income = 0.41950375f
+                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.89258194f,
+                            net_income = 0.85293263f
                         },
                         new
                         {
                             id = 183,
-                            date = new DateTime(2020, 10, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.12211631f,
-                            net_income = 0.2502669f
+                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.69409907f,
+                            net_income = 0.8219738f
                         },
                         new
                         {
                             id = 184,
-                            date = new DateTime(2020, 8, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.37579432f,
-                            net_income = 0.40803564f
+                            date = new DateTime(2020, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.42118114f,
+                            net_income = 0.9820423f
                         },
                         new
                         {
                             id = 185,
-                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.063565f,
-                            net_income = 0.8107439f
+                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.51383656f,
+                            net_income = 0.42166206f
                         },
                         new
                         {
                             id = 186,
-                            date = new DateTime(2020, 12, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.2783924f,
-                            net_income = 0.45796543f
+                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.43092397f,
+                            net_income = 0.9803473f
                         },
                         new
                         {
                             id = 187,
-                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9765379f,
-                            net_income = 0.5256267f
+                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.16834661f,
+                            net_income = 0.6624922f
                         },
                         new
                         {
                             id = 188,
-                            date = new DateTime(2020, 7, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.035824712f,
-                            net_income = 0.84808534f
+                            date = new DateTime(2020, 12, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.27262378f,
+                            net_income = 0.54879904f
                         },
                         new
                         {
                             id = 189,
-                            date = new DateTime(2020, 6, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8012233f,
-                            net_income = 0.361182f
+                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.27655447f,
+                            net_income = 0.14097708f
                         },
                         new
                         {
                             id = 190,
-                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3728464f,
-                            net_income = 0.07769172f
+                            date = new DateTime(2020, 4, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.62132823f,
+                            net_income = 0.2170588f
                         },
                         new
                         {
                             id = 191,
-                            date = new DateTime(2020, 8, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.21026553f,
-                            net_income = 0.91367066f
+                            date = new DateTime(2020, 11, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6821286f,
+                            net_income = 0.5709753f
                         },
                         new
                         {
                             id = 192,
                             date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.21948218f,
-                            net_income = 0.8046905f
+                            expenses = 0.45810628f,
+                            net_income = 0.34754232f
                         },
                         new
                         {
                             id = 193,
-                            date = new DateTime(2020, 7, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.022883296f,
-                            net_income = 0.9178818f
+                            date = new DateTime(2020, 11, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.69096565f,
+                            net_income = 0.8654403f
                         },
                         new
                         {
                             id = 194,
-                            date = new DateTime(2020, 3, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.16904856f,
-                            net_income = 0.4273065f
+                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.1606997f,
+                            net_income = 0.27113175f
                         },
                         new
                         {
                             id = 195,
-                            date = new DateTime(2020, 2, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.078815915f,
-                            net_income = 0.007756221f
+                            date = new DateTime(2020, 8, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.18152374f,
+                            net_income = 0.30108082f
                         },
                         new
                         {
                             id = 196,
-                            date = new DateTime(2020, 7, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.22035877f,
-                            net_income = 0.1995159f
+                            date = new DateTime(2020, 1, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.49253806f,
+                            net_income = 0.1810651f
                         },
                         new
                         {
                             id = 197,
-                            date = new DateTime(2020, 5, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.82461107f,
-                            net_income = 0.8813231f
+                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.96818674f,
+                            net_income = 0.5070072f
                         },
                         new
                         {
                             id = 198,
-                            date = new DateTime(2020, 10, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8102577f,
-                            net_income = 0.69437385f
+                            date = new DateTime(2020, 11, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.19015357f,
+                            net_income = 0.49428827f
                         },
                         new
                         {
                             id = 199,
-                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8660377f,
-                            net_income = 0.5522047f
+                            date = new DateTime(2020, 3, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.04106762f,
+                            net_income = 0.13717872f
                         },
                         new
                         {
                             id = 200,
-                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.19612046f,
-                            net_income = 0.6142889f
+                            date = new DateTime(2020, 8, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.90788656f,
+                            net_income = 0.8593104f
                         },
                         new
                         {
                             id = 201,
-                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5874183f,
-                            net_income = 0.58305043f
+                            date = new DateTime(2020, 6, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.47835135f,
+                            net_income = 0.054755524f
                         },
                         new
                         {
                             id = 202,
-                            date = new DateTime(2020, 12, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.12784569f,
-                            net_income = 0.26669124f
+                            date = new DateTime(2020, 9, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9322444f,
+                            net_income = 0.41091022f
                         },
                         new
                         {
                             id = 203,
-                            date = new DateTime(2020, 5, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.32988968f,
-                            net_income = 0.065485425f
+                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.60033023f,
+                            net_income = 0.16186474f
                         },
                         new
                         {
                             id = 204,
-                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.85710806f,
-                            net_income = 0.58674306f
+                            date = new DateTime(2020, 9, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.29144168f,
+                            net_income = 0.9198418f
                         },
                         new
                         {
                             id = 205,
-                            date = new DateTime(2020, 9, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.20666686f,
-                            net_income = 0.6606341f
+                            date = new DateTime(2020, 9, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.22983046f,
+                            net_income = 0.85496503f
                         },
                         new
                         {
                             id = 206,
-                            date = new DateTime(2020, 11, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8228234f,
-                            net_income = 0.16967973f
+                            date = new DateTime(2020, 4, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.24160115f,
+                            net_income = 0.21390618f
                         },
                         new
                         {
                             id = 207,
-                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.091937326f,
-                            net_income = 0.14718923f
+                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7531904f,
+                            net_income = 0.3802117f
                         },
                         new
                         {
                             id = 208,
-                            date = new DateTime(2020, 9, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.716784f,
-                            net_income = 0.056269776f
+                            date = new DateTime(2020, 6, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5694214f,
+                            net_income = 0.24781008f
                         },
                         new
                         {
                             id = 209,
-                            date = new DateTime(2020, 9, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.4159317f,
-                            net_income = 0.13598134f
+                            date = new DateTime(2020, 7, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.73772365f,
+                            net_income = 0.08697277f
                         },
                         new
                         {
                             id = 210,
-                            date = new DateTime(2020, 7, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7428788f,
-                            net_income = 0.591517f
+                            date = new DateTime(2020, 1, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.27079532f,
+                            net_income = 0.753498f
                         },
                         new
                         {
                             id = 211,
-                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.951886f,
-                            net_income = 0.17686665f
+                            date = new DateTime(2020, 12, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.002106444f,
+                            net_income = 0.098332286f
                         },
                         new
                         {
                             id = 212,
-                            date = new DateTime(2020, 5, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.0028980654f,
-                            net_income = 0.34201783f
+                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7743853f,
+                            net_income = 0.54386634f
                         },
                         new
                         {
                             id = 213,
-                            date = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26056266f,
-                            net_income = 0.9639807f
+                            date = new DateTime(2020, 8, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.12588073f,
+                            net_income = 0.89416933f
                         },
                         new
                         {
                             id = 214,
-                            date = new DateTime(2020, 11, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7694478f,
-                            net_income = 0.75777197f
+                            date = new DateTime(2020, 8, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.40551028f,
+                            net_income = 0.2471822f
                         },
                         new
                         {
                             id = 215,
-                            date = new DateTime(2020, 5, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26015717f,
-                            net_income = 0.6027696f
+                            date = new DateTime(2020, 9, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.007999581f,
+                            net_income = 0.8196889f
                         },
                         new
                         {
                             id = 216,
-                            date = new DateTime(2020, 7, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.37976167f,
-                            net_income = 0.9408044f
+                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6925786f,
+                            net_income = 0.45089436f
                         },
                         new
                         {
                             id = 217,
-                            date = new DateTime(2020, 12, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.03607568f,
-                            net_income = 0.008326224f
+                            date = new DateTime(2020, 10, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5692253f,
+                            net_income = 0.5366971f
                         },
                         new
                         {
                             id = 218,
-                            date = new DateTime(2020, 7, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.48922932f,
-                            net_income = 0.86275923f
+                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.73946196f,
+                            net_income = 0.27314648f
                         },
                         new
                         {
                             id = 219,
-                            date = new DateTime(2020, 1, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.32211596f,
-                            net_income = 0.06231059f
+                            date = new DateTime(2020, 12, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7287026f,
+                            net_income = 0.7935098f
                         },
                         new
                         {
                             id = 220,
-                            date = new DateTime(2020, 7, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5833859f,
-                            net_income = 0.66380453f
+                            date = new DateTime(2020, 8, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.35853204f,
+                            net_income = 0.056668095f
                         },
                         new
                         {
                             id = 221,
-                            date = new DateTime(2020, 5, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7200098f,
-                            net_income = 0.3060797f
+                            date = new DateTime(2020, 7, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.0021526124f,
+                            net_income = 0.49504966f
                         },
                         new
                         {
                             id = 222,
-                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9713976f,
-                            net_income = 0.7632484f
+                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.14954749f,
+                            net_income = 0.6370478f
                         },
                         new
                         {
                             id = 223,
-                            date = new DateTime(2020, 9, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9201986f,
-                            net_income = 0.5892964f
+                            date = new DateTime(2020, 12, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3194809f,
+                            net_income = 0.15887494f
                         },
                         new
                         {
                             id = 224,
-                            date = new DateTime(2020, 8, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.17109859f,
-                            net_income = 0.75834805f
+                            date = new DateTime(2020, 11, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7436579f,
+                            net_income = 0.8804445f
                         },
                         new
                         {
                             id = 225,
-                            date = new DateTime(2020, 10, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.34817043f,
-                            net_income = 0.17358221f
+                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2606607f,
+                            net_income = 0.4980664f
                         },
                         new
                         {
                             id = 226,
-                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.4404208f,
-                            net_income = 0.45863447f
+                            date = new DateTime(2020, 2, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.16079882f,
+                            net_income = 0.28911084f
                         },
                         new
                         {
                             id = 227,
-                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5299041f,
-                            net_income = 0.22270547f
+                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.64095795f,
+                            net_income = 0.5155139f
                         },
                         new
                         {
                             id = 228,
-                            date = new DateTime(2020, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7547734f,
-                            net_income = 0.2993436f
+                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.20712152f,
+                            net_income = 0.10009888f
                         },
                         new
                         {
                             id = 229,
-                            date = new DateTime(2020, 3, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.99358046f,
-                            net_income = 0.49335042f
+                            date = new DateTime(2020, 4, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3622743f,
+                            net_income = 0.24114934f
                         },
                         new
                         {
                             id = 230,
-                            date = new DateTime(2020, 4, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.015104885f,
-                            net_income = 0.035845067f
+                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5102868f,
+                            net_income = 0.71695316f
                         },
                         new
                         {
                             id = 231,
-                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.010103435f,
-                            net_income = 0.43103236f
+                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.061671764f,
+                            net_income = 0.5140531f
                         },
                         new
                         {
                             id = 232,
-                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7866006f,
-                            net_income = 0.14731734f
+                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2509634f,
+                            net_income = 0.721587f
                         },
                         new
                         {
                             id = 233,
-                            date = new DateTime(2020, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.14524126f,
-                            net_income = 0.2652971f
+                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5305069f,
+                            net_income = 0.9672011f
                         },
                         new
                         {
                             id = 234,
-                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.067350775f,
-                            net_income = 0.75320476f
+                            date = new DateTime(2020, 11, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8388611f,
+                            net_income = 0.51033026f
                         },
                         new
                         {
                             id = 235,
-                            date = new DateTime(2020, 9, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.0069984216f,
-                            net_income = 0.72820586f
+                            date = new DateTime(2020, 9, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.06611684f,
+                            net_income = 0.7711212f
                         },
                         new
                         {
                             id = 236,
-                            date = new DateTime(2020, 1, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.0016601713f,
-                            net_income = 0.29640895f
+                            date = new DateTime(2020, 2, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.51282287f,
+                            net_income = 0.0016749369f
                         },
                         new
                         {
                             id = 237,
-                            date = new DateTime(2020, 11, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.76358926f,
-                            net_income = 0.47699153f
+                            date = new DateTime(2020, 9, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3253348f,
+                            net_income = 0.97909564f
                         },
                         new
                         {
                             id = 238,
-                            date = new DateTime(2020, 1, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8505966f,
-                            net_income = 0.36347222f
+                            date = new DateTime(2020, 1, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5047367f,
+                            net_income = 0.5617124f
                         },
                         new
                         {
                             id = 239,
-                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5883427f,
-                            net_income = 0.7974187f
+                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9101032f,
+                            net_income = 0.96715474f
                         },
                         new
                         {
                             id = 240,
-                            date = new DateTime(2020, 7, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.1012706f,
-                            net_income = 0.8452696f
+                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.15908313f,
+                            net_income = 0.09688185f
                         },
                         new
                         {
                             id = 241,
-                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.38048887f,
-                            net_income = 0.102733076f
+                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.12188019f,
+                            net_income = 0.8559481f
                         },
                         new
                         {
                             id = 242,
-                            date = new DateTime(2020, 9, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.09445405f,
-                            net_income = 0.6783938f
+                            date = new DateTime(2020, 7, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.56752217f,
+                            net_income = 0.18606053f
                         },
                         new
                         {
                             id = 243,
-                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3396526f,
-                            net_income = 0.44397703f
+                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.15597056f,
+                            net_income = 0.00022267184f
                         },
                         new
                         {
                             id = 244,
-                            date = new DateTime(2020, 12, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26730862f,
-                            net_income = 0.93807906f
+                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.10153347f,
+                            net_income = 0.070656024f
                         },
                         new
                         {
                             id = 245,
-                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9470118f,
-                            net_income = 0.39684933f
+                            date = new DateTime(2020, 1, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9269406f,
+                            net_income = 0.56601083f
                         },
                         new
                         {
                             id = 246,
-                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7892772f,
-                            net_income = 0.9334629f
+                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.63830703f,
+                            net_income = 0.8477965f
                         },
                         new
                         {
                             id = 247,
-                            date = new DateTime(2020, 8, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.31279635f,
-                            net_income = 0.00027343983f
+                            date = new DateTime(2020, 10, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.16277167f,
+                            net_income = 0.25964284f
                         },
                         new
                         {
                             id = 248,
-                            date = new DateTime(2020, 9, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.75808835f,
-                            net_income = 0.6964302f
+                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2945186f,
+                            net_income = 0.01496689f
                         },
                         new
                         {
                             id = 249,
-                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7258515f,
-                            net_income = 0.14303216f
+                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.80123425f,
+                            net_income = 0.25225f
                         },
                         new
                         {
                             id = 250,
-                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.28454974f,
-                            net_income = 0.19934426f
+                            date = new DateTime(2020, 1, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.55565554f,
+                            net_income = 0.64197904f
                         });
                 });
 
@@ -1818,1502 +1818,1502 @@ namespace Server.Migrations
                         new
                         {
                             id = 1,
-                            date = new DateTime(2020, 12, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4457
+                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8526
                         },
                         new
                         {
                             id = 2,
-                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4783
+                            date = new DateTime(2020, 6, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5972
                         },
                         new
                         {
                             id = 3,
-                            date = new DateTime(2020, 10, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4903
+                            date = new DateTime(2020, 9, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5881
                         },
                         new
                         {
                             id = 4,
-                            date = new DateTime(2020, 3, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9563
+                            date = new DateTime(2020, 11, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1419
                         },
                         new
                         {
                             id = 5,
-                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5040
+                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4902
                         },
                         new
                         {
                             id = 6,
-                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4519
+                            date = new DateTime(2020, 7, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1989
                         },
                         new
                         {
                             id = 7,
-                            date = new DateTime(2020, 2, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2700
+                            date = new DateTime(2020, 4, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7783
                         },
                         new
                         {
                             id = 8,
-                            date = new DateTime(2020, 11, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8106
+                            date = new DateTime(2020, 7, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5450
                         },
                         new
                         {
                             id = 9,
-                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3057
+                            date = new DateTime(2020, 2, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5514
                         },
                         new
                         {
                             id = 10,
-                            date = new DateTime(2020, 2, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8642
+                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9652
                         },
                         new
                         {
                             id = 11,
-                            date = new DateTime(2020, 9, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4052
+                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9523
                         },
                         new
                         {
                             id = 12,
-                            date = new DateTime(2020, 7, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5676
+                            date = new DateTime(2020, 11, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1096
                         },
                         new
                         {
                             id = 13,
-                            date = new DateTime(2020, 2, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8333
+                            date = new DateTime(2020, 12, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9025
                         },
                         new
                         {
                             id = 14,
-                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6953
+                            date = new DateTime(2020, 7, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4794
                         },
                         new
                         {
                             id = 15,
-                            date = new DateTime(2020, 10, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2685
+                            date = new DateTime(2020, 9, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3313
                         },
                         new
                         {
                             id = 16,
-                            date = new DateTime(2020, 9, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7837
+                            date = new DateTime(2020, 5, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9173
                         },
                         new
                         {
                             id = 17,
-                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8961
+                            date = new DateTime(2020, 9, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7659
                         },
                         new
                         {
                             id = 18,
-                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1161
+                            date = new DateTime(2020, 8, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7921
                         },
                         new
                         {
                             id = 19,
-                            date = new DateTime(2020, 5, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3235
+                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4251
                         },
                         new
                         {
                             id = 20,
-                            date = new DateTime(2020, 7, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1060
+                            date = new DateTime(2020, 3, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8462
                         },
                         new
                         {
                             id = 21,
-                            date = new DateTime(2020, 1, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2989
+                            date = new DateTime(2020, 2, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5304
                         },
                         new
                         {
                             id = 22,
-                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2570
+                            date = new DateTime(2020, 2, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1520
                         },
                         new
                         {
                             id = 23,
-                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8254
+                            date = new DateTime(2020, 5, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2267
                         },
                         new
                         {
                             id = 24,
-                            date = new DateTime(2020, 10, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1769
+                            date = new DateTime(2020, 4, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8346
                         },
                         new
                         {
                             id = 25,
-                            date = new DateTime(2020, 9, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6671
+                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3011
                         },
                         new
                         {
                             id = 26,
-                            date = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6490
+                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8823
                         },
                         new
                         {
                             id = 27,
-                            date = new DateTime(2020, 12, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6838
+                            date = new DateTime(2020, 2, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9501
                         },
                         new
                         {
                             id = 28,
-                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9081
+                            date = new DateTime(2020, 2, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9334
                         },
                         new
                         {
                             id = 29,
-                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2158
+                            date = new DateTime(2020, 12, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6963
                         },
                         new
                         {
                             id = 30,
-                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4049
+                            date = new DateTime(2020, 5, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6930
                         },
                         new
                         {
                             id = 31,
-                            date = new DateTime(2020, 11, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7378
+                            date = new DateTime(2020, 7, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2566
                         },
                         new
                         {
                             id = 32,
-                            date = new DateTime(2020, 7, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2564
+                            date = new DateTime(2020, 10, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2891
                         },
                         new
                         {
                             id = 33,
-                            date = new DateTime(2020, 4, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3783
+                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4371
                         },
                         new
                         {
                             id = 34,
-                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3939
+                            date = new DateTime(2020, 5, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6278
                         },
                         new
                         {
                             id = 35,
-                            date = new DateTime(2020, 7, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8046
+                            date = new DateTime(2020, 1, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7667
                         },
                         new
                         {
                             id = 36,
-                            date = new DateTime(2020, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4688
+                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8823
                         },
                         new
                         {
                             id = 37,
-                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8917
+                            date = new DateTime(2020, 3, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4318
                         },
                         new
                         {
                             id = 38,
-                            date = new DateTime(2020, 12, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3737
+                            date = new DateTime(2020, 2, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8802
                         },
                         new
                         {
                             id = 39,
-                            date = new DateTime(2020, 1, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6558
+                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1359
                         },
                         new
                         {
                             id = 40,
-                            date = new DateTime(2020, 4, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9552
+                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9816
                         },
                         new
                         {
                             id = 41,
-                            date = new DateTime(2020, 1, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4836
+                            date = new DateTime(2020, 8, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6717
                         },
                         new
                         {
                             id = 42,
-                            date = new DateTime(2020, 9, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8805
+                            date = new DateTime(2020, 4, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2269
                         },
                         new
                         {
                             id = 43,
-                            date = new DateTime(2020, 5, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5866
+                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6302
                         },
                         new
                         {
                             id = 44,
-                            date = new DateTime(2020, 1, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4001
+                            date = new DateTime(2020, 6, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7404
                         },
                         new
                         {
                             id = 45,
-                            date = new DateTime(2020, 1, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3541
+                            date = new DateTime(2020, 3, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2228
                         },
                         new
                         {
                             id = 46,
-                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1261
+                            date = new DateTime(2020, 8, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1371
                         },
                         new
                         {
                             id = 47,
-                            date = new DateTime(2020, 6, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5772
+                            date = new DateTime(2020, 4, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6524
                         },
                         new
                         {
                             id = 48,
-                            date = new DateTime(2020, 8, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5405
+                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6882
                         },
                         new
                         {
                             id = 49,
-                            date = new DateTime(2020, 11, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8718
+                            date = new DateTime(2020, 7, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8043
                         },
                         new
                         {
                             id = 50,
-                            date = new DateTime(2020, 8, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2112
+                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2471
                         },
                         new
                         {
                             id = 51,
-                            date = new DateTime(2020, 3, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5552
+                            date = new DateTime(2020, 3, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9540
                         },
                         new
                         {
                             id = 52,
-                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1292
+                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1357
                         },
                         new
                         {
                             id = 53,
-                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3901
+                            date = new DateTime(2020, 1, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7079
                         },
                         new
                         {
                             id = 54,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1501
+                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3653
                         },
                         new
                         {
                             id = 55,
-                            date = new DateTime(2020, 11, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4155
+                            date = new DateTime(2020, 7, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2132
                         },
                         new
                         {
                             id = 56,
-                            date = new DateTime(2020, 5, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7282
+                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4806
                         },
                         new
                         {
                             id = 57,
-                            date = new DateTime(2020, 1, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8451
+                            date = new DateTime(2020, 9, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6319
                         },
                         new
                         {
                             id = 58,
-                            date = new DateTime(2020, 2, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3348
+                            date = new DateTime(2020, 3, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6887
                         },
                         new
                         {
                             id = 59,
-                            date = new DateTime(2020, 7, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1215
+                            date = new DateTime(2020, 12, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6788
                         },
                         new
                         {
                             id = 60,
-                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7576
+                            date = new DateTime(2020, 9, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4743
                         },
                         new
                         {
                             id = 61,
-                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1581
+                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2608
                         },
                         new
                         {
                             id = 62,
-                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7264
+                            date = new DateTime(2020, 1, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1048
                         },
                         new
                         {
                             id = 63,
-                            date = new DateTime(2020, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9794
+                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2982
                         },
                         new
                         {
                             id = 64,
-                            date = new DateTime(2020, 1, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7163
+                            date = new DateTime(2020, 5, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3466
                         },
                         new
                         {
                             id = 65,
-                            date = new DateTime(2020, 7, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2866
+                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4686
                         },
                         new
                         {
                             id = 66,
-                            date = new DateTime(2020, 8, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8715
-                        },
-                        new
-                        {
-                            id = 67,
-                            date = new DateTime(2020, 11, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2910
-                        },
-                        new
-                        {
-                            id = 68,
-                            date = new DateTime(2020, 7, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1914
-                        },
-                        new
-                        {
-                            id = 69,
-                            date = new DateTime(2020, 8, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8914
-                        },
-                        new
-                        {
-                            id = 70,
-                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8699
-                        },
-                        new
-                        {
-                            id = 71,
-                            date = new DateTime(2020, 5, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9720
-                        },
-                        new
-                        {
-                            id = 72,
-                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3597
-                        },
-                        new
-                        {
-                            id = 73,
-                            date = new DateTime(2020, 11, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5942
-                        },
-                        new
-                        {
-                            id = 74,
-                            date = new DateTime(2020, 3, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3301
-                        },
-                        new
-                        {
-                            id = 75,
-                            date = new DateTime(2020, 5, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4849
-                        },
-                        new
-                        {
-                            id = 76,
-                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4900
-                        },
-                        new
-                        {
-                            id = 77,
-                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1023
-                        },
-                        new
-                        {
-                            id = 78,
-                            date = new DateTime(2020, 2, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6060
-                        },
-                        new
-                        {
-                            id = 79,
-                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7013
-                        },
-                        new
-                        {
-                            id = 80,
-                            date = new DateTime(2020, 8, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4912
-                        },
-                        new
-                        {
-                            id = 81,
-                            date = new DateTime(2020, 1, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2074
-                        },
-                        new
-                        {
-                            id = 82,
-                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1951
-                        },
-                        new
-                        {
-                            id = 83,
-                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6400
-                        },
-                        new
-                        {
-                            id = 84,
-                            date = new DateTime(2020, 2, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5949
-                        },
-                        new
-                        {
-                            id = 85,
-                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4694
-                        },
-                        new
-                        {
-                            id = 86,
-                            date = new DateTime(2020, 5, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5654
-                        },
-                        new
-                        {
-                            id = 87,
-                            date = new DateTime(2020, 8, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1900
-                        },
-                        new
-                        {
-                            id = 88,
-                            date = new DateTime(2020, 2, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6957
-                        },
-                        new
-                        {
-                            id = 89,
-                            date = new DateTime(2020, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6468
-                        },
-                        new
-                        {
-                            id = 90,
-                            date = new DateTime(2020, 8, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3431
-                        },
-                        new
-                        {
-                            id = 91,
-                            date = new DateTime(2020, 9, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2508
-                        },
-                        new
-                        {
-                            id = 92,
-                            date = new DateTime(2020, 12, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5017
-                        },
-                        new
-                        {
-                            id = 93,
-                            date = new DateTime(2020, 7, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8283
-                        },
-                        new
-                        {
-                            id = 94,
-                            date = new DateTime(2020, 6, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8645
-                        },
-                        new
-                        {
-                            id = 95,
-                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9267
-                        },
-                        new
-                        {
-                            id = 96,
-                            date = new DateTime(2020, 2, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7690
-                        },
-                        new
-                        {
-                            id = 97,
-                            date = new DateTime(2020, 11, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6337
-                        },
-                        new
-                        {
-                            id = 98,
-                            date = new DateTime(2020, 1, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5821
-                        },
-                        new
-                        {
-                            id = 99,
-                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9999
-                        },
-                        new
-                        {
-                            id = 100,
-                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7729
-                        },
-                        new
-                        {
-                            id = 101,
-                            date = new DateTime(2020, 11, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6394
-                        },
-                        new
-                        {
-                            id = 102,
-                            date = new DateTime(2020, 12, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3159
-                        },
-                        new
-                        {
-                            id = 103,
-                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1381
-                        },
-                        new
-                        {
-                            id = 104,
-                            date = new DateTime(2020, 4, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2289
-                        },
-                        new
-                        {
-                            id = 105,
-                            date = new DateTime(2020, 4, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8463
-                        },
-                        new
-                        {
-                            id = 106,
-                            date = new DateTime(2020, 1, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3475
-                        },
-                        new
-                        {
-                            id = 107,
-                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5647
-                        },
-                        new
-                        {
-                            id = 108,
-                            date = new DateTime(2020, 9, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4873
-                        },
-                        new
-                        {
-                            id = 109,
-                            date = new DateTime(2020, 10, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1998
-                        },
-                        new
-                        {
-                            id = 110,
-                            date = new DateTime(2020, 5, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9240
-                        },
-                        new
-                        {
-                            id = 111,
-                            date = new DateTime(2020, 5, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9116
-                        },
-                        new
-                        {
-                            id = 112,
-                            date = new DateTime(2020, 5, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9013
-                        },
-                        new
-                        {
-                            id = 113,
-                            date = new DateTime(2020, 1, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7759
-                        },
-                        new
-                        {
-                            id = 114,
-                            date = new DateTime(2020, 8, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5751
-                        },
-                        new
-                        {
-                            id = 115,
-                            date = new DateTime(2020, 4, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2071
-                        },
-                        new
-                        {
-                            id = 116,
-                            date = new DateTime(2020, 9, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7480
-                        },
-                        new
-                        {
-                            id = 117,
-                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7116
-                        },
-                        new
-                        {
-                            id = 118,
-                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8409
-                        },
-                        new
-                        {
-                            id = 119,
-                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4726
-                        },
-                        new
-                        {
-                            id = 120,
-                            date = new DateTime(2020, 8, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2648
-                        },
-                        new
-                        {
-                            id = 121,
-                            date = new DateTime(2020, 9, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7375
-                        },
-                        new
-                        {
-                            id = 122,
-                            date = new DateTime(2020, 12, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2900
-                        },
-                        new
-                        {
-                            id = 123,
-                            date = new DateTime(2020, 2, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8007
-                        },
-                        new
-                        {
-                            id = 124,
-                            date = new DateTime(2020, 9, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8437
-                        },
-                        new
-                        {
-                            id = 125,
-                            date = new DateTime(2020, 8, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6410
-                        },
-                        new
-                        {
-                            id = 126,
-                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3586
-                        },
-                        new
-                        {
-                            id = 127,
-                            date = new DateTime(2020, 8, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1662
-                        },
-                        new
-                        {
-                            id = 128,
-                            date = new DateTime(2020, 11, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5736
-                        },
-                        new
-                        {
-                            id = 129,
-                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1582
-                        },
-                        new
-                        {
-                            id = 130,
-                            date = new DateTime(2020, 4, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5879
-                        },
-                        new
-                        {
-                            id = 131,
-                            date = new DateTime(2020, 2, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1538
-                        },
-                        new
-                        {
-                            id = 132,
-                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9744
-                        },
-                        new
-                        {
-                            id = 133,
-                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7967
-                        },
-                        new
-                        {
-                            id = 134,
-                            date = new DateTime(2020, 2, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5611
-                        },
-                        new
-                        {
-                            id = 135,
-                            date = new DateTime(2020, 12, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1212
-                        },
-                        new
-                        {
-                            id = 136,
-                            date = new DateTime(2020, 1, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8585
-                        },
-                        new
-                        {
-                            id = 137,
-                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7370
-                        },
-                        new
-                        {
-                            id = 138,
-                            date = new DateTime(2020, 6, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7804
-                        },
-                        new
-                        {
-                            id = 139,
-                            date = new DateTime(2020, 5, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3227
-                        },
-                        new
-                        {
-                            id = 140,
-                            date = new DateTime(2020, 1, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            date = new DateTime(2020, 4, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             production = 4118
                         },
                         new
                         {
+                            id = 67,
+                            date = new DateTime(2020, 9, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3125
+                        },
+                        new
+                        {
+                            id = 68,
+                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3916
+                        },
+                        new
+                        {
+                            id = 69,
+                            date = new DateTime(2020, 11, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8614
+                        },
+                        new
+                        {
+                            id = 70,
+                            date = new DateTime(2020, 12, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9961
+                        },
+                        new
+                        {
+                            id = 71,
+                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3910
+                        },
+                        new
+                        {
+                            id = 72,
+                            date = new DateTime(2020, 7, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1970
+                        },
+                        new
+                        {
+                            id = 73,
+                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9960
+                        },
+                        new
+                        {
+                            id = 74,
+                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8073
+                        },
+                        new
+                        {
+                            id = 75,
+                            date = new DateTime(2020, 11, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9552
+                        },
+                        new
+                        {
+                            id = 76,
+                            date = new DateTime(2020, 9, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3713
+                        },
+                        new
+                        {
+                            id = 77,
+                            date = new DateTime(2020, 12, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8044
+                        },
+                        new
+                        {
+                            id = 78,
+                            date = new DateTime(2020, 12, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7634
+                        },
+                        new
+                        {
+                            id = 79,
+                            date = new DateTime(2020, 1, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8572
+                        },
+                        new
+                        {
+                            id = 80,
+                            date = new DateTime(2020, 11, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3358
+                        },
+                        new
+                        {
+                            id = 81,
+                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7754
+                        },
+                        new
+                        {
+                            id = 82,
+                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9566
+                        },
+                        new
+                        {
+                            id = 83,
+                            date = new DateTime(2020, 9, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6477
+                        },
+                        new
+                        {
+                            id = 84,
+                            date = new DateTime(2020, 3, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1371
+                        },
+                        new
+                        {
+                            id = 85,
+                            date = new DateTime(2020, 3, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1065
+                        },
+                        new
+                        {
+                            id = 86,
+                            date = new DateTime(2020, 4, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4502
+                        },
+                        new
+                        {
+                            id = 87,
+                            date = new DateTime(2020, 3, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7699
+                        },
+                        new
+                        {
+                            id = 88,
+                            date = new DateTime(2020, 12, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9789
+                        },
+                        new
+                        {
+                            id = 89,
+                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3255
+                        },
+                        new
+                        {
+                            id = 90,
+                            date = new DateTime(2020, 8, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5244
+                        },
+                        new
+                        {
+                            id = 91,
+                            date = new DateTime(2020, 8, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8169
+                        },
+                        new
+                        {
+                            id = 92,
+                            date = new DateTime(2020, 9, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1874
+                        },
+                        new
+                        {
+                            id = 93,
+                            date = new DateTime(2020, 6, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4323
+                        },
+                        new
+                        {
+                            id = 94,
+                            date = new DateTime(2020, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5130
+                        },
+                        new
+                        {
+                            id = 95,
+                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5663
+                        },
+                        new
+                        {
+                            id = 96,
+                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3976
+                        },
+                        new
+                        {
+                            id = 97,
+                            date = new DateTime(2020, 11, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2680
+                        },
+                        new
+                        {
+                            id = 98,
+                            date = new DateTime(2020, 8, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6839
+                        },
+                        new
+                        {
+                            id = 99,
+                            date = new DateTime(2020, 11, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4764
+                        },
+                        new
+                        {
+                            id = 100,
+                            date = new DateTime(2020, 11, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6709
+                        },
+                        new
+                        {
+                            id = 101,
+                            date = new DateTime(2020, 8, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8019
+                        },
+                        new
+                        {
+                            id = 102,
+                            date = new DateTime(2020, 8, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9773
+                        },
+                        new
+                        {
+                            id = 103,
+                            date = new DateTime(2020, 12, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9636
+                        },
+                        new
+                        {
+                            id = 104,
+                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4629
+                        },
+                        new
+                        {
+                            id = 105,
+                            date = new DateTime(2020, 11, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4168
+                        },
+                        new
+                        {
+                            id = 106,
+                            date = new DateTime(2020, 2, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3130
+                        },
+                        new
+                        {
+                            id = 107,
+                            date = new DateTime(2020, 8, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2144
+                        },
+                        new
+                        {
+                            id = 108,
+                            date = new DateTime(2020, 9, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2932
+                        },
+                        new
+                        {
+                            id = 109,
+                            date = new DateTime(2020, 12, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1487
+                        },
+                        new
+                        {
+                            id = 110,
+                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4585
+                        },
+                        new
+                        {
+                            id = 111,
+                            date = new DateTime(2020, 9, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6432
+                        },
+                        new
+                        {
+                            id = 112,
+                            date = new DateTime(2020, 12, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1223
+                        },
+                        new
+                        {
+                            id = 113,
+                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2031
+                        },
+                        new
+                        {
+                            id = 114,
+                            date = new DateTime(2020, 11, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5241
+                        },
+                        new
+                        {
+                            id = 115,
+                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4870
+                        },
+                        new
+                        {
+                            id = 116,
+                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2999
+                        },
+                        new
+                        {
+                            id = 117,
+                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4152
+                        },
+                        new
+                        {
+                            id = 118,
+                            date = new DateTime(2020, 6, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4399
+                        },
+                        new
+                        {
+                            id = 119,
+                            date = new DateTime(2020, 1, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8132
+                        },
+                        new
+                        {
+                            id = 120,
+                            date = new DateTime(2020, 4, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4393
+                        },
+                        new
+                        {
+                            id = 121,
+                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5937
+                        },
+                        new
+                        {
+                            id = 122,
+                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6269
+                        },
+                        new
+                        {
+                            id = 123,
+                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8784
+                        },
+                        new
+                        {
+                            id = 124,
+                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2494
+                        },
+                        new
+                        {
+                            id = 125,
+                            date = new DateTime(2020, 9, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8111
+                        },
+                        new
+                        {
+                            id = 126,
+                            date = new DateTime(2020, 6, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3514
+                        },
+                        new
+                        {
+                            id = 127,
+                            date = new DateTime(2020, 3, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2593
+                        },
+                        new
+                        {
+                            id = 128,
+                            date = new DateTime(2020, 4, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4070
+                        },
+                        new
+                        {
+                            id = 129,
+                            date = new DateTime(2020, 9, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6432
+                        },
+                        new
+                        {
+                            id = 130,
+                            date = new DateTime(2020, 5, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4485
+                        },
+                        new
+                        {
+                            id = 131,
+                            date = new DateTime(2020, 4, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7711
+                        },
+                        new
+                        {
+                            id = 132,
+                            date = new DateTime(2020, 12, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1221
+                        },
+                        new
+                        {
+                            id = 133,
+                            date = new DateTime(2020, 10, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1855
+                        },
+                        new
+                        {
+                            id = 134,
+                            date = new DateTime(2020, 12, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6041
+                        },
+                        new
+                        {
+                            id = 135,
+                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5106
+                        },
+                        new
+                        {
+                            id = 136,
+                            date = new DateTime(2020, 9, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6276
+                        },
+                        new
+                        {
+                            id = 137,
+                            date = new DateTime(2020, 2, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2553
+                        },
+                        new
+                        {
+                            id = 138,
+                            date = new DateTime(2020, 8, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2436
+                        },
+                        new
+                        {
+                            id = 139,
+                            date = new DateTime(2020, 11, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3800
+                        },
+                        new
+                        {
+                            id = 140,
+                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9783
+                        },
+                        new
+                        {
                             id = 141,
-                            date = new DateTime(2020, 4, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7646
+                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8984
                         },
                         new
                         {
                             id = 142,
-                            date = new DateTime(2020, 1, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5725
+                            date = new DateTime(2020, 4, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3959
                         },
                         new
                         {
                             id = 143,
-                            date = new DateTime(2020, 11, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3178
+                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9893
                         },
                         new
                         {
                             id = 144,
-                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1005
+                            date = new DateTime(2020, 2, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7207
                         },
                         new
                         {
                             id = 145,
-                            date = new DateTime(2020, 6, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1160
+                            date = new DateTime(2020, 6, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6065
                         },
                         new
                         {
                             id = 146,
-                            date = new DateTime(2020, 9, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8730
+                            date = new DateTime(2020, 2, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1355
                         },
                         new
                         {
                             id = 147,
-                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4427
+                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6209
                         },
                         new
                         {
                             id = 148,
-                            date = new DateTime(2020, 12, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9125
+                            date = new DateTime(2020, 11, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2141
                         },
                         new
                         {
                             id = 149,
-                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8591
+                            date = new DateTime(2020, 2, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7494
                         },
                         new
                         {
                             id = 150,
-                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6316
+                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8998
                         },
                         new
                         {
                             id = 151,
-                            date = new DateTime(2020, 11, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8907
+                            date = new DateTime(2020, 4, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4518
                         },
                         new
                         {
                             id = 152,
-                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2305
+                            date = new DateTime(2020, 1, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6275
                         },
                         new
                         {
                             id = 153,
-                            date = new DateTime(2020, 12, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6411
+                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3209
                         },
                         new
                         {
                             id = 154,
-                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2616
+                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3811
                         },
                         new
                         {
                             id = 155,
-                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7377
+                            date = new DateTime(2020, 11, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6377
                         },
                         new
                         {
                             id = 156,
-                            date = new DateTime(2020, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8196
+                            date = new DateTime(2020, 8, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1294
                         },
                         new
                         {
                             id = 157,
-                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2256
+                            date = new DateTime(2020, 6, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6786
                         },
                         new
                         {
                             id = 158,
-                            date = new DateTime(2020, 10, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3342
+                            date = new DateTime(2020, 12, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1861
                         },
                         new
                         {
                             id = 159,
-                            date = new DateTime(2020, 10, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9546
+                            date = new DateTime(2020, 8, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9186
                         },
                         new
                         {
                             id = 160,
-                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3409
+                            date = new DateTime(2020, 4, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7178
                         },
                         new
                         {
                             id = 161,
-                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9450
+                            date = new DateTime(2020, 1, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6889
                         },
                         new
                         {
                             id = 162,
-                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2587
+                            date = new DateTime(2020, 7, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3365
                         },
                         new
                         {
                             id = 163,
-                            date = new DateTime(2020, 7, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3690
+                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7238
                         },
                         new
                         {
                             id = 164,
-                            date = new DateTime(2020, 2, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7328
+                            date = new DateTime(2020, 7, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1411
                         },
                         new
                         {
                             id = 165,
-                            date = new DateTime(2020, 1, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8099
+                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2087
                         },
                         new
                         {
                             id = 166,
-                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5730
+                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2979
                         },
                         new
                         {
                             id = 167,
-                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9645
+                            date = new DateTime(2020, 5, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9571
                         },
                         new
                         {
                             id = 168,
-                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2704
+                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4644
                         },
                         new
                         {
                             id = 169,
-                            date = new DateTime(2020, 11, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5811
+                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9275
                         },
                         new
                         {
                             id = 170,
-                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1390
+                            date = new DateTime(2020, 2, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1120
                         },
                         new
                         {
                             id = 171,
                             date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2014
+                            production = 9574
                         },
                         new
                         {
                             id = 172,
-                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8456
+                            date = new DateTime(2020, 4, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7177
                         },
                         new
                         {
                             id = 173,
-                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9337
+                            date = new DateTime(2020, 9, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1632
                         },
                         new
                         {
                             id = 174,
-                            date = new DateTime(2020, 2, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3196
-                        },
-                        new
-                        {
-                            id = 175,
-                            date = new DateTime(2020, 3, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7271
-                        },
-                        new
-                        {
-                            id = 176,
-                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9408
-                        },
-                        new
-                        {
-                            id = 177,
-                            date = new DateTime(2020, 5, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1183
-                        },
-                        new
-                        {
-                            id = 178,
-                            date = new DateTime(2020, 7, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2268
-                        },
-                        new
-                        {
-                            id = 179,
-                            date = new DateTime(2020, 12, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5510
-                        },
-                        new
-                        {
-                            id = 180,
-                            date = new DateTime(2020, 8, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5918
-                        },
-                        new
-                        {
-                            id = 181,
-                            date = new DateTime(2020, 4, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3254
-                        },
-                        new
-                        {
-                            id = 182,
-                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7931
-                        },
-                        new
-                        {
-                            id = 183,
-                            date = new DateTime(2020, 6, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3054
-                        },
-                        new
-                        {
-                            id = 184,
-                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8886
-                        },
-                        new
-                        {
-                            id = 185,
-                            date = new DateTime(2020, 8, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7383
-                        },
-                        new
-                        {
-                            id = 186,
-                            date = new DateTime(2020, 7, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1919
-                        },
-                        new
-                        {
-                            id = 187,
-                            date = new DateTime(2020, 8, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1135
-                        },
-                        new
-                        {
-                            id = 188,
-                            date = new DateTime(2020, 9, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5817
-                        },
-                        new
-                        {
-                            id = 189,
-                            date = new DateTime(2020, 12, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             production = 2804
                         },
                         new
                         {
-                            id = 190,
+                            id = 175,
+                            date = new DateTime(2020, 9, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6534
+                        },
+                        new
+                        {
+                            id = 176,
+                            date = new DateTime(2020, 1, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7950
+                        },
+                        new
+                        {
+                            id = 177,
+                            date = new DateTime(2020, 8, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5514
+                        },
+                        new
+                        {
+                            id = 178,
+                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9508
+                        },
+                        new
+                        {
+                            id = 179,
+                            date = new DateTime(2020, 5, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8825
+                        },
+                        new
+                        {
+                            id = 180,
+                            date = new DateTime(2020, 10, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7217
+                        },
+                        new
+                        {
+                            id = 181,
+                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7203
+                        },
+                        new
+                        {
+                            id = 182,
+                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1613
+                        },
+                        new
+                        {
+                            id = 183,
+                            date = new DateTime(2020, 5, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9151
+                        },
+                        new
+                        {
+                            id = 184,
                             date = new DateTime(2020, 6, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7133
+                            production = 1005
+                        },
+                        new
+                        {
+                            id = 185,
+                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2032
+                        },
+                        new
+                        {
+                            id = 186,
+                            date = new DateTime(2020, 9, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9384
+                        },
+                        new
+                        {
+                            id = 187,
+                            date = new DateTime(2020, 2, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6153
+                        },
+                        new
+                        {
+                            id = 188,
+                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4263
+                        },
+                        new
+                        {
+                            id = 189,
+                            date = new DateTime(2020, 8, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2101
+                        },
+                        new
+                        {
+                            id = 190,
+                            date = new DateTime(2020, 6, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6993
                         },
                         new
                         {
                             id = 191,
-                            date = new DateTime(2020, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4343
+                            date = new DateTime(2020, 11, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4541
                         },
                         new
                         {
                             id = 192,
-                            date = new DateTime(2020, 7, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4445
+                            date = new DateTime(2020, 8, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1395
                         },
                         new
                         {
                             id = 193,
-                            date = new DateTime(2020, 11, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6625
+                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2250
                         },
                         new
                         {
                             id = 194,
-                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5743
+                            date = new DateTime(2020, 5, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9920
                         },
                         new
                         {
                             id = 195,
-                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3044
+                            date = new DateTime(2020, 12, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6089
                         },
                         new
                         {
                             id = 196,
-                            date = new DateTime(2020, 7, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9691
+                            date = new DateTime(2020, 1, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3079
                         },
                         new
                         {
                             id = 197,
-                            date = new DateTime(2020, 7, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9639
+                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1484
                         },
                         new
                         {
                             id = 198,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5242
+                            date = new DateTime(2020, 6, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4889
                         },
                         new
                         {
                             id = 199,
-                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7554
+                            date = new DateTime(2020, 7, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3158
                         },
                         new
                         {
                             id = 200,
-                            date = new DateTime(2020, 7, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3296
+                            date = new DateTime(2020, 7, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2701
                         },
                         new
                         {
                             id = 201,
-                            date = new DateTime(2020, 5, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1447
+                            date = new DateTime(2020, 6, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5182
                         },
                         new
                         {
                             id = 202,
-                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1900
+                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7284
                         },
                         new
                         {
                             id = 203,
-                            date = new DateTime(2020, 12, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6853
+                            date = new DateTime(2020, 11, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5576
                         },
                         new
                         {
                             id = 204,
-                            date = new DateTime(2020, 11, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9683
+                            date = new DateTime(2020, 8, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7885
                         },
                         new
                         {
                             id = 205,
-                            date = new DateTime(2020, 7, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4502
+                            date = new DateTime(2020, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1980
                         },
                         new
                         {
                             id = 206,
-                            date = new DateTime(2020, 12, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4327
+                            date = new DateTime(2020, 12, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7287
                         },
                         new
                         {
                             id = 207,
-                            date = new DateTime(2020, 4, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6148
+                            date = new DateTime(2020, 10, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7826
                         },
                         new
                         {
                             id = 208,
-                            date = new DateTime(2020, 7, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9421
+                            date = new DateTime(2020, 5, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3063
                         },
                         new
                         {
                             id = 209,
-                            date = new DateTime(2020, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5583
+                            date = new DateTime(2020, 5, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2226
                         },
                         new
                         {
                             id = 210,
-                            date = new DateTime(2020, 9, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9972
+                            date = new DateTime(2020, 9, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8740
                         },
                         new
                         {
                             id = 211,
-                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1538
+                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8237
                         },
                         new
                         {
                             id = 212,
-                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7358
+                            date = new DateTime(2020, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5466
                         },
                         new
                         {
                             id = 213,
-                            date = new DateTime(2020, 11, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9958
+                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4617
                         },
                         new
                         {
                             id = 214,
-                            date = new DateTime(2020, 11, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5910
+                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6269
                         },
                         new
                         {
                             id = 215,
-                            date = new DateTime(2020, 8, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6800
+                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3940
                         },
                         new
                         {
                             id = 216,
-                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8215
+                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9829
                         },
                         new
                         {
                             id = 217,
-                            date = new DateTime(2020, 2, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7272
+                            date = new DateTime(2020, 12, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6557
                         },
                         new
                         {
                             id = 218,
-                            date = new DateTime(2020, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8685
+                            date = new DateTime(2020, 8, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1441
                         },
                         new
                         {
                             id = 219,
-                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7215
+                            date = new DateTime(2020, 3, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6392
                         },
                         new
                         {
                             id = 220,
-                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9169
+                            date = new DateTime(2020, 2, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8681
                         },
                         new
                         {
                             id = 221,
-                            date = new DateTime(2020, 4, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8591
+                            date = new DateTime(2020, 4, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9822
                         },
                         new
                         {
                             id = 222,
-                            date = new DateTime(2020, 3, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8883
+                            date = new DateTime(2020, 9, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9602
                         },
                         new
                         {
                             id = 223,
-                            date = new DateTime(2020, 3, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7689
+                            date = new DateTime(2020, 8, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1056
                         },
                         new
                         {
                             id = 224,
-                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3688
+                            date = new DateTime(2020, 1, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9037
                         },
                         new
                         {
                             id = 225,
-                            date = new DateTime(2020, 11, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2474
+                            date = new DateTime(2020, 4, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2156
                         },
                         new
                         {
                             id = 226,
-                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7765
+                            date = new DateTime(2020, 12, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9903
                         },
                         new
                         {
                             id = 227,
-                            date = new DateTime(2020, 10, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3788
+                            date = new DateTime(2020, 11, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1715
                         },
                         new
                         {
                             id = 228,
-                            date = new DateTime(2020, 3, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4902
+                            date = new DateTime(2020, 9, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3096
                         },
                         new
                         {
                             id = 229,
-                            date = new DateTime(2020, 2, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1073
+                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2637
                         },
                         new
                         {
                             id = 230,
-                            date = new DateTime(2020, 11, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1677
+                            date = new DateTime(2020, 4, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2628
                         },
                         new
                         {
                             id = 231,
-                            date = new DateTime(2020, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4156
+                            date = new DateTime(2020, 12, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4076
                         },
                         new
                         {
                             id = 232,
-                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8250
+                            date = new DateTime(2020, 7, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9265
                         },
                         new
                         {
                             id = 233,
-                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2233
+                            date = new DateTime(2020, 10, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5790
                         },
                         new
                         {
                             id = 234,
-                            date = new DateTime(2020, 1, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5435
+                            date = new DateTime(2020, 7, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2430
                         },
                         new
                         {
                             id = 235,
-                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7610
+                            date = new DateTime(2020, 8, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3598
                         },
                         new
                         {
                             id = 236,
-                            date = new DateTime(2020, 7, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4267
+                            date = new DateTime(2020, 5, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3036
                         },
                         new
                         {
                             id = 237,
-                            date = new DateTime(2020, 6, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5787
+                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2599
                         },
                         new
                         {
                             id = 238,
-                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1751
+                            date = new DateTime(2020, 1, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2364
                         },
                         new
                         {
                             id = 239,
-                            date = new DateTime(2020, 3, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6465
+                            date = new DateTime(2020, 9, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1891
                         },
                         new
                         {
                             id = 240,
-                            date = new DateTime(2020, 10, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5153
+                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1860
                         },
                         new
                         {
                             id = 241,
-                            date = new DateTime(2020, 1, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1388
+                            date = new DateTime(2020, 12, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2012
                         },
                         new
                         {
                             id = 242,
-                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5523
+                            date = new DateTime(2020, 2, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1830
                         },
                         new
                         {
                             id = 243,
-                            date = new DateTime(2020, 1, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6124
+                            date = new DateTime(2020, 1, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2720
                         },
                         new
                         {
                             id = 244,
-                            date = new DateTime(2020, 9, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2766
+                            date = new DateTime(2020, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6861
                         },
                         new
                         {
                             id = 245,
-                            date = new DateTime(2020, 9, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7493
+                            date = new DateTime(2020, 6, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4556
                         },
                         new
                         {
                             id = 246,
-                            date = new DateTime(2020, 7, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5090
+                            date = new DateTime(2020, 6, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3352
                         },
                         new
                         {
                             id = 247,
-                            date = new DateTime(2020, 3, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1440
+                            date = new DateTime(2020, 7, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5283
                         },
                         new
                         {
                             id = 248,
-                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2324
+                            date = new DateTime(2020, 2, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8701
                         },
                         new
                         {
                             id = 249,
-                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7889
+                            date = new DateTime(2020, 8, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9186
                         },
                         new
                         {
                             id = 250,
-                            date = new DateTime(2020, 11, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9289
+                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2531
                         });
                 });
 
@@ -3354,501 +3354,501 @@ namespace Server.Migrations
                         {
                             id = 1,
                             customer = "XYZ Inc.",
-                            description = "Sales promotion",
-                            elapsed_time = 404.0,
-                            estimated_time = 488.0,
-                            price = 953.82f,
-                            status = 0
+                            description = "Product development",
+                            elapsed_time = 436.0,
+                            estimated_time = 711.0,
+                            price = 388.09f,
+                            status = 4
                         },
                         new
                         {
                             id = 2,
                             customer = "Test Org.",
                             description = "Product development",
-                            elapsed_time = 805.0,
-                            estimated_time = 277.0,
-                            price = 137.95f,
+                            elapsed_time = 459.0,
+                            estimated_time = 758.0,
+                            price = 682.48f,
                             status = 4
                         },
                         new
                         {
                             id = 3,
-                            customer = "Test Org.",
-                            description = "Software development",
-                            elapsed_time = 802.0,
-                            estimated_time = 786.0,
-                            price = 380.2f,
+                            customer = "123 Company",
+                            description = "Marketing campaign",
+                            elapsed_time = 733.0,
+                            estimated_time = 52.0,
+                            price = 768.73f,
                             status = 2
                         },
                         new
                         {
                             id = 4,
-                            customer = "XYZ Inc.",
+                            customer = "Demo Group",
                             description = "Sales promotion",
-                            elapsed_time = 279.0,
-                            estimated_time = 234.0,
-                            price = 550.51f,
-                            status = 2
+                            elapsed_time = 926.0,
+                            estimated_time = 421.0,
+                            price = 379.65f,
+                            status = 4
                         },
                         new
                         {
                             id = 5,
-                            customer = "Test Org.",
-                            description = "Software development",
-                            elapsed_time = 168.0,
-                            estimated_time = 217.0,
-                            price = 371.8f,
-                            status = 1
-                        },
-                        new
-                        {
-                            id = 6,
-                            customer = "123 Company",
-                            description = "Software development",
-                            elapsed_time = 475.0,
-                            estimated_time = 627.0,
-                            price = 172.94f,
-                            status = 4
-                        },
-                        new
-                        {
-                            id = 7,
-                            customer = "123 Company",
-                            description = "Software development",
-                            elapsed_time = 675.0,
-                            estimated_time = 235.0,
-                            price = 586.79f,
-                            status = 2
-                        },
-                        new
-                        {
-                            id = 8,
-                            customer = "XYZ Inc.",
+                            customer = "ABC Corporation",
                             description = "Website design",
-                            elapsed_time = 126.0,
-                            estimated_time = 40.0,
-                            price = 651.55f,
-                            status = 2
-                        },
-                        new
-                        {
-                            id = 9,
-                            customer = "Test Org.",
-                            description = "Website design",
-                            elapsed_time = 77.0,
-                            estimated_time = 72.0,
-                            price = 262.94f,
+                            elapsed_time = 12.0,
+                            estimated_time = 277.0,
+                            price = 338.67f,
                             status = 0
                         },
                         new
                         {
-                            id = 10,
+                            id = 6,
+                            customer = "XYZ Inc.",
+                            description = "Sales promotion",
+                            elapsed_time = 228.0,
+                            estimated_time = 586.0,
+                            price = 359.64f,
+                            status = 5
+                        },
+                        new
+                        {
+                            id = 7,
+                            customer = "Demo Group",
+                            description = "Product development",
+                            elapsed_time = 88.0,
+                            estimated_time = 789.0,
+                            price = 337.35f,
+                            status = 1
+                        },
+                        new
+                        {
+                            id = 8,
+                            customer = "123 Company",
+                            description = "Sales promotion",
+                            elapsed_time = 661.0,
+                            estimated_time = 452.0,
+                            price = 200.62f,
+                            status = 5
+                        },
+                        new
+                        {
+                            id = 9,
                             customer = "ABC Corporation",
                             description = "Software development",
-                            elapsed_time = 957.0,
-                            estimated_time = 509.0,
-                            price = 290.75f,
-                            status = 4
+                            elapsed_time = 816.0,
+                            estimated_time = 131.0,
+                            price = 460.03f,
+                            status = 1
+                        },
+                        new
+                        {
+                            id = 10,
+                            customer = "XYZ Inc.",
+                            description = "Software development",
+                            elapsed_time = 864.0,
+                            estimated_time = 858.0,
+                            price = 694.98f,
+                            status = 2
                         },
                         new
                         {
                             id = 11,
-                            customer = "ABC Corporation",
-                            description = "Website design",
-                            elapsed_time = 857.0,
-                            estimated_time = 54.0,
-                            price = 179.16f,
-                            status = 2
+                            customer = "Demo Group",
+                            description = "Product development",
+                            elapsed_time = 41.0,
+                            estimated_time = 762.0,
+                            price = 952.95f,
+                            status = 1
                         },
                         new
                         {
                             id = 12,
                             customer = "ABC Corporation",
-                            description = "Marketing campaign",
-                            elapsed_time = 609.0,
-                            estimated_time = 137.0,
-                            price = 384.83f,
-                            status = 4
+                            description = "Product development",
+                            elapsed_time = 843.0,
+                            estimated_time = 776.0,
+                            price = 385.65f,
+                            status = 3
                         },
                         new
                         {
                             id = 13,
-                            customer = "Test Org.",
-                            description = "Sales promotion",
-                            elapsed_time = 88.0,
-                            estimated_time = 407.0,
-                            price = 788.82f,
-                            status = 2
+                            customer = "123 Company",
+                            description = "Marketing campaign",
+                            elapsed_time = 150.0,
+                            estimated_time = 999.0,
+                            price = 962.42f,
+                            status = 3
                         },
                         new
                         {
                             id = 14,
-                            customer = "Demo Group",
-                            description = "Marketing campaign",
-                            elapsed_time = 269.0,
-                            estimated_time = 751.0,
-                            price = 604.67f,
-                            status = 5
+                            customer = "ABC Corporation",
+                            description = "Product development",
+                            elapsed_time = 967.0,
+                            estimated_time = 515.0,
+                            price = 254.28f,
+                            status = 3
                         },
                         new
                         {
                             id = 15,
-                            customer = "Test Org.",
-                            description = "Product development",
-                            elapsed_time = 891.0,
-                            estimated_time = 502.0,
-                            price = 636.5f,
-                            status = 2
+                            customer = "123 Company",
+                            description = "Software development",
+                            elapsed_time = 161.0,
+                            estimated_time = 146.0,
+                            price = 438.69f,
+                            status = 0
                         },
                         new
                         {
                             id = 16,
                             customer = "XYZ Inc.",
-                            description = "Sales promotion",
-                            elapsed_time = 998.0,
-                            estimated_time = 697.0,
-                            price = 801.46f,
-                            status = 0
+                            description = "Software development",
+                            elapsed_time = 213.0,
+                            estimated_time = 202.0,
+                            price = 182.65f,
+                            status = 1
                         },
                         new
                         {
                             id = 17,
-                            customer = "Demo Group",
-                            description = "Sales promotion",
-                            elapsed_time = 845.0,
-                            estimated_time = 665.0,
-                            price = 396.98f,
-                            status = 4
+                            customer = "123 Company",
+                            description = "Marketing campaign",
+                            elapsed_time = 881.0,
+                            estimated_time = 764.0,
+                            price = 347.36f,
+                            status = 3
                         },
                         new
                         {
                             id = 18,
-                            customer = "Test Org.",
-                            description = "Website design",
-                            elapsed_time = 444.0,
-                            estimated_time = 444.0,
-                            price = 275.12f,
-                            status = 4
+                            customer = "Demo Group",
+                            description = "Software development",
+                            elapsed_time = 62.0,
+                            estimated_time = 468.0,
+                            price = 390.04f,
+                            status = 1
                         },
                         new
                         {
                             id = 19,
-                            customer = "ABC Corporation",
-                            description = "Product development",
-                            elapsed_time = 786.0,
-                            estimated_time = 490.0,
-                            price = 128.6f,
-                            status = 4
+                            customer = "Test Org.",
+                            description = "Website design",
+                            elapsed_time = 132.0,
+                            estimated_time = 222.0,
+                            price = 168.52f,
+                            status = 2
                         },
                         new
                         {
                             id = 20,
-                            customer = "ABC Corporation",
-                            description = "Marketing campaign",
-                            elapsed_time = 622.0,
-                            estimated_time = 634.0,
-                            price = 242.78f,
-                            status = 0
+                            customer = "Demo Group",
+                            description = "Website design",
+                            elapsed_time = 383.0,
+                            estimated_time = 278.0,
+                            price = 729.48f,
+                            status = 3
                         },
                         new
                         {
                             id = 21,
-                            customer = "Demo Group",
-                            description = "Product development",
-                            elapsed_time = 613.0,
-                            estimated_time = 692.0,
-                            price = 310.22f,
-                            status = 2
+                            customer = "123 Company",
+                            description = "Marketing campaign",
+                            elapsed_time = 29.0,
+                            estimated_time = 456.0,
+                            price = 77.19f,
+                            status = 1
                         },
                         new
                         {
                             id = 22,
-                            customer = "Test Org.",
-                            description = "Marketing campaign",
-                            elapsed_time = 415.0,
-                            estimated_time = 111.0,
-                            price = 476.83f,
-                            status = 2
+                            customer = "ABC Corporation",
+                            description = "Product development",
+                            elapsed_time = 105.0,
+                            estimated_time = 225.0,
+                            price = 844.92f,
+                            status = 4
                         },
                         new
                         {
                             id = 23,
-                            customer = "123 Company",
+                            customer = "ABC Corporation",
                             description = "Marketing campaign",
-                            elapsed_time = 846.0,
-                            estimated_time = 90.0,
-                            price = 690.23f,
+                            elapsed_time = 71.0,
+                            estimated_time = 201.0,
+                            price = 941.3f,
                             status = 3
                         },
                         new
                         {
                             id = 24,
-                            customer = "XYZ Inc.",
-                            description = "Product development",
-                            elapsed_time = 217.0,
-                            estimated_time = 616.0,
-                            price = 283.12f,
-                            status = 2
+                            customer = "Test Org.",
+                            description = "Marketing campaign",
+                            elapsed_time = 292.0,
+                            estimated_time = 965.0,
+                            price = 188.78f,
+                            status = 3
                         },
                         new
                         {
                             id = 25,
                             customer = "Demo Group",
                             description = "Website design",
-                            elapsed_time = 137.0,
-                            estimated_time = 686.0,
-                            price = 355.22f,
-                            status = 2
+                            elapsed_time = 886.0,
+                            estimated_time = 644.0,
+                            price = 698.38f,
+                            status = 5
                         },
                         new
                         {
                             id = 26,
                             customer = "Demo Group",
-                            description = "Software development",
-                            elapsed_time = 601.0,
-                            estimated_time = 71.0,
-                            price = 486.16f,
-                            status = 3
+                            description = "Website design",
+                            elapsed_time = 244.0,
+                            estimated_time = 809.0,
+                            price = 511.9f,
+                            status = 1
                         },
                         new
                         {
                             id = 27,
-                            customer = "XYZ Inc.",
-                            description = "Website design",
-                            elapsed_time = 593.0,
-                            estimated_time = 951.0,
-                            price = 211.99f,
-                            status = 3
+                            customer = "ABC Corporation",
+                            description = "Product development",
+                            elapsed_time = 960.0,
+                            estimated_time = 660.0,
+                            price = 758.7f,
+                            status = 0
                         },
                         new
                         {
                             id = 28,
                             customer = "XYZ Inc.",
-                            description = "Marketing campaign",
-                            elapsed_time = 252.0,
-                            estimated_time = 965.0,
-                            price = 474.95f,
-                            status = 5
+                            description = "Product development",
+                            elapsed_time = 708.0,
+                            estimated_time = 570.0,
+                            price = 690.16f,
+                            status = 3
                         },
                         new
                         {
                             id = 29,
-                            customer = "Demo Group",
-                            description = "Marketing campaign",
-                            elapsed_time = 125.0,
-                            estimated_time = 822.0,
-                            price = 438.74f,
-                            status = 2
+                            customer = "XYZ Inc.",
+                            description = "Product development",
+                            elapsed_time = 638.0,
+                            estimated_time = 701.0,
+                            price = 220.9f,
+                            status = 3
                         },
                         new
                         {
                             id = 30,
-                            customer = "Demo Group",
+                            customer = "Test Org.",
                             description = "Marketing campaign",
-                            elapsed_time = 480.0,
-                            estimated_time = 924.0,
-                            price = 953.54f,
-                            status = 5
+                            elapsed_time = 523.0,
+                            estimated_time = 960.0,
+                            price = 712.38f,
+                            status = 3
                         },
                         new
                         {
                             id = 31,
-                            customer = "XYZ Inc.",
-                            description = "Marketing campaign",
-                            elapsed_time = 931.0,
-                            estimated_time = 742.0,
-                            price = 625.1f,
-                            status = 5
+                            customer = "Demo Group",
+                            description = "Software development",
+                            elapsed_time = 774.0,
+                            estimated_time = 908.0,
+                            price = 289.95f,
+                            status = 2
                         },
                         new
                         {
                             id = 32,
-                            customer = "ABC Corporation",
-                            description = "Marketing campaign",
-                            elapsed_time = 278.0,
-                            estimated_time = 686.0,
-                            price = 927.23f,
-                            status = 4
+                            customer = "123 Company",
+                            description = "Sales promotion",
+                            elapsed_time = 817.0,
+                            estimated_time = 604.0,
+                            price = 920.66f,
+                            status = 2
                         },
                         new
                         {
                             id = 33,
                             customer = "ABC Corporation",
                             description = "Website design",
-                            elapsed_time = 671.0,
-                            estimated_time = 904.0,
-                            price = 229.48f,
-                            status = 2
+                            elapsed_time = 616.0,
+                            estimated_time = 388.0,
+                            price = 477.09f,
+                            status = 4
                         },
                         new
                         {
                             id = 34,
-                            customer = "123 Company",
-                            description = "Sales promotion",
-                            elapsed_time = 34.0,
-                            estimated_time = 141.0,
-                            price = 439.4f,
-                            status = 1
+                            customer = "Demo Group",
+                            description = "Product development",
+                            elapsed_time = 650.0,
+                            estimated_time = 922.0,
+                            price = 89.78f,
+                            status = 2
                         },
                         new
                         {
                             id = 35,
-                            customer = "Test Org.",
-                            description = "Sales promotion",
-                            elapsed_time = 79.0,
-                            estimated_time = 291.0,
-                            price = 267.99f,
+                            customer = "XYZ Inc.",
+                            description = "Software development",
+                            elapsed_time = 139.0,
+                            estimated_time = 351.0,
+                            price = 934.64f,
                             status = 3
                         },
                         new
                         {
                             id = 36,
-                            customer = "Demo Group",
-                            description = "Product development",
-                            elapsed_time = 689.0,
-                            estimated_time = 316.0,
-                            price = 697.71f,
-                            status = 0
+                            customer = "123 Company",
+                            description = "Marketing campaign",
+                            elapsed_time = 146.0,
+                            estimated_time = 333.0,
+                            price = 814.87f,
+                            status = 1
                         },
                         new
                         {
                             id = 37,
-                            customer = "123 Company",
-                            description = "Sales promotion",
-                            elapsed_time = 934.0,
-                            estimated_time = 203.0,
-                            price = 41.33f,
-                            status = 0
+                            customer = "XYZ Inc.",
+                            description = "Website design",
+                            elapsed_time = 343.0,
+                            estimated_time = 377.0,
+                            price = 325.96f,
+                            status = 3
                         },
                         new
                         {
                             id = 38,
-                            customer = "Test Org.",
-                            description = "Sales promotion",
-                            elapsed_time = 878.0,
-                            estimated_time = 572.0,
-                            price = 926.25f,
-                            status = 2
+                            customer = "ABC Corporation",
+                            description = "Website design",
+                            elapsed_time = 263.0,
+                            estimated_time = 891.0,
+                            price = 433.83f,
+                            status = 3
                         },
                         new
                         {
                             id = 39,
                             customer = "Demo Group",
-                            description = "Software development",
-                            elapsed_time = 9.0,
-                            estimated_time = 691.0,
-                            price = 871.61f,
+                            description = "Sales promotion",
+                            elapsed_time = 512.0,
+                            estimated_time = 633.0,
+                            price = 499.24f,
                             status = 0
                         },
                         new
                         {
                             id = 40,
-                            customer = "ABC Corporation",
-                            description = "Product development",
-                            elapsed_time = 332.0,
-                            estimated_time = 726.0,
-                            price = 282.72f,
-                            status = 1
+                            customer = "XYZ Inc.",
+                            description = "Website design",
+                            elapsed_time = 310.0,
+                            estimated_time = 591.0,
+                            price = 250.52f,
+                            status = 5
                         },
                         new
                         {
                             id = 41,
-                            customer = "ABC Corporation",
-                            description = "Product development",
-                            elapsed_time = 829.0,
-                            estimated_time = 374.0,
-                            price = 654.55f,
-                            status = 1
+                            customer = "XYZ Inc.",
+                            description = "Sales promotion",
+                            elapsed_time = 789.0,
+                            estimated_time = 662.0,
+                            price = 324.7f,
+                            status = 0
                         },
                         new
                         {
                             id = 42,
-                            customer = "Test Org.",
-                            description = "Software development",
-                            elapsed_time = 856.0,
-                            estimated_time = 566.0,
-                            price = 784.08f,
-                            status = 0
+                            customer = "ABC Corporation",
+                            description = "Sales promotion",
+                            elapsed_time = 182.0,
+                            estimated_time = 192.0,
+                            price = 978.97f,
+                            status = 5
                         },
                         new
                         {
                             id = 43,
-                            customer = "123 Company",
-                            description = "Product development",
-                            elapsed_time = 132.0,
-                            estimated_time = 169.0,
-                            price = 765.32f,
-                            status = 0
+                            customer = "XYZ Inc.",
+                            description = "Software development",
+                            elapsed_time = 259.0,
+                            estimated_time = 815.0,
+                            price = 461.89f,
+                            status = 1
                         },
                         new
                         {
                             id = 44,
-                            customer = "XYZ Inc.",
-                            description = "Marketing campaign",
-                            elapsed_time = 547.0,
-                            estimated_time = 943.0,
-                            price = 785.55f,
+                            customer = "Test Org.",
+                            description = "Software development",
+                            elapsed_time = 487.0,
+                            estimated_time = 849.0,
+                            price = 504.65f,
                             status = 1
                         },
                         new
                         {
                             id = 45,
-                            customer = "Demo Group",
-                            description = "Website design",
-                            elapsed_time = 876.0,
-                            estimated_time = 587.0,
-                            price = 818.64f,
-                            status = 2
+                            customer = "123 Company",
+                            description = "Marketing campaign",
+                            elapsed_time = 805.0,
+                            estimated_time = 100.0,
+                            price = 150.47f,
+                            status = 1
                         },
                         new
                         {
                             id = 46,
-                            customer = "ABC Corporation",
-                            description = "Software development",
-                            elapsed_time = 311.0,
-                            estimated_time = 920.0,
-                            price = 303.72f,
-                            status = 3
+                            customer = "XYZ Inc.",
+                            description = "Sales promotion",
+                            elapsed_time = 816.0,
+                            estimated_time = 20.0,
+                            price = 291.36f,
+                            status = 1
                         },
                         new
                         {
                             id = 47,
-                            customer = "ABC Corporation",
-                            description = "Sales promotion",
-                            elapsed_time = 957.0,
-                            estimated_time = 526.0,
-                            price = 372.53f,
-                            status = 4
+                            customer = "Demo Group",
+                            description = "Marketing campaign",
+                            elapsed_time = 844.0,
+                            estimated_time = 540.0,
+                            price = 988.55f,
+                            status = 3
                         },
                         new
                         {
                             id = 48,
-                            customer = "123 Company",
-                            description = "Software development",
-                            elapsed_time = 523.0,
-                            estimated_time = 567.0,
-                            price = 950.22f,
-                            status = 5
+                            customer = "ABC Corporation",
+                            description = "Sales promotion",
+                            elapsed_time = 35.0,
+                            estimated_time = 300.0,
+                            price = 730.45f,
+                            status = 0
                         },
                         new
                         {
                             id = 49,
-                            customer = "Demo Group",
+                            customer = "XYZ Inc.",
                             description = "Sales promotion",
-                            elapsed_time = 618.0,
-                            estimated_time = 298.0,
-                            price = 246.96f,
-                            status = 2
+                            elapsed_time = 252.0,
+                            estimated_time = 33.0,
+                            price = 805.3f,
+                            status = 4
                         },
                         new
                         {
                             id = 50,
                             customer = "123 Company",
-                            description = "Software development",
-                            elapsed_time = 728.0,
-                            estimated_time = 316.0,
-                            price = 757.37f,
-                            status = 4
+                            description = "Website design",
+                            elapsed_time = 785.0,
+                            estimated_time = 279.0,
+                            price = 794.66f,
+                            status = 0
                         });
                 });
 
@@ -3874,1502 +3874,1502 @@ namespace Server.Migrations
                         new
                         {
                             id = 1,
-                            date = new DateTime(2020, 7, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8253f
+                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2473f
                         },
                         new
                         {
                             id = 2,
-                            date = new DateTime(2020, 11, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5621f
+                            date = new DateTime(2020, 3, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2202f
                         },
                         new
                         {
                             id = 3,
-                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4627f
+                            date = new DateTime(2020, 9, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4626f
                         },
                         new
                         {
                             id = 4,
-                            date = new DateTime(2020, 4, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8637f
+                            date = new DateTime(2020, 12, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7270f
                         },
                         new
                         {
                             id = 5,
-                            date = new DateTime(2020, 3, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2990f
+                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8687f
                         },
                         new
                         {
                             id = 6,
-                            date = new DateTime(2020, 8, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9668f
+                            date = new DateTime(2020, 10, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8501f
                         },
                         new
                         {
                             id = 7,
-                            date = new DateTime(2020, 8, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6968f
+                            date = new DateTime(2020, 12, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6221f
                         },
                         new
                         {
                             id = 8,
-                            date = new DateTime(2020, 2, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3209f
+                            date = new DateTime(2020, 1, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2416f
                         },
                         new
                         {
                             id = 9,
-                            date = new DateTime(2020, 9, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8923f
+                            date = new DateTime(2020, 5, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8379f
                         },
                         new
                         {
                             id = 10,
-                            date = new DateTime(2020, 5, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4166f
+                            date = new DateTime(2020, 12, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4908f
                         },
                         new
                         {
                             id = 11,
                             date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5876f
+                            production = 3925f
                         },
                         new
                         {
                             id = 12,
-                            date = new DateTime(2020, 11, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6643f
+                            date = new DateTime(2020, 6, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6235f
                         },
                         new
                         {
                             id = 13,
-                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7127f
+                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4883f
                         },
                         new
                         {
                             id = 14,
-                            date = new DateTime(2020, 4, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7085f
+                            date = new DateTime(2020, 1, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9975f
                         },
                         new
                         {
                             id = 15,
-                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1976f
+                            date = new DateTime(2020, 1, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8558f
                         },
                         new
                         {
                             id = 16,
-                            date = new DateTime(2020, 5, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6965f
+                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3338f
                         },
                         new
                         {
                             id = 17,
-                            date = new DateTime(2020, 5, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6682f
+                            date = new DateTime(2020, 1, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9108f
                         },
                         new
                         {
                             id = 18,
-                            date = new DateTime(2020, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5345f
+                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7508f
                         },
                         new
                         {
                             id = 19,
-                            date = new DateTime(2020, 9, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6499f
+                            date = new DateTime(2020, 5, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2556f
                         },
                         new
                         {
                             id = 20,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9101f
+                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5177f
                         },
                         new
                         {
                             id = 21,
-                            date = new DateTime(2020, 9, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3055f
+                            date = new DateTime(2020, 1, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2699f
                         },
                         new
                         {
                             id = 22,
-                            date = new DateTime(2020, 1, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1037f
+                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7282f
                         },
                         new
                         {
                             id = 23,
-                            date = new DateTime(2020, 10, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4863f
+                            date = new DateTime(2020, 10, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4260f
                         },
                         new
                         {
                             id = 24,
-                            date = new DateTime(2020, 6, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9420f
+                            date = new DateTime(2020, 8, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6186f
                         },
                         new
                         {
                             id = 25,
-                            date = new DateTime(2020, 5, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5753f
+                            date = new DateTime(2020, 7, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3359f
                         },
                         new
                         {
                             id = 26,
-                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1113f
+                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1825f
                         },
                         new
                         {
                             id = 27,
-                            date = new DateTime(2020, 4, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1234f
+                            date = new DateTime(2020, 8, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2057f
                         },
                         new
                         {
                             id = 28,
-                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3475f
+                            date = new DateTime(2020, 11, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2373f
                         },
                         new
                         {
                             id = 29,
-                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1995f
+                            date = new DateTime(2020, 9, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1675f
                         },
                         new
                         {
                             id = 30,
-                            date = new DateTime(2020, 3, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3163f
+                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9608f
                         },
                         new
                         {
                             id = 31,
-                            date = new DateTime(2020, 1, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4387f
+                            date = new DateTime(2020, 8, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3527f
                         },
                         new
                         {
                             id = 32,
-                            date = new DateTime(2020, 5, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2888f
+                            date = new DateTime(2020, 10, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8131f
                         },
                         new
                         {
                             id = 33,
-                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5551f
+                            date = new DateTime(2020, 12, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2774f
                         },
                         new
                         {
                             id = 34,
-                            date = new DateTime(2020, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6504f
+                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5450f
                         },
                         new
                         {
                             id = 35,
-                            date = new DateTime(2020, 11, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7266f
+                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4068f
                         },
                         new
                         {
                             id = 36,
-                            date = new DateTime(2020, 1, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5972f
+                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4117f
                         },
                         new
                         {
                             id = 37,
-                            date = new DateTime(2020, 1, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1005f
+                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5628f
                         },
                         new
                         {
                             id = 38,
-                            date = new DateTime(2020, 8, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2805f
+                            date = new DateTime(2020, 3, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8836f
                         },
                         new
                         {
                             id = 39,
-                            date = new DateTime(2020, 4, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6709f
+                            date = new DateTime(2020, 6, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2596f
                         },
                         new
                         {
                             id = 40,
-                            date = new DateTime(2020, 7, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2241f
+                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2619f
                         },
                         new
                         {
                             id = 41,
-                            date = new DateTime(2020, 2, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1782f
+                            date = new DateTime(2020, 1, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1468f
                         },
                         new
                         {
                             id = 42,
-                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9231f
+                            date = new DateTime(2020, 7, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8414f
                         },
                         new
                         {
                             id = 43,
-                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3336f
+                            date = new DateTime(2020, 9, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4762f
                         },
                         new
                         {
                             id = 44,
-                            date = new DateTime(2020, 4, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2208f
+                            date = new DateTime(2020, 5, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7818f
                         },
                         new
                         {
                             id = 45,
-                            date = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3160f
+                            date = new DateTime(2020, 5, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6632f
                         },
                         new
                         {
                             id = 46,
-                            date = new DateTime(2020, 6, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9416f
+                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2302f
                         },
                         new
                         {
                             id = 47,
-                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9358f
-                        },
-                        new
-                        {
-                            id = 48,
-                            date = new DateTime(2020, 7, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1689f
-                        },
-                        new
-                        {
-                            id = 49,
-                            date = new DateTime(2020, 3, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7017f
-                        },
-                        new
-                        {
-                            id = 50,
-                            date = new DateTime(2020, 4, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9269f
-                        },
-                        new
-                        {
-                            id = 51,
-                            date = new DateTime(2020, 7, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6926f
-                        },
-                        new
-                        {
-                            id = 52,
-                            date = new DateTime(2020, 7, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1631f
-                        },
-                        new
-                        {
-                            id = 53,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3317f
-                        },
-                        new
-                        {
-                            id = 54,
-                            date = new DateTime(2020, 12, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8230f
-                        },
-                        new
-                        {
-                            id = 55,
-                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1110f
-                        },
-                        new
-                        {
-                            id = 56,
-                            date = new DateTime(2020, 3, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4067f
-                        },
-                        new
-                        {
-                            id = 57,
-                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4626f
-                        },
-                        new
-                        {
-                            id = 58,
-                            date = new DateTime(2020, 6, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4831f
-                        },
-                        new
-                        {
-                            id = 59,
-                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8023f
-                        },
-                        new
-                        {
-                            id = 60,
-                            date = new DateTime(2020, 4, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6719f
-                        },
-                        new
-                        {
-                            id = 61,
-                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2187f
-                        },
-                        new
-                        {
-                            id = 62,
-                            date = new DateTime(2020, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2246f
-                        },
-                        new
-                        {
-                            id = 63,
-                            date = new DateTime(2020, 12, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5448f
-                        },
-                        new
-                        {
-                            id = 64,
-                            date = new DateTime(2020, 8, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8582f
-                        },
-                        new
-                        {
-                            id = 65,
-                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4697f
-                        },
-                        new
-                        {
-                            id = 66,
-                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5176f
-                        },
-                        new
-                        {
-                            id = 67,
-                            date = new DateTime(2020, 5, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9123f
-                        },
-                        new
-                        {
-                            id = 68,
-                            date = new DateTime(2020, 4, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1470f
-                        },
-                        new
-                        {
-                            id = 69,
-                            date = new DateTime(2020, 8, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7261f
-                        },
-                        new
-                        {
-                            id = 70,
-                            date = new DateTime(2020, 10, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5823f
-                        },
-                        new
-                        {
-                            id = 71,
-                            date = new DateTime(2020, 11, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5300f
-                        },
-                        new
-                        {
-                            id = 72,
-                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9484f
-                        },
-                        new
-                        {
-                            id = 73,
-                            date = new DateTime(2020, 10, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8852f
-                        },
-                        new
-                        {
-                            id = 74,
-                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8341f
-                        },
-                        new
-                        {
-                            id = 75,
-                            date = new DateTime(2020, 12, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1483f
-                        },
-                        new
-                        {
-                            id = 76,
-                            date = new DateTime(2020, 7, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2515f
-                        },
-                        new
-                        {
-                            id = 77,
-                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8895f
-                        },
-                        new
-                        {
-                            id = 78,
-                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6163f
-                        },
-                        new
-                        {
-                            id = 79,
-                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5940f
-                        },
-                        new
-                        {
-                            id = 80,
-                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9041f
-                        },
-                        new
-                        {
-                            id = 81,
-                            date = new DateTime(2020, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1749f
-                        },
-                        new
-                        {
-                            id = 82,
-                            date = new DateTime(2020, 9, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9191f
-                        },
-                        new
-                        {
-                            id = 83,
-                            date = new DateTime(2020, 4, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1509f
-                        },
-                        new
-                        {
-                            id = 84,
-                            date = new DateTime(2020, 12, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4502f
-                        },
-                        new
-                        {
-                            id = 85,
-                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3382f
-                        },
-                        new
-                        {
-                            id = 86,
-                            date = new DateTime(2020, 7, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9745f
-                        },
-                        new
-                        {
-                            id = 87,
-                            date = new DateTime(2020, 1, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3917f
-                        },
-                        new
-                        {
-                            id = 88,
-                            date = new DateTime(2020, 7, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1388f
-                        },
-                        new
-                        {
-                            id = 89,
-                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2378f
-                        },
-                        new
-                        {
-                            id = 90,
-                            date = new DateTime(2020, 12, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7989f
-                        },
-                        new
-                        {
-                            id = 91,
-                            date = new DateTime(2020, 11, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5830f
-                        },
-                        new
-                        {
-                            id = 92,
-                            date = new DateTime(2020, 7, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9235f
-                        },
-                        new
-                        {
-                            id = 93,
-                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9976f
-                        },
-                        new
-                        {
-                            id = 94,
-                            date = new DateTime(2020, 7, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7194f
-                        },
-                        new
-                        {
-                            id = 95,
-                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6122f
-                        },
-                        new
-                        {
-                            id = 96,
-                            date = new DateTime(2020, 11, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4877f
-                        },
-                        new
-                        {
-                            id = 97,
-                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5734f
-                        },
-                        new
-                        {
-                            id = 98,
-                            date = new DateTime(2020, 5, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9475f
-                        },
-                        new
-                        {
-                            id = 99,
-                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3959f
-                        },
-                        new
-                        {
-                            id = 100,
-                            date = new DateTime(2020, 5, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1935f
-                        },
-                        new
-                        {
-                            id = 101,
-                            date = new DateTime(2020, 6, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1720f
-                        },
-                        new
-                        {
-                            id = 102,
-                            date = new DateTime(2020, 12, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6889f
-                        },
-                        new
-                        {
-                            id = 103,
-                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7845f
-                        },
-                        new
-                        {
-                            id = 104,
-                            date = new DateTime(2020, 5, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3120f
-                        },
-                        new
-                        {
-                            id = 105,
-                            date = new DateTime(2020, 10, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3341f
-                        },
-                        new
-                        {
-                            id = 106,
-                            date = new DateTime(2020, 5, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2444f
-                        },
-                        new
-                        {
-                            id = 107,
-                            date = new DateTime(2020, 5, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7831f
-                        },
-                        new
-                        {
-                            id = 108,
-                            date = new DateTime(2020, 11, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4768f
-                        },
-                        new
-                        {
-                            id = 109,
-                            date = new DateTime(2020, 6, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9302f
-                        },
-                        new
-                        {
-                            id = 110,
-                            date = new DateTime(2020, 1, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5931f
-                        },
-                        new
-                        {
-                            id = 111,
-                            date = new DateTime(2020, 3, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2436f
-                        },
-                        new
-                        {
-                            id = 112,
-                            date = new DateTime(2020, 5, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2789f
-                        },
-                        new
-                        {
-                            id = 113,
-                            date = new DateTime(2020, 4, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6634f
-                        },
-                        new
-                        {
-                            id = 114,
-                            date = new DateTime(2020, 2, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8117f
-                        },
-                        new
-                        {
-                            id = 115,
-                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1690f
-                        },
-                        new
-                        {
-                            id = 116,
-                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7328f
-                        },
-                        new
-                        {
-                            id = 117,
-                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1291f
-                        },
-                        new
-                        {
-                            id = 118,
-                            date = new DateTime(2020, 5, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8532f
-                        },
-                        new
-                        {
-                            id = 119,
-                            date = new DateTime(2020, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3054f
-                        },
-                        new
-                        {
-                            id = 120,
-                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7538f
-                        },
-                        new
-                        {
-                            id = 121,
-                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1375f
-                        },
-                        new
-                        {
-                            id = 122,
-                            date = new DateTime(2020, 12, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8402f
-                        },
-                        new
-                        {
-                            id = 123,
-                            date = new DateTime(2020, 4, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3497f
-                        },
-                        new
-                        {
-                            id = 124,
-                            date = new DateTime(2020, 6, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9087f
-                        },
-                        new
-                        {
-                            id = 125,
-                            date = new DateTime(2020, 7, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8798f
-                        },
-                        new
-                        {
-                            id = 126,
-                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1320f
-                        },
-                        new
-                        {
-                            id = 127,
-                            date = new DateTime(2020, 11, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9321f
-                        },
-                        new
-                        {
-                            id = 128,
-                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4393f
-                        },
-                        new
-                        {
-                            id = 129,
-                            date = new DateTime(2020, 6, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5941f
-                        },
-                        new
-                        {
-                            id = 130,
-                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1668f
-                        },
-                        new
-                        {
-                            id = 131,
-                            date = new DateTime(2020, 7, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2066f
-                        },
-                        new
-                        {
-                            id = 132,
-                            date = new DateTime(2020, 11, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8144f
-                        },
-                        new
-                        {
-                            id = 133,
-                            date = new DateTime(2020, 7, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1174f
-                        },
-                        new
-                        {
-                            id = 134,
-                            date = new DateTime(2020, 7, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8720f
-                        },
-                        new
-                        {
-                            id = 135,
-                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3900f
-                        },
-                        new
-                        {
-                            id = 136,
-                            date = new DateTime(2020, 2, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7486f
-                        },
-                        new
-                        {
-                            id = 137,
-                            date = new DateTime(2020, 5, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1128f
-                        },
-                        new
-                        {
-                            id = 138,
-                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6115f
-                        },
-                        new
-                        {
-                            id = 139,
-                            date = new DateTime(2020, 2, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7687f
-                        },
-                        new
-                        {
-                            id = 140,
-                            date = new DateTime(2020, 8, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3131f
-                        },
-                        new
-                        {
-                            id = 141,
-                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8780f
-                        },
-                        new
-                        {
-                            id = 142,
-                            date = new DateTime(2020, 6, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6649f
-                        },
-                        new
-                        {
-                            id = 143,
-                            date = new DateTime(2020, 7, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6307f
-                        },
-                        new
-                        {
-                            id = 144,
-                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3130f
-                        },
-                        new
-                        {
-                            id = 145,
-                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5358f
-                        },
-                        new
-                        {
-                            id = 146,
-                            date = new DateTime(2020, 1, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6714f
-                        },
-                        new
-                        {
-                            id = 147,
-                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4804f
-                        },
-                        new
-                        {
-                            id = 148,
-                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9906f
-                        },
-                        new
-                        {
-                            id = 149,
-                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7357f
-                        },
-                        new
-                        {
-                            id = 150,
-                            date = new DateTime(2020, 8, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            date = new DateTime(2020, 12, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             production = 5759f
                         },
                         new
                         {
+                            id = 48,
+                            date = new DateTime(2020, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9040f
+                        },
+                        new
+                        {
+                            id = 49,
+                            date = new DateTime(2020, 12, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6952f
+                        },
+                        new
+                        {
+                            id = 50,
+                            date = new DateTime(2020, 11, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1179f
+                        },
+                        new
+                        {
+                            id = 51,
+                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6118f
+                        },
+                        new
+                        {
+                            id = 52,
+                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2044f
+                        },
+                        new
+                        {
+                            id = 53,
+                            date = new DateTime(2020, 12, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9213f
+                        },
+                        new
+                        {
+                            id = 54,
+                            date = new DateTime(2020, 4, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6425f
+                        },
+                        new
+                        {
+                            id = 55,
+                            date = new DateTime(2020, 2, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6377f
+                        },
+                        new
+                        {
+                            id = 56,
+                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9763f
+                        },
+                        new
+                        {
+                            id = 57,
+                            date = new DateTime(2020, 6, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2286f
+                        },
+                        new
+                        {
+                            id = 58,
+                            date = new DateTime(2020, 3, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3538f
+                        },
+                        new
+                        {
+                            id = 59,
+                            date = new DateTime(2020, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5690f
+                        },
+                        new
+                        {
+                            id = 60,
+                            date = new DateTime(2020, 9, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9341f
+                        },
+                        new
+                        {
+                            id = 61,
+                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6245f
+                        },
+                        new
+                        {
+                            id = 62,
+                            date = new DateTime(2020, 12, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8580f
+                        },
+                        new
+                        {
+                            id = 63,
+                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6314f
+                        },
+                        new
+                        {
+                            id = 64,
+                            date = new DateTime(2020, 10, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6405f
+                        },
+                        new
+                        {
+                            id = 65,
+                            date = new DateTime(2020, 4, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1519f
+                        },
+                        new
+                        {
+                            id = 66,
+                            date = new DateTime(2020, 12, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6689f
+                        },
+                        new
+                        {
+                            id = 67,
+                            date = new DateTime(2020, 9, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8265f
+                        },
+                        new
+                        {
+                            id = 68,
+                            date = new DateTime(2020, 8, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2127f
+                        },
+                        new
+                        {
+                            id = 69,
+                            date = new DateTime(2020, 3, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9297f
+                        },
+                        new
+                        {
+                            id = 70,
+                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7580f
+                        },
+                        new
+                        {
+                            id = 71,
+                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6579f
+                        },
+                        new
+                        {
+                            id = 72,
+                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3859f
+                        },
+                        new
+                        {
+                            id = 73,
+                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2363f
+                        },
+                        new
+                        {
+                            id = 74,
+                            date = new DateTime(2020, 12, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7081f
+                        },
+                        new
+                        {
+                            id = 75,
+                            date = new DateTime(2020, 12, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3078f
+                        },
+                        new
+                        {
+                            id = 76,
+                            date = new DateTime(2020, 7, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6753f
+                        },
+                        new
+                        {
+                            id = 77,
+                            date = new DateTime(2020, 11, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4416f
+                        },
+                        new
+                        {
+                            id = 78,
+                            date = new DateTime(2020, 4, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3958f
+                        },
+                        new
+                        {
+                            id = 79,
+                            date = new DateTime(2020, 7, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6484f
+                        },
+                        new
+                        {
+                            id = 80,
+                            date = new DateTime(2020, 5, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6042f
+                        },
+                        new
+                        {
+                            id = 81,
+                            date = new DateTime(2020, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6355f
+                        },
+                        new
+                        {
+                            id = 82,
+                            date = new DateTime(2020, 8, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9175f
+                        },
+                        new
+                        {
+                            id = 83,
+                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3338f
+                        },
+                        new
+                        {
+                            id = 84,
+                            date = new DateTime(2020, 11, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6947f
+                        },
+                        new
+                        {
+                            id = 85,
+                            date = new DateTime(2020, 9, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6915f
+                        },
+                        new
+                        {
+                            id = 86,
+                            date = new DateTime(2020, 10, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5862f
+                        },
+                        new
+                        {
+                            id = 87,
+                            date = new DateTime(2020, 7, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7567f
+                        },
+                        new
+                        {
+                            id = 88,
+                            date = new DateTime(2020, 6, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7126f
+                        },
+                        new
+                        {
+                            id = 89,
+                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3384f
+                        },
+                        new
+                        {
+                            id = 90,
+                            date = new DateTime(2020, 2, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1350f
+                        },
+                        new
+                        {
+                            id = 91,
+                            date = new DateTime(2020, 5, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2592f
+                        },
+                        new
+                        {
+                            id = 92,
+                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8503f
+                        },
+                        new
+                        {
+                            id = 93,
+                            date = new DateTime(2020, 10, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6517f
+                        },
+                        new
+                        {
+                            id = 94,
+                            date = new DateTime(2020, 10, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1393f
+                        },
+                        new
+                        {
+                            id = 95,
+                            date = new DateTime(2020, 5, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5895f
+                        },
+                        new
+                        {
+                            id = 96,
+                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5879f
+                        },
+                        new
+                        {
+                            id = 97,
+                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8211f
+                        },
+                        new
+                        {
+                            id = 98,
+                            date = new DateTime(2020, 11, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3491f
+                        },
+                        new
+                        {
+                            id = 99,
+                            date = new DateTime(2020, 7, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8798f
+                        },
+                        new
+                        {
+                            id = 100,
+                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9725f
+                        },
+                        new
+                        {
+                            id = 101,
+                            date = new DateTime(2020, 8, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3784f
+                        },
+                        new
+                        {
+                            id = 102,
+                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3754f
+                        },
+                        new
+                        {
+                            id = 103,
+                            date = new DateTime(2020, 7, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9175f
+                        },
+                        new
+                        {
+                            id = 104,
+                            date = new DateTime(2020, 1, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4319f
+                        },
+                        new
+                        {
+                            id = 105,
+                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5829f
+                        },
+                        new
+                        {
+                            id = 106,
+                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9229f
+                        },
+                        new
+                        {
+                            id = 107,
+                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9887f
+                        },
+                        new
+                        {
+                            id = 108,
+                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6410f
+                        },
+                        new
+                        {
+                            id = 109,
+                            date = new DateTime(2020, 7, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9399f
+                        },
+                        new
+                        {
+                            id = 110,
+                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5088f
+                        },
+                        new
+                        {
+                            id = 111,
+                            date = new DateTime(2020, 6, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4445f
+                        },
+                        new
+                        {
+                            id = 112,
+                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7733f
+                        },
+                        new
+                        {
+                            id = 113,
+                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6478f
+                        },
+                        new
+                        {
+                            id = 114,
+                            date = new DateTime(2020, 6, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1318f
+                        },
+                        new
+                        {
+                            id = 115,
+                            date = new DateTime(2020, 1, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5900f
+                        },
+                        new
+                        {
+                            id = 116,
+                            date = new DateTime(2020, 4, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5713f
+                        },
+                        new
+                        {
+                            id = 117,
+                            date = new DateTime(2020, 3, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2547f
+                        },
+                        new
+                        {
+                            id = 118,
+                            date = new DateTime(2020, 9, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1556f
+                        },
+                        new
+                        {
+                            id = 119,
+                            date = new DateTime(2020, 8, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8586f
+                        },
+                        new
+                        {
+                            id = 120,
+                            date = new DateTime(2020, 2, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2859f
+                        },
+                        new
+                        {
+                            id = 121,
+                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8622f
+                        },
+                        new
+                        {
+                            id = 122,
+                            date = new DateTime(2020, 6, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6131f
+                        },
+                        new
+                        {
+                            id = 123,
+                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5411f
+                        },
+                        new
+                        {
+                            id = 124,
+                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9456f
+                        },
+                        new
+                        {
+                            id = 125,
+                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2808f
+                        },
+                        new
+                        {
+                            id = 126,
+                            date = new DateTime(2020, 10, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4648f
+                        },
+                        new
+                        {
+                            id = 127,
+                            date = new DateTime(2020, 8, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2921f
+                        },
+                        new
+                        {
+                            id = 128,
+                            date = new DateTime(2020, 10, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1062f
+                        },
+                        new
+                        {
+                            id = 129,
+                            date = new DateTime(2020, 8, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7576f
+                        },
+                        new
+                        {
+                            id = 130,
+                            date = new DateTime(2020, 11, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9619f
+                        },
+                        new
+                        {
+                            id = 131,
+                            date = new DateTime(2020, 9, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5179f
+                        },
+                        new
+                        {
+                            id = 132,
+                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9294f
+                        },
+                        new
+                        {
+                            id = 133,
+                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5121f
+                        },
+                        new
+                        {
+                            id = 134,
+                            date = new DateTime(2020, 2, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6661f
+                        },
+                        new
+                        {
+                            id = 135,
+                            date = new DateTime(2020, 8, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4867f
+                        },
+                        new
+                        {
+                            id = 136,
+                            date = new DateTime(2020, 3, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8424f
+                        },
+                        new
+                        {
+                            id = 137,
+                            date = new DateTime(2020, 6, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4376f
+                        },
+                        new
+                        {
+                            id = 138,
+                            date = new DateTime(2020, 2, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3847f
+                        },
+                        new
+                        {
+                            id = 139,
+                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6785f
+                        },
+                        new
+                        {
+                            id = 140,
+                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5322f
+                        },
+                        new
+                        {
+                            id = 141,
+                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2253f
+                        },
+                        new
+                        {
+                            id = 142,
+                            date = new DateTime(2020, 2, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5359f
+                        },
+                        new
+                        {
+                            id = 143,
+                            date = new DateTime(2020, 5, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6329f
+                        },
+                        new
+                        {
+                            id = 144,
+                            date = new DateTime(2020, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9331f
+                        },
+                        new
+                        {
+                            id = 145,
+                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1422f
+                        },
+                        new
+                        {
+                            id = 146,
+                            date = new DateTime(2020, 5, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3054f
+                        },
+                        new
+                        {
+                            id = 147,
+                            date = new DateTime(2020, 4, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8647f
+                        },
+                        new
+                        {
+                            id = 148,
+                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4209f
+                        },
+                        new
+                        {
+                            id = 149,
+                            date = new DateTime(2020, 8, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3374f
+                        },
+                        new
+                        {
+                            id = 150,
+                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5286f
+                        },
+                        new
+                        {
                             id = 151,
-                            date = new DateTime(2020, 12, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2321f
+                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5153f
                         },
                         new
                         {
                             id = 152,
-                            date = new DateTime(2020, 4, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3204f
+                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3133f
                         },
                         new
                         {
                             id = 153,
-                            date = new DateTime(2020, 9, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5323f
+                            date = new DateTime(2020, 5, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5436f
                         },
                         new
                         {
                             id = 154,
-                            date = new DateTime(2020, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2739f
+                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4531f
                         },
                         new
                         {
                             id = 155,
-                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6022f
+                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4150f
                         },
                         new
                         {
                             id = 156,
-                            date = new DateTime(2020, 1, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3496f
+                            date = new DateTime(2020, 4, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6888f
                         },
                         new
                         {
                             id = 157,
-                            date = new DateTime(2020, 5, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4288f
+                            date = new DateTime(2020, 1, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7983f
                         },
                         new
                         {
                             id = 158,
-                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8963f
+                            date = new DateTime(2020, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2515f
                         },
                         new
                         {
                             id = 159,
-                            date = new DateTime(2020, 2, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4324f
+                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6134f
                         },
                         new
                         {
                             id = 160,
-                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2210f
+                            date = new DateTime(2020, 11, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8613f
                         },
                         new
                         {
                             id = 161,
-                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2636f
+                            date = new DateTime(2020, 3, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2782f
                         },
                         new
                         {
                             id = 162,
                             date = new DateTime(2020, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8923f
+                            production = 1909f
                         },
                         new
                         {
                             id = 163,
-                            date = new DateTime(2020, 11, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9461f
+                            date = new DateTime(2020, 9, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7393f
                         },
                         new
                         {
                             id = 164,
-                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9632f
+                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6877f
                         },
                         new
                         {
                             id = 165,
-                            date = new DateTime(2020, 7, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5212f
+                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3495f
                         },
                         new
                         {
                             id = 166,
-                            date = new DateTime(2020, 7, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2984f
+                            date = new DateTime(2020, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7531f
                         },
                         new
                         {
                             id = 167,
-                            date = new DateTime(2020, 8, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7230f
+                            date = new DateTime(2020, 7, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7483f
                         },
                         new
                         {
                             id = 168,
-                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1186f
+                            date = new DateTime(2020, 7, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3359f
                         },
                         new
                         {
                             id = 169,
-                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8649f
+                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1800f
                         },
                         new
                         {
                             id = 170,
-                            date = new DateTime(2020, 3, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5855f
+                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1032f
                         },
                         new
                         {
                             id = 171,
-                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3740f
+                            date = new DateTime(2020, 7, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3781f
                         },
                         new
                         {
                             id = 172,
-                            date = new DateTime(2020, 6, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3584f
+                            date = new DateTime(2020, 2, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8444f
                         },
                         new
                         {
                             id = 173,
-                            date = new DateTime(2020, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4911f
+                            date = new DateTime(2020, 3, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3380f
                         },
                         new
                         {
                             id = 174,
-                            date = new DateTime(2020, 12, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9203f
+                            date = new DateTime(2020, 12, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5291f
                         },
                         new
                         {
                             id = 175,
-                            date = new DateTime(2020, 6, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1779f
+                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3305f
                         },
                         new
                         {
                             id = 176,
-                            date = new DateTime(2020, 2, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2450f
+                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5786f
                         },
                         new
                         {
                             id = 177,
-                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3721f
+                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4759f
                         },
                         new
                         {
                             id = 178,
-                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8578f
+                            date = new DateTime(2020, 11, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6900f
                         },
                         new
                         {
                             id = 179,
-                            date = new DateTime(2020, 7, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9970f
+                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1956f
                         },
                         new
                         {
                             id = 180,
-                            date = new DateTime(2020, 5, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6090f
+                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2725f
                         },
                         new
                         {
                             id = 181,
-                            date = new DateTime(2020, 1, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3933f
+                            date = new DateTime(2020, 1, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5580f
                         },
                         new
                         {
                             id = 182,
-                            date = new DateTime(2020, 11, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7319f
+                            date = new DateTime(2020, 9, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5123f
                         },
                         new
                         {
                             id = 183,
-                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2631f
+                            date = new DateTime(2020, 11, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3143f
                         },
                         new
                         {
                             id = 184,
-                            date = new DateTime(2020, 4, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6308f
+                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3887f
                         },
                         new
                         {
                             id = 185,
-                            date = new DateTime(2020, 11, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8145f
+                            date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1016f
                         },
                         new
                         {
                             id = 186,
-                            date = new DateTime(2020, 9, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7391f
+                            date = new DateTime(2020, 2, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9665f
                         },
                         new
                         {
                             id = 187,
-                            date = new DateTime(2020, 2, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1643f
+                            date = new DateTime(2020, 12, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5632f
                         },
                         new
                         {
                             id = 188,
-                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7464f
+                            date = new DateTime(2020, 7, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1772f
                         },
                         new
                         {
                             id = 189,
-                            date = new DateTime(2020, 10, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5358f
+                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6466f
                         },
                         new
                         {
                             id = 190,
-                            date = new DateTime(2020, 8, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4710f
+                            date = new DateTime(2020, 12, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5256f
                         },
                         new
                         {
                             id = 191,
-                            date = new DateTime(2020, 4, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7721f
+                            date = new DateTime(2020, 10, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7263f
                         },
                         new
                         {
                             id = 192,
-                            date = new DateTime(2020, 12, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3015f
+                            date = new DateTime(2020, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8978f
                         },
                         new
                         {
                             id = 193,
-                            date = new DateTime(2020, 6, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9212f
+                            date = new DateTime(2020, 8, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6192f
                         },
                         new
                         {
                             id = 194,
-                            date = new DateTime(2020, 9, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9113f
+                            date = new DateTime(2020, 4, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4194f
                         },
                         new
                         {
                             id = 195,
-                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8023f
+                            date = new DateTime(2020, 3, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6752f
                         },
                         new
                         {
                             id = 196,
-                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9816f
+                            date = new DateTime(2020, 5, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8966f
                         },
                         new
                         {
                             id = 197,
-                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8567f
+                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2910f
                         },
                         new
                         {
                             id = 198,
-                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1950f
+                            date = new DateTime(2020, 4, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3983f
                         },
                         new
                         {
                             id = 199,
-                            date = new DateTime(2020, 3, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2243f
+                            date = new DateTime(2020, 6, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9252f
                         },
                         new
                         {
                             id = 200,
-                            date = new DateTime(2020, 1, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3002f
+                            date = new DateTime(2020, 4, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3782f
                         },
                         new
                         {
                             id = 201,
-                            date = new DateTime(2020, 10, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8297f
+                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2499f
                         },
                         new
                         {
                             id = 202,
-                            date = new DateTime(2020, 1, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2118f
+                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4395f
                         },
                         new
                         {
                             id = 203,
-                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6992f
+                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5767f
                         },
                         new
                         {
                             id = 204,
-                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2455f
+                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3349f
                         },
                         new
                         {
                             id = 205,
-                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8363f
+                            date = new DateTime(2020, 10, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9484f
                         },
                         new
                         {
                             id = 206,
-                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7831f
+                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8993f
                         },
                         new
                         {
                             id = 207,
-                            date = new DateTime(2020, 4, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3294f
+                            date = new DateTime(2020, 5, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6596f
                         },
                         new
                         {
                             id = 208,
-                            date = new DateTime(2020, 8, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8833f
+                            date = new DateTime(2020, 7, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1278f
                         },
                         new
                         {
                             id = 209,
-                            date = new DateTime(2020, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7308f
+                            date = new DateTime(2020, 6, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2622f
                         },
                         new
                         {
                             id = 210,
-                            date = new DateTime(2020, 9, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5604f
+                            date = new DateTime(2020, 2, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8717f
                         },
                         new
                         {
                             id = 211,
-                            date = new DateTime(2020, 8, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2302f
+                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2193f
                         },
                         new
                         {
                             id = 212,
-                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5776f
+                            date = new DateTime(2020, 3, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2589f
                         },
                         new
                         {
                             id = 213,
-                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6193f
+                            date = new DateTime(2020, 4, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8506f
                         },
                         new
                         {
                             id = 214,
-                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1372f
+                            date = new DateTime(2020, 11, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2881f
                         },
                         new
                         {
                             id = 215,
-                            date = new DateTime(2020, 2, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6828f
+                            date = new DateTime(2020, 3, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7106f
                         },
                         new
                         {
                             id = 216,
-                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6157f
+                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5072f
                         },
                         new
                         {
                             id = 217,
-                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2628f
+                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 1647f
                         },
                         new
                         {
                             id = 218,
-                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9187f
+                            date = new DateTime(2020, 10, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5938f
                         },
                         new
                         {
                             id = 219,
-                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2017f
+                            date = new DateTime(2020, 11, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6067f
                         },
                         new
                         {
                             id = 220,
-                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1185f
+                            date = new DateTime(2020, 11, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2528f
                         },
                         new
                         {
                             id = 221,
-                            date = new DateTime(2020, 7, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2257f
+                            date = new DateTime(2020, 11, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2211f
                         },
                         new
                         {
                             id = 222,
-                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2002f
+                            date = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8186f
                         },
                         new
                         {
                             id = 223,
-                            date = new DateTime(2020, 9, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2543f
+                            date = new DateTime(2020, 1, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3370f
                         },
                         new
                         {
                             id = 224,
-                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8547f
+                            date = new DateTime(2020, 3, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3021f
                         },
                         new
                         {
                             id = 225,
-                            date = new DateTime(2020, 3, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3135f
+                            date = new DateTime(2020, 10, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7723f
                         },
                         new
                         {
                             id = 226,
-                            date = new DateTime(2020, 5, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6393f
+                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4166f
                         },
                         new
                         {
                             id = 227,
-                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6769f
+                            date = new DateTime(2020, 2, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8353f
                         },
                         new
                         {
                             id = 228,
-                            date = new DateTime(2020, 12, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8751f
+                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2052f
                         },
                         new
                         {
                             id = 229,
-                            date = new DateTime(2020, 11, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7296f
+                            date = new DateTime(2020, 12, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6479f
                         },
                         new
                         {
                             id = 230,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1973f
+                            date = new DateTime(2020, 4, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7159f
                         },
                         new
                         {
                             id = 231,
-                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3557f
+                            date = new DateTime(2020, 7, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8516f
                         },
                         new
                         {
                             id = 232,
-                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 2634f
+                            date = new DateTime(2020, 8, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8324f
                         },
                         new
                         {
                             id = 233,
-                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1349f
+                            date = new DateTime(2020, 12, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7630f
                         },
                         new
                         {
                             id = 234,
-                            date = new DateTime(2020, 11, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7731f
+                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4814f
                         },
                         new
                         {
                             id = 235,
-                            date = new DateTime(2020, 11, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4473f
+                            date = new DateTime(2020, 3, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2394f
                         },
                         new
                         {
                             id = 236,
-                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3159f
+                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2240f
                         },
                         new
                         {
                             id = 237,
-                            date = new DateTime(2020, 7, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 7813f
+                            date = new DateTime(2020, 4, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8289f
                         },
                         new
                         {
                             id = 238,
-                            date = new DateTime(2020, 3, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9110f
+                            date = new DateTime(2020, 4, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 8632f
                         },
                         new
                         {
                             id = 239,
-                            date = new DateTime(2020, 4, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6395f
+                            date = new DateTime(2020, 7, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4721f
                         },
                         new
                         {
                             id = 240,
-                            date = new DateTime(2020, 7, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 6647f
+                            date = new DateTime(2020, 1, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6058f
                         },
                         new
                         {
                             id = 241,
-                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9651f
+                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3318f
                         },
                         new
                         {
                             id = 242,
-                            date = new DateTime(2020, 4, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3163f
+                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7521f
                         },
                         new
                         {
                             id = 243,
-                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 5002f
+                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 9305f
                         },
                         new
                         {
                             id = 244,
-                            date = new DateTime(2020, 3, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 8003f
+                            date = new DateTime(2020, 3, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5221f
                         },
                         new
                         {
                             id = 245,
-                            date = new DateTime(2020, 10, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3452f
+                            date = new DateTime(2020, 2, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 2748f
                         },
                         new
                         {
                             id = 246,
-                            date = new DateTime(2020, 9, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1031f
+                            date = new DateTime(2020, 8, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 3656f
                         },
                         new
                         {
                             id = 247,
-                            date = new DateTime(2020, 10, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 4844f
+                            date = new DateTime(2020, 3, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 6530f
                         },
                         new
                         {
                             id = 248,
-                            date = new DateTime(2020, 3, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 9736f
+                            date = new DateTime(2020, 2, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 4536f
                         },
                         new
                         {
                             id = 249,
-                            date = new DateTime(2020, 11, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 3965f
+                            date = new DateTime(2020, 3, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 7342f
                         },
                         new
                         {
                             id = 250,
-                            date = new DateTime(2020, 9, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            production = 1127f
+                            date = new DateTime(2020, 7, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            production = 5360f
                         });
                 });
 
@@ -5398,1752 +5398,1752 @@ namespace Server.Migrations
                         new
                         {
                             id = 1,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.42776832f,
-                            production_gross = 0.9493103f
+                            date = new DateTime(2020, 7, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.17927507f,
+                            production_gross = 0.4265331f
                         },
                         new
                         {
                             id = 2,
-                            date = new DateTime(2020, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.523115f,
-                            production_gross = 0.08465988f
+                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9752453f,
+                            production_gross = 0.50069046f
                         },
                         new
                         {
                             id = 3,
-                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.25410366f,
-                            production_gross = 0.022307266f
+                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.8601485f,
+                            production_gross = 0.18211526f
                         },
                         new
                         {
                             id = 4,
-                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.16415212f,
-                            production_gross = 0.196081f
+                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.4463456f,
+                            production_gross = 0.8349694f
                         },
                         new
                         {
                             id = 5,
-                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.28242332f,
-                            production_gross = 0.0478136f
+                            date = new DateTime(2020, 7, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.48853353f,
+                            production_gross = 0.42002803f
                         },
                         new
                         {
                             id = 6,
-                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.09020684f,
-                            production_gross = 0.038520355f
+                            date = new DateTime(2020, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5913359f,
+                            production_gross = 0.78064066f
                         },
                         new
                         {
                             id = 7,
-                            date = new DateTime(2020, 7, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.89716494f,
-                            production_gross = 0.12881966f
+                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.65854496f,
+                            production_gross = 0.8431159f
                         },
                         new
                         {
                             id = 8,
-                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.52788824f,
-                            production_gross = 0.8712208f
+                            date = new DateTime(2020, 4, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2651094f,
+                            production_gross = 0.7928409f
                         },
                         new
                         {
                             id = 9,
-                            date = new DateTime(2020, 10, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.682275f,
-                            production_gross = 0.52960503f
+                            date = new DateTime(2020, 4, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.21252224f,
+                            production_gross = 0.68078786f
                         },
                         new
                         {
                             id = 10,
-                            date = new DateTime(2020, 10, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.13126759f,
-                            production_gross = 0.524224f
+                            date = new DateTime(2020, 2, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.75759596f,
+                            production_gross = 0.9321985f
                         },
                         new
                         {
                             id = 11,
-                            date = new DateTime(2020, 3, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6199035f,
-                            production_gross = 0.33699486f
+                            date = new DateTime(2020, 2, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7222853f,
+                            production_gross = 0.6391095f
                         },
                         new
                         {
                             id = 12,
-                            date = new DateTime(2020, 12, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.52546465f,
-                            production_gross = 0.61845154f
+                            date = new DateTime(2020, 10, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.8258551f,
+                            production_gross = 0.28111175f
                         },
                         new
                         {
                             id = 13,
-                            date = new DateTime(2020, 2, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9511562f,
-                            production_gross = 0.92446107f
+                            date = new DateTime(2020, 1, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7156571f,
+                            production_gross = 0.28947222f
                         },
                         new
                         {
                             id = 14,
-                            date = new DateTime(2020, 10, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8474114f,
-                            production_gross = 0.9870123f
+                            date = new DateTime(2020, 5, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.30586767f,
+                            production_gross = 0.30062154f
                         },
                         new
                         {
                             id = 15,
-                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6015976f,
-                            production_gross = 0.8782806f
+                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.035538107f,
+                            production_gross = 0.42001715f
                         },
                         new
                         {
                             id = 16,
-                            date = new DateTime(2020, 5, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.69573194f,
-                            production_gross = 0.8679226f
+                            date = new DateTime(2020, 11, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7434842f,
+                            production_gross = 0.98576736f
                         },
                         new
                         {
                             id = 17,
-                            date = new DateTime(2020, 6, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.3436146f,
-                            production_gross = 0.70225036f
+                            date = new DateTime(2020, 5, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.3082937f,
+                            production_gross = 0.042788614f
                         },
                         new
                         {
                             id = 18,
-                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.85838324f,
-                            production_gross = 0.27010766f
+                            date = new DateTime(2020, 2, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7340599f,
+                            production_gross = 0.2027219f
                         },
                         new
                         {
                             id = 19,
-                            date = new DateTime(2020, 7, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9486428f,
-                            production_gross = 0.043736156f
+                            date = new DateTime(2020, 11, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7519671f,
+                            production_gross = 0.4824991f
                         },
                         new
                         {
                             id = 20,
-                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6988904f,
-                            production_gross = 0.0048970617f
+                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5613105f,
+                            production_gross = 0.2653247f
                         },
                         new
                         {
                             id = 21,
-                            date = new DateTime(2020, 4, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.3447523f,
-                            production_gross = 0.0017613155f
+                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6758659f,
+                            production_gross = 0.1615008f
                         },
                         new
                         {
                             id = 22,
-                            date = new DateTime(2020, 11, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5201632f,
-                            production_gross = 0.9067518f
+                            date = new DateTime(2020, 9, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9744374f,
+                            production_gross = 0.50062394f
                         },
                         new
                         {
                             id = 23,
-                            date = new DateTime(2020, 11, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6935278f,
-                            production_gross = 0.09116132f
+                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.8102622f,
+                            production_gross = 0.97313064f
                         },
                         new
                         {
                             id = 24,
-                            date = new DateTime(2020, 6, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.722313f,
-                            production_gross = 0.49241987f
+                            date = new DateTime(2020, 12, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5851226f,
+                            production_gross = 0.19326696f
                         },
                         new
                         {
                             id = 25,
-                            date = new DateTime(2020, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8157492f,
-                            production_gross = 0.1982607f
+                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.4694878f,
+                            production_gross = 0.88508856f
                         },
                         new
                         {
                             id = 26,
-                            date = new DateTime(2020, 3, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.41043755f,
-                            production_gross = 0.32571638f
+                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.69033015f,
+                            production_gross = 0.6684304f
                         },
                         new
                         {
                             id = 27,
-                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9637606f,
-                            production_gross = 0.95764637f
+                            date = new DateTime(2020, 4, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.09426336f,
+                            production_gross = 0.4310352f
                         },
                         new
                         {
                             id = 28,
-                            date = new DateTime(2020, 2, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.74344933f,
-                            production_gross = 0.41066718f
+                            date = new DateTime(2020, 11, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7361344f,
+                            production_gross = 0.34276724f
                         },
                         new
                         {
                             id = 29,
-                            date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5559572f,
-                            production_gross = 0.37190413f
+                            date = new DateTime(2020, 7, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.14413619f,
+                            production_gross = 0.42878938f
                         },
                         new
                         {
                             id = 30,
-                            date = new DateTime(2020, 9, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8043495f,
-                            production_gross = 0.10242944f
+                            date = new DateTime(2020, 8, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.053202424f,
+                            production_gross = 0.49202362f
                         },
                         new
                         {
                             id = 31,
-                            date = new DateTime(2020, 5, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.061818585f,
-                            production_gross = 0.7017058f
+                            date = new DateTime(2020, 10, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.10028339f,
+                            production_gross = 0.09679654f
                         },
                         new
                         {
                             id = 32,
-                            date = new DateTime(2020, 8, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.05675795f,
-                            production_gross = 0.6018172f
+                            date = new DateTime(2020, 4, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.39942965f,
+                            production_gross = 0.20277575f
                         },
                         new
                         {
                             id = 33,
-                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.86286765f,
-                            production_gross = 0.7560917f
+                            date = new DateTime(2020, 3, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5749147f,
+                            production_gross = 0.35559624f
                         },
                         new
                         {
                             id = 34,
-                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7264057f,
-                            production_gross = 0.078342155f
+                            date = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.12437645f,
+                            production_gross = 0.88349974f
                         },
                         new
                         {
                             id = 35,
-                            date = new DateTime(2020, 7, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.28520137f,
-                            production_gross = 0.7320597f
+                            date = new DateTime(2020, 1, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.113053165f,
+                            production_gross = 0.58172375f
                         },
                         new
                         {
                             id = 36,
-                            date = new DateTime(2020, 8, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.36636212f,
-                            production_gross = 0.7646218f
+                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.20094365f,
+                            production_gross = 0.0076642376f
                         },
                         new
                         {
                             id = 37,
-                            date = new DateTime(2020, 2, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.35607493f,
-                            production_gross = 0.2317427f
+                            date = new DateTime(2020, 11, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.38061398f,
+                            production_gross = 0.94368994f
                         },
                         new
                         {
                             id = 38,
-                            date = new DateTime(2020, 12, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.64949673f,
-                            production_gross = 0.35822698f
+                            date = new DateTime(2020, 7, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9645004f,
+                            production_gross = 0.5099066f
                         },
                         new
                         {
                             id = 39,
-                            date = new DateTime(2020, 4, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.57115203f,
-                            production_gross = 0.039208274f
+                            date = new DateTime(2020, 3, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.3908485f,
+                            production_gross = 0.87375414f
                         },
                         new
                         {
                             id = 40,
-                            date = new DateTime(2020, 10, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9974456f,
-                            production_gross = 0.62072355f
+                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.109227784f,
+                            production_gross = 0.2991446f
                         },
                         new
                         {
                             id = 41,
-                            date = new DateTime(2020, 2, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.690763f,
-                            production_gross = 0.5129673f
+                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5241301f,
+                            production_gross = 0.15910392f
                         },
                         new
                         {
                             id = 42,
-                            date = new DateTime(2020, 5, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.71016264f,
-                            production_gross = 0.69632393f
+                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.1355341f,
+                            production_gross = 0.22361243f
                         },
                         new
                         {
                             id = 43,
-                            date = new DateTime(2020, 8, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9250957f,
-                            production_gross = 0.9298412f
+                            date = new DateTime(2020, 8, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.83834153f,
+                            production_gross = 0.3749346f
                         },
                         new
                         {
                             id = 44,
-                            date = new DateTime(2020, 7, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.027852055f,
-                            production_gross = 0.3756998f
+                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.17973524f,
+                            production_gross = 0.49388328f
                         },
                         new
                         {
                             id = 45,
-                            date = new DateTime(2020, 4, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6484165f,
-                            production_gross = 0.8980538f
+                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.17557646f,
+                            production_gross = 0.27278012f
                         },
                         new
                         {
                             id = 46,
-                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.735062f,
-                            production_gross = 0.69562554f
+                            date = new DateTime(2020, 10, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.4530411f,
+                            production_gross = 0.6499104f
                         },
                         new
                         {
                             id = 47,
-                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.91882104f,
-                            production_gross = 0.15592729f
+                            date = new DateTime(2020, 4, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9643785f,
+                            production_gross = 0.39058152f
                         },
                         new
                         {
                             id = 48,
-                            date = new DateTime(2020, 7, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.48629642f,
-                            production_gross = 0.9767512f
+                            date = new DateTime(2020, 3, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.03849057f,
+                            production_gross = 0.99645686f
                         },
                         new
                         {
                             id = 49,
-                            date = new DateTime(2020, 9, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5124358f,
-                            production_gross = 0.05287286f
+                            date = new DateTime(2020, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.8167442f,
+                            production_gross = 0.7716593f
                         },
                         new
                         {
                             id = 50,
-                            date = new DateTime(2020, 9, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.0051732236f,
-                            production_gross = 0.96510243f
+                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9918369f,
+                            production_gross = 0.9277078f
                         },
                         new
                         {
                             id = 51,
-                            date = new DateTime(2020, 4, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8349462f,
-                            production_gross = 0.14300023f
+                            date = new DateTime(2020, 2, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.36286396f,
+                            production_gross = 0.31118745f
                         },
                         new
                         {
                             id = 52,
-                            date = new DateTime(2020, 11, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.72321904f,
-                            production_gross = 0.49784642f
+                            date = new DateTime(2020, 9, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.95776886f,
+                            production_gross = 0.28584975f
                         },
                         new
                         {
                             id = 53,
-                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.80282015f,
-                            production_gross = 0.56489396f
+                            date = new DateTime(2020, 4, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.634524f,
+                            production_gross = 0.30581072f
                         },
                         new
                         {
                             id = 54,
-                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.74527794f,
-                            production_gross = 0.19524737f
+                            date = new DateTime(2020, 7, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.51787263f,
+                            production_gross = 0.7722126f
                         },
                         new
                         {
                             id = 55,
-                            date = new DateTime(2020, 11, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6445055f,
-                            production_gross = 0.6043774f
+                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6315372f,
+                            production_gross = 0.24479212f
                         },
                         new
                         {
                             id = 56,
-                            date = new DateTime(2020, 7, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.56730694f,
-                            production_gross = 0.6361973f
+                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.61033773f,
+                            production_gross = 0.5141919f
                         },
                         new
                         {
                             id = 57,
-                            date = new DateTime(2020, 4, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8942611f,
-                            production_gross = 0.15181129f
+                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9271589f,
+                            production_gross = 0.7646915f
                         },
                         new
                         {
                             id = 58,
-                            date = new DateTime(2020, 5, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.16535768f,
-                            production_gross = 0.58593917f
+                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9276143f,
+                            production_gross = 0.8334153f
                         },
                         new
                         {
                             id = 59,
-                            date = new DateTime(2020, 5, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.73925185f,
-                            production_gross = 0.11993777f
+                            date = new DateTime(2020, 10, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5868133f,
+                            production_gross = 0.5604621f
                         },
                         new
                         {
                             id = 60,
-                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6528342f,
-                            production_gross = 0.4665079f
+                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.027018799f,
+                            production_gross = 0.29986253f
                         },
                         new
                         {
                             id = 61,
-                            date = new DateTime(2020, 3, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.30589405f,
-                            production_gross = 0.20023575f
+                            date = new DateTime(2020, 6, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.124989055f,
+                            production_gross = 0.1381208f
                         },
                         new
                         {
                             id = 62,
-                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.32950085f,
-                            production_gross = 0.51462525f
+                            date = new DateTime(2020, 6, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.554474f,
+                            production_gross = 0.3382234f
                         },
                         new
                         {
                             id = 63,
-                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6693968f,
-                            production_gross = 0.681583f
+                            date = new DateTime(2020, 9, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.1916762f,
+                            production_gross = 0.213349f
                         },
                         new
                         {
                             id = 64,
-                            date = new DateTime(2020, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7465206f,
-                            production_gross = 0.4613091f
+                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.52447724f,
+                            production_gross = 0.8094545f
                         },
                         new
                         {
                             id = 65,
-                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7216854f,
-                            production_gross = 0.7719479f
+                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5996976f,
+                            production_gross = 0.9839338f
                         },
                         new
                         {
                             id = 66,
-                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.97008413f,
-                            production_gross = 0.71171474f
+                            date = new DateTime(2020, 1, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2650179f,
+                            production_gross = 0.49883106f
                         },
                         new
                         {
                             id = 67,
-                            date = new DateTime(2020, 12, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.44284788f,
-                            production_gross = 0.32333368f
+                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.41598493f,
+                            production_gross = 0.3580748f
                         },
                         new
                         {
                             id = 68,
-                            date = new DateTime(2020, 2, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.62609625f,
-                            production_gross = 0.2979887f
+                            date = new DateTime(2020, 10, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.11723507f,
+                            production_gross = 0.22134998f
                         },
                         new
                         {
                             id = 69,
-                            date = new DateTime(2020, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.20323083f,
-                            production_gross = 0.35939515f
+                            date = new DateTime(2020, 3, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.47721878f,
+                            production_gross = 0.0027325982f
                         },
                         new
                         {
                             id = 70,
-                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.10804733f,
-                            production_gross = 0.8216472f
+                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.29132065f,
+                            production_gross = 0.17110369f
                         },
                         new
                         {
                             id = 71,
-                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7547166f,
-                            production_gross = 0.6732123f
+                            date = new DateTime(2020, 6, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.17782684f,
+                            production_gross = 0.35681644f
                         },
                         new
                         {
                             id = 72,
-                            date = new DateTime(2020, 6, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.914652f,
-                            production_gross = 0.42138237f
+                            date = new DateTime(2020, 6, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.60374385f,
+                            production_gross = 0.64158416f
                         },
                         new
                         {
                             id = 73,
-                            date = new DateTime(2020, 9, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.35158893f,
-                            production_gross = 0.75100476f
+                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5045884f,
+                            production_gross = 0.4099559f
                         },
                         new
                         {
                             id = 74,
-                            date = new DateTime(2020, 1, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.85367286f,
-                            production_gross = 0.5843381f
+                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.8638182f,
+                            production_gross = 0.6552672f
                         },
                         new
                         {
                             id = 75,
-                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.43372104f,
-                            production_gross = 0.030605694f
+                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.75124645f,
+                            production_gross = 0.5167334f
                         },
                         new
                         {
                             id = 76,
-                            date = new DateTime(2020, 4, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.3645589f,
-                            production_gross = 0.5126397f
+                            date = new DateTime(2020, 7, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6702265f,
+                            production_gross = 0.04381179f
                         },
                         new
                         {
                             id = 77,
-                            date = new DateTime(2020, 9, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6102891f,
-                            production_gross = 0.394402f
+                            date = new DateTime(2020, 10, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.27230382f,
+                            production_gross = 0.45874563f
                         },
                         new
                         {
                             id = 78,
-                            date = new DateTime(2020, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.67756426f,
-                            production_gross = 0.0041092676f
+                            date = new DateTime(2020, 4, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.52988565f,
+                            production_gross = 0.27471367f
                         },
                         new
                         {
                             id = 79,
-                            date = new DateTime(2020, 3, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.33344847f,
-                            production_gross = 0.3102021f
+                            date = new DateTime(2020, 1, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.15949304f,
+                            production_gross = 0.10693022f
                         },
                         new
                         {
                             id = 80,
-                            date = new DateTime(2020, 8, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.4593161f,
-                            production_gross = 0.05091271f
+                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.69583356f,
+                            production_gross = 0.027877023f
                         },
                         new
                         {
                             id = 81,
-                            date = new DateTime(2020, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7333117f,
-                            production_gross = 0.92940843f
+                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.4789438f,
+                            production_gross = 0.59251857f
                         },
                         new
                         {
                             id = 82,
-                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8506676f,
-                            production_gross = 0.018434169f
+                            date = new DateTime(2020, 5, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.073233135f,
+                            production_gross = 0.11822356f
                         },
                         new
                         {
                             id = 83,
-                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.038873315f,
-                            production_gross = 0.74847287f
+                            date = new DateTime(2020, 4, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.15713602f,
+                            production_gross = 0.4533481f
                         },
                         new
                         {
                             id = 84,
-                            date = new DateTime(2020, 4, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.13181764f,
-                            production_gross = 0.5283686f
+                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.73666143f,
+                            production_gross = 0.70032835f
                         },
                         new
                         {
                             id = 85,
-                            date = new DateTime(2020, 7, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6509489f,
-                            production_gross = 0.3031394f
+                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.99197f,
+                            production_gross = 0.10097549f
                         },
                         new
                         {
                             id = 86,
-                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.06350706f,
-                            production_gross = 0.3916586f
+                            date = new DateTime(2020, 2, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.0069622826f,
+                            production_gross = 0.82980967f
                         },
                         new
                         {
                             id = 87,
-                            date = new DateTime(2020, 2, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8293685f,
-                            production_gross = 0.38065845f
+                            date = new DateTime(2020, 9, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2605972f,
+                            production_gross = 0.66247004f
                         },
                         new
                         {
                             id = 88,
-                            date = new DateTime(2020, 10, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.96933156f,
-                            production_gross = 0.28288022f
+                            date = new DateTime(2020, 4, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6576276f,
+                            production_gross = 0.13398978f
                         },
                         new
                         {
                             id = 89,
-                            date = new DateTime(2020, 6, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.035364144f,
-                            production_gross = 0.84438884f
+                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.86956096f,
+                            production_gross = 0.5157966f
                         },
                         new
                         {
                             id = 90,
-                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.89242977f,
-                            production_gross = 0.28831527f
+                            date = new DateTime(2020, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.26298782f,
+                            production_gross = 0.17613912f
                         },
                         new
                         {
                             id = 91,
-                            date = new DateTime(2020, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.21719468f,
-                            production_gross = 0.472505f
+                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.1799832f,
+                            production_gross = 0.67886317f
                         },
                         new
                         {
                             id = 92,
-                            date = new DateTime(2020, 8, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.45639452f,
-                            production_gross = 0.8524602f
+                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.98383915f,
+                            production_gross = 0.76985687f
                         },
                         new
                         {
                             id = 93,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.16137254f,
-                            production_gross = 0.051920295f
+                            date = new DateTime(2020, 10, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.91177815f,
+                            production_gross = 0.8634148f
                         },
                         new
                         {
                             id = 94,
-                            date = new DateTime(2020, 2, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.20445444f,
-                            production_gross = 0.04786656f
+                            date = new DateTime(2020, 7, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9624865f,
+                            production_gross = 0.11594156f
                         },
                         new
                         {
                             id = 95,
-                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.096408986f,
-                            production_gross = 0.23501168f
+                            date = new DateTime(2020, 5, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.8578612f,
+                            production_gross = 0.5236006f
                         },
                         new
                         {
                             id = 96,
-                            date = new DateTime(2020, 9, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6488213f,
-                            production_gross = 0.09587972f
+                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.10206256f,
+                            production_gross = 0.99098897f
                         },
                         new
                         {
                             id = 97,
-                            date = new DateTime(2020, 2, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5825528f,
-                            production_gross = 0.23039795f
+                            date = new DateTime(2020, 1, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.82846755f,
+                            production_gross = 0.5529756f
                         },
                         new
                         {
                             id = 98,
-                            date = new DateTime(2020, 6, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9890185f,
-                            production_gross = 0.32387155f
+                            date = new DateTime(2020, 10, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.59438694f,
+                            production_gross = 0.05945581f
                         },
                         new
                         {
                             id = 99,
-                            date = new DateTime(2020, 9, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.26074424f,
-                            production_gross = 0.76755387f
+                            date = new DateTime(2020, 12, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.67727095f,
+                            production_gross = 0.8844202f
                         },
                         new
                         {
                             id = 100,
-                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6081372f,
-                            production_gross = 0.17355242f
+                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9253009f,
+                            production_gross = 0.3950311f
                         },
                         new
                         {
                             id = 101,
-                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.3055348f,
-                            production_gross = 0.24404965f
+                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.1159934f,
+                            production_gross = 0.28436056f
                         },
                         new
                         {
                             id = 102,
-                            date = new DateTime(2020, 10, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7257821f,
-                            production_gross = 0.9240456f
+                            date = new DateTime(2020, 5, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.14360538f,
+                            production_gross = 0.11460216f
                         },
                         new
                         {
                             id = 103,
-                            date = new DateTime(2020, 1, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8742108f,
-                            production_gross = 0.29401836f
+                            date = new DateTime(2020, 12, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7939603f,
+                            production_gross = 0.81024253f
                         },
                         new
                         {
                             id = 104,
-                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.05889195f,
-                            production_gross = 0.15393586f
+                            date = new DateTime(2020, 6, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6146414f,
+                            production_gross = 0.17641915f
                         },
                         new
                         {
                             id = 105,
-                            date = new DateTime(2020, 11, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8149817f,
-                            production_gross = 0.43253782f
+                            date = new DateTime(2020, 6, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.34906924f,
+                            production_gross = 0.995287f
                         },
                         new
                         {
                             id = 106,
-                            date = new DateTime(2020, 11, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.85989505f,
-                            production_gross = 0.649481f
+                            date = new DateTime(2020, 1, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.8473986f,
+                            production_gross = 0.92295563f
                         },
                         new
                         {
                             id = 107,
-                            date = new DateTime(2020, 10, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.32246274f,
-                            production_gross = 0.57226264f
+                            date = new DateTime(2020, 2, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.108731605f,
+                            production_gross = 0.12536934f
                         },
                         new
                         {
                             id = 108,
-                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.060698148f,
-                            production_gross = 0.4828858f
+                            date = new DateTime(2020, 5, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.75589144f,
+                            production_gross = 0.9352238f
                         },
                         new
                         {
                             id = 109,
-                            date = new DateTime(2020, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6272811f,
-                            production_gross = 0.8765153f
+                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.18222106f,
+                            production_gross = 0.010555574f
                         },
                         new
                         {
                             id = 110,
-                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.14970778f,
-                            production_gross = 0.081541575f
+                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2320291f,
+                            production_gross = 0.28002748f
                         },
                         new
                         {
                             id = 111,
-                            date = new DateTime(2020, 11, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.60586107f,
-                            production_gross = 0.5162183f
+                            date = new DateTime(2020, 7, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.44509795f,
+                            production_gross = 0.47306153f
                         },
                         new
                         {
                             id = 112,
-                            date = new DateTime(2020, 1, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.32480282f,
-                            production_gross = 0.4599913f
+                            date = new DateTime(2020, 12, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.89546144f,
+                            production_gross = 0.87652767f
                         },
                         new
                         {
                             id = 113,
-                            date = new DateTime(2020, 8, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7075928f,
-                            production_gross = 0.5786003f
+                            date = new DateTime(2020, 8, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.38371783f,
+                            production_gross = 0.7745144f
                         },
                         new
                         {
                             id = 114,
-                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.10651301f,
-                            production_gross = 0.87450546f
+                            date = new DateTime(2020, 5, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5053702f,
+                            production_gross = 0.031797484f
                         },
                         new
                         {
                             id = 115,
-                            date = new DateTime(2020, 4, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.37164012f,
-                            production_gross = 0.6380774f
+                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.0795471f,
+                            production_gross = 0.64840436f
                         },
                         new
                         {
                             id = 116,
-                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.732387f,
-                            production_gross = 0.117135495f
+                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.27042976f,
+                            production_gross = 0.6335152f
                         },
                         new
                         {
                             id = 117,
-                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9908589f,
-                            production_gross = 0.08391107f
+                            date = new DateTime(2020, 9, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6291078f,
+                            production_gross = 0.04414657f
                         },
                         new
                         {
                             id = 118,
-                            date = new DateTime(2020, 8, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.44844338f,
-                            production_gross = 0.4069216f
+                            date = new DateTime(2020, 7, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.22646213f,
+                            production_gross = 0.1252243f
                         },
                         new
                         {
                             id = 119,
-                            date = new DateTime(2020, 5, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.55931675f,
-                            production_gross = 0.051442344f
+                            date = new DateTime(2020, 2, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7810642f,
+                            production_gross = 0.011410504f
                         },
                         new
                         {
                             id = 120,
-                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5037154f,
-                            production_gross = 0.18697175f
+                            date = new DateTime(2020, 10, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7968055f,
+                            production_gross = 0.07939546f
                         },
                         new
                         {
                             id = 121,
-                            date = new DateTime(2020, 11, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7941865f,
-                            production_gross = 0.2468444f
+                            date = new DateTime(2020, 6, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.52662116f,
+                            production_gross = 0.75781536f
                         },
                         new
                         {
                             id = 122,
-                            date = new DateTime(2020, 12, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.049108688f,
-                            production_gross = 0.27540576f
+                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.833088f,
+                            production_gross = 0.6200691f
                         },
                         new
                         {
                             id = 123,
-                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8020695f,
-                            production_gross = 0.6254699f
+                            date = new DateTime(2020, 11, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.17614271f,
+                            production_gross = 0.54277945f
                         },
                         new
                         {
                             id = 124,
-                            date = new DateTime(2020, 12, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.35654268f,
-                            production_gross = 0.06457722f
+                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2725377f,
+                            production_gross = 0.22420011f
                         },
                         new
                         {
                             id = 125,
-                            date = new DateTime(2020, 1, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.033255216f,
-                            production_gross = 0.2464212f
+                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.82950956f,
+                            production_gross = 0.25307903f
                         },
                         new
                         {
                             id = 126,
-                            date = new DateTime(2020, 12, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8727069f,
-                            production_gross = 0.1179249f
+                            date = new DateTime(2020, 2, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.31803596f,
+                            production_gross = 0.14337595f
                         },
                         new
                         {
                             id = 127,
-                            date = new DateTime(2020, 7, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8458275f,
-                            production_gross = 0.19048141f
+                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9584464f,
+                            production_gross = 0.56607515f
                         },
                         new
                         {
                             id = 128,
-                            date = new DateTime(2020, 7, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.018970482f,
-                            production_gross = 0.94617593f
+                            date = new DateTime(2020, 4, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.33512166f,
+                            production_gross = 0.9454396f
                         },
                         new
                         {
                             id = 129,
-                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.21181725f,
-                            production_gross = 0.7865286f
+                            date = new DateTime(2020, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.1342961f,
+                            production_gross = 0.43353906f
                         },
                         new
                         {
                             id = 130,
-                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8322225f,
-                            production_gross = 0.57241416f
+                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9074762f,
+                            production_gross = 0.94785404f
                         },
                         new
                         {
                             id = 131,
-                            date = new DateTime(2020, 11, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5525022f,
-                            production_gross = 0.84487474f
+                            date = new DateTime(2020, 5, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.14363343f,
+                            production_gross = 0.47182447f
                         },
                         new
                         {
                             id = 132,
-                            date = new DateTime(2020, 5, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.003319582f,
-                            production_gross = 0.38802075f
+                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.57279664f,
+                            production_gross = 0.90064174f
                         },
                         new
                         {
                             id = 133,
-                            date = new DateTime(2020, 4, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.14918101f,
-                            production_gross = 0.0496199f
+                            date = new DateTime(2020, 11, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.93526334f,
+                            production_gross = 0.73814464f
                         },
                         new
                         {
                             id = 134,
-                            date = new DateTime(2020, 3, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7994511f,
-                            production_gross = 0.20051688f
+                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.08568494f,
+                            production_gross = 0.2770691f
                         },
                         new
                         {
                             id = 135,
-                            date = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.39512146f,
-                            production_gross = 0.9537711f
+                            date = new DateTime(2020, 4, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.477613f,
+                            production_gross = 0.4302876f
                         },
                         new
                         {
                             id = 136,
-                            date = new DateTime(2020, 9, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.020205515f,
-                            production_gross = 0.55356705f
+                            date = new DateTime(2020, 3, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.94174176f,
+                            production_gross = 0.40284896f
                         },
                         new
                         {
                             id = 137,
-                            date = new DateTime(2020, 1, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7332599f,
-                            production_gross = 0.03129564f
+                            date = new DateTime(2020, 3, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.8902898f,
+                            production_gross = 0.5352543f
                         },
                         new
                         {
                             id = 138,
-                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9471177f,
-                            production_gross = 0.27488968f
+                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.68918884f,
+                            production_gross = 0.45065054f
                         },
                         new
                         {
                             id = 139,
-                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.39539444f,
-                            production_gross = 0.5141522f
+                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.46132684f,
+                            production_gross = 0.35481834f
                         },
                         new
                         {
                             id = 140,
-                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.81767815f,
-                            production_gross = 0.36643562f
+                            date = new DateTime(2020, 8, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5725057f,
+                            production_gross = 0.54814935f
                         },
                         new
                         {
                             id = 141,
-                            date = new DateTime(2020, 8, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.019352611f,
-                            production_gross = 0.28793424f
+                            date = new DateTime(2020, 5, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.91466284f,
+                            production_gross = 0.8261612f
                         },
                         new
                         {
                             id = 142,
-                            date = new DateTime(2020, 9, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.87908375f,
-                            production_gross = 0.8012072f
+                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.81144744f,
+                            production_gross = 0.6700274f
                         },
                         new
                         {
                             id = 143,
-                            date = new DateTime(2020, 7, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8225978f,
-                            production_gross = 0.6146785f
+                            date = new DateTime(2020, 10, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.47892475f,
+                            production_gross = 0.036330946f
                         },
                         new
                         {
                             id = 144,
-                            date = new DateTime(2020, 11, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9552563f,
-                            production_gross = 0.18482399f
+                            date = new DateTime(2020, 9, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7883161f,
+                            production_gross = 0.88789076f
                         },
                         new
                         {
                             id = 145,
-                            date = new DateTime(2020, 12, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.2940781f,
-                            production_gross = 0.8640223f
+                            date = new DateTime(2020, 6, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.41637433f,
+                            production_gross = 0.04171881f
                         },
                         new
                         {
                             id = 146,
-                            date = new DateTime(2020, 2, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.40549794f,
-                            production_gross = 0.15804414f
+                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5763185f,
+                            production_gross = 0.5164214f
                         },
                         new
                         {
                             id = 147,
-                            date = new DateTime(2020, 8, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5241011f,
-                            production_gross = 0.6040216f
+                            date = new DateTime(2020, 5, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.35041124f,
+                            production_gross = 0.70641553f
                         },
                         new
                         {
                             id = 148,
-                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.053036597f,
-                            production_gross = 0.9513838f
+                            date = new DateTime(2020, 9, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.78924465f,
+                            production_gross = 0.37056875f
                         },
                         new
                         {
                             id = 149,
-                            date = new DateTime(2020, 10, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.046892542f,
-                            production_gross = 0.33716723f
+                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.8495437f,
+                            production_gross = 0.746282f
                         },
                         new
                         {
                             id = 150,
-                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.28329554f,
-                            production_gross = 0.88692045f
+                            date = new DateTime(2020, 6, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.597766f,
+                            production_gross = 0.9612016f
                         },
                         new
                         {
                             id = 151,
-                            date = new DateTime(2020, 10, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7333602f,
-                            production_gross = 0.6933677f
+                            date = new DateTime(2020, 8, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.56802857f,
+                            production_gross = 0.62503713f
                         },
                         new
                         {
                             id = 152,
-                            date = new DateTime(2020, 1, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.41035682f,
-                            production_gross = 0.5028167f
+                            date = new DateTime(2020, 1, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5955824f,
+                            production_gross = 0.3496162f
                         },
                         new
                         {
                             id = 153,
-                            date = new DateTime(2020, 8, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.11928487f,
-                            production_gross = 0.8029333f
+                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.058272418f,
+                            production_gross = 0.7697066f
                         },
                         new
                         {
                             id = 154,
-                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7393818f,
-                            production_gross = 0.30199644f
+                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5988479f,
+                            production_gross = 0.5437841f
                         },
                         new
                         {
                             id = 155,
-                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6812526f,
-                            production_gross = 0.86887985f
+                            date = new DateTime(2020, 12, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.25443622f,
+                            production_gross = 0.9292416f
                         },
                         new
                         {
                             id = 156,
-                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.4943221f,
-                            production_gross = 0.12435075f
+                            date = new DateTime(2020, 12, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.50775176f,
+                            production_gross = 0.8016954f
                         },
                         new
                         {
                             id = 157,
-                            date = new DateTime(2020, 4, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.31778368f,
-                            production_gross = 0.09926116f
+                            date = new DateTime(2020, 2, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5174239f,
+                            production_gross = 0.3961185f
                         },
                         new
                         {
                             id = 158,
-                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9678252f,
-                            production_gross = 0.0016380878f
+                            date = new DateTime(2020, 1, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.68185186f,
+                            production_gross = 0.35502905f
                         },
                         new
                         {
                             id = 159,
-                            date = new DateTime(2020, 4, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.44264883f,
-                            production_gross = 0.025596207f
+                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.780243f,
+                            production_gross = 0.01584708f
                         },
                         new
                         {
                             id = 160,
-                            date = new DateTime(2020, 5, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7527234f,
-                            production_gross = 0.0120277f
+                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.62297446f,
+                            production_gross = 0.3457403f
                         },
                         new
                         {
                             id = 161,
-                            date = new DateTime(2020, 11, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7832374f,
-                            production_gross = 0.45450994f
+                            date = new DateTime(2020, 8, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6601073f,
+                            production_gross = 0.09140217f
                         },
                         new
                         {
                             id = 162,
-                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8082467f,
-                            production_gross = 0.0010910588f
+                            date = new DateTime(2020, 1, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.49149162f,
+                            production_gross = 0.37886208f
                         },
                         new
                         {
                             id = 163,
-                            date = new DateTime(2020, 11, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5701535f,
-                            production_gross = 0.6201547f
+                            date = new DateTime(2020, 8, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.15550528f,
+                            production_gross = 0.07558573f
                         },
                         new
                         {
                             id = 164,
-                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.91057557f,
-                            production_gross = 0.24323693f
+                            date = new DateTime(2020, 12, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.73357373f,
+                            production_gross = 0.9232829f
                         },
                         new
                         {
                             id = 165,
-                            date = new DateTime(2020, 7, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.50598836f,
-                            production_gross = 0.839794f
+                            date = new DateTime(2020, 6, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.38207752f,
+                            production_gross = 0.20711443f
                         },
                         new
                         {
                             id = 166,
-                            date = new DateTime(2020, 4, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.76296014f,
-                            production_gross = 0.18992652f
+                            date = new DateTime(2020, 10, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.46291408f,
+                            production_gross = 0.2707399f
                         },
                         new
                         {
                             id = 167,
-                            date = new DateTime(2020, 4, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.3197369f,
-                            production_gross = 0.24101764f
+                            date = new DateTime(2020, 5, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7540123f,
+                            production_gross = 0.17358208f
                         },
                         new
                         {
                             id = 168,
-                            date = new DateTime(2020, 5, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.37706774f,
-                            production_gross = 0.91684383f
+                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.0052598747f,
+                            production_gross = 0.22502232f
                         },
                         new
                         {
                             id = 169,
-                            date = new DateTime(2020, 9, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.36121675f,
-                            production_gross = 0.430291f
+                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.31885913f,
+                            production_gross = 0.2021103f
                         },
                         new
                         {
                             id = 170,
-                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.53902036f,
-                            production_gross = 0.2640378f
+                            date = new DateTime(2020, 4, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7049748f,
+                            production_gross = 0.37828746f
                         },
                         new
                         {
                             id = 171,
-                            date = new DateTime(2020, 4, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.85097533f,
-                            production_gross = 0.18247537f
+                            date = new DateTime(2020, 10, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.72357875f,
+                            production_gross = 0.5504795f
                         },
                         new
                         {
                             id = 172,
-                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.37790406f,
-                            production_gross = 0.6072174f
+                            date = new DateTime(2020, 9, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7729422f,
+                            production_gross = 0.45480803f
                         },
                         new
                         {
                             id = 173,
-                            date = new DateTime(2020, 1, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.2090485f,
-                            production_gross = 0.83154887f
+                            date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2925791f,
+                            production_gross = 0.0036730564f
                         },
                         new
                         {
                             id = 174,
-                            date = new DateTime(2020, 12, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7356068f,
-                            production_gross = 0.5188082f
+                            date = new DateTime(2020, 2, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.56738275f,
+                            production_gross = 0.06829086f
                         },
                         new
                         {
                             id = 175,
-                            date = new DateTime(2020, 12, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5027299f,
-                            production_gross = 0.92819315f
+                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.55614436f,
+                            production_gross = 0.8760761f
                         },
                         new
                         {
                             id = 176,
-                            date = new DateTime(2020, 8, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.79559046f,
-                            production_gross = 0.23402724f
+                            date = new DateTime(2020, 1, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9320268f,
+                            production_gross = 0.92654455f
                         },
                         new
                         {
                             id = 177,
-                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.804507f,
-                            production_gross = 0.23383152f
+                            date = new DateTime(2020, 2, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.09096838f,
+                            production_gross = 0.6590292f
                         },
                         new
                         {
                             id = 178,
-                            date = new DateTime(2020, 11, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.55060077f,
-                            production_gross = 0.93558323f
+                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.367019f,
+                            production_gross = 0.8939395f
                         },
                         new
                         {
                             id = 179,
-                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.95814186f,
-                            production_gross = 0.74019665f
+                            date = new DateTime(2020, 5, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.0039532296f,
+                            production_gross = 0.968701f
                         },
                         new
                         {
                             id = 180,
-                            date = new DateTime(2020, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.3980537f,
-                            production_gross = 0.8423011f
+                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.59832126f,
+                            production_gross = 0.4565727f
                         },
                         new
                         {
                             id = 181,
-                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9572911f,
-                            production_gross = 0.22052796f
+                            date = new DateTime(2020, 1, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.50429314f,
+                            production_gross = 0.6898237f
                         },
                         new
                         {
                             id = 182,
-                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8396157f,
-                            production_gross = 0.82886195f
+                            date = new DateTime(2020, 9, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.11210416f,
+                            production_gross = 0.5256867f
                         },
                         new
                         {
                             id = 183,
-                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.4433489f,
-                            production_gross = 0.75034815f
+                            date = new DateTime(2020, 5, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7073057f,
+                            production_gross = 0.86026514f
                         },
                         new
                         {
                             id = 184,
-                            date = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.28005928f,
-                            production_gross = 0.7052826f
+                            date = new DateTime(2020, 1, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7086761f,
+                            production_gross = 0.6538289f
                         },
                         new
                         {
                             id = 185,
-                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.35176322f,
-                            production_gross = 0.056604963f
+                            date = new DateTime(2020, 3, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2964903f,
+                            production_gross = 0.52744114f
                         },
                         new
                         {
                             id = 186,
-                            date = new DateTime(2020, 1, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.86061853f,
-                            production_gross = 0.43031642f
+                            date = new DateTime(2020, 11, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2133472f,
+                            production_gross = 0.30790377f
                         },
                         new
                         {
                             id = 187,
-                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.24458112f,
-                            production_gross = 0.7214997f
+                            date = new DateTime(2020, 3, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.22665647f,
+                            production_gross = 0.4587881f
                         },
                         new
                         {
                             id = 188,
-                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.78172207f,
-                            production_gross = 0.5833999f
+                            date = new DateTime(2020, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.3607753f,
+                            production_gross = 0.1831529f
                         },
                         new
                         {
                             id = 189,
-                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7065885f,
-                            production_gross = 0.7172466f
+                            date = new DateTime(2020, 7, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9790103f,
+                            production_gross = 0.5816956f
                         },
                         new
                         {
                             id = 190,
-                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.0874429f,
-                            production_gross = 0.83000773f
+                            date = new DateTime(2020, 2, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.03721091f,
+                            production_gross = 0.92424524f
                         },
                         new
                         {
                             id = 191,
-                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5373105f,
-                            production_gross = 0.35796103f
+                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.43933293f,
+                            production_gross = 0.07026499f
                         },
                         new
                         {
                             id = 192,
-                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.72643834f,
-                            production_gross = 0.71642506f
+                            date = new DateTime(2020, 12, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6639966f,
+                            production_gross = 0.385483f
                         },
                         new
                         {
                             id = 193,
-                            date = new DateTime(2020, 8, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5061944f,
-                            production_gross = 0.06133245f
+                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.21755303f,
+                            production_gross = 0.11375162f
                         },
                         new
                         {
                             id = 194,
-                            date = new DateTime(2020, 6, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7985695f,
-                            production_gross = 0.42889342f
+                            date = new DateTime(2020, 8, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5320941f,
+                            production_gross = 0.36939692f
                         },
                         new
                         {
                             id = 195,
-                            date = new DateTime(2020, 9, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.028604617f,
-                            production_gross = 0.19889551f
+                            date = new DateTime(2020, 10, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.24761322f,
+                            production_gross = 0.3593123f
                         },
                         new
                         {
                             id = 196,
-                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.49462298f,
-                            production_gross = 0.5821955f
+                            date = new DateTime(2020, 9, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.18241341f,
+                            production_gross = 0.3572148f
                         },
                         new
                         {
                             id = 197,
-                            date = new DateTime(2020, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.16929983f,
-                            production_gross = 0.07829112f
+                            date = new DateTime(2020, 5, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2623422f,
+                            production_gross = 0.8337383f
                         },
                         new
                         {
                             id = 198,
-                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5076803f,
-                            production_gross = 0.9095674f
+                            date = new DateTime(2020, 9, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.13863108f,
+                            production_gross = 0.151319f
                         },
                         new
                         {
                             id = 199,
-                            date = new DateTime(2020, 2, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8876848f,
-                            production_gross = 0.84584343f
+                            date = new DateTime(2020, 4, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.27478656f,
+                            production_gross = 0.24730197f
                         },
                         new
                         {
                             id = 200,
-                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.99106574f,
-                            production_gross = 0.34434792f
+                            date = new DateTime(2020, 5, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2279952f,
+                            production_gross = 0.78314036f
                         },
                         new
                         {
                             id = 201,
-                            date = new DateTime(2020, 9, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5063615f,
-                            production_gross = 0.070992246f
+                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9896195f,
+                            production_gross = 0.19871296f
                         },
                         new
                         {
                             id = 202,
-                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.30231765f,
-                            production_gross = 0.22496642f
+                            date = new DateTime(2020, 10, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.35299724f,
+                            production_gross = 0.8847702f
                         },
                         new
                         {
                             id = 203,
-                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.16885611f,
-                            production_gross = 0.16654871f
+                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.2230792f,
+                            production_gross = 0.5517224f
                         },
                         new
                         {
                             id = 204,
-                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.3636803f,
-                            production_gross = 0.064053364f
+                            date = new DateTime(2020, 7, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6547545f,
+                            production_gross = 0.20053637f
                         },
                         new
                         {
                             id = 205,
-                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.5007276f,
-                            production_gross = 0.7168087f
+                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.24457644f,
+                            production_gross = 0.71032375f
                         },
                         new
                         {
                             id = 206,
-                            date = new DateTime(2020, 1, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8654024f,
-                            production_gross = 0.0011302745f
+                            date = new DateTime(2020, 5, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.20822258f,
+                            production_gross = 0.8274958f
                         },
                         new
                         {
                             id = 207,
-                            date = new DateTime(2020, 9, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.60088515f,
-                            production_gross = 0.80519515f
+                            date = new DateTime(2020, 8, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.82665354f,
+                            production_gross = 0.2832436f
                         },
                         new
                         {
                             id = 208,
-                            date = new DateTime(2020, 10, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.26627988f,
-                            production_gross = 0.94010186f
+                            date = new DateTime(2020, 1, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7569823f,
+                            production_gross = 0.043657813f
                         },
                         new
                         {
                             id = 209,
-                            date = new DateTime(2020, 9, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9710676f,
-                            production_gross = 0.46526536f
+                            date = new DateTime(2020, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.66606086f,
+                            production_gross = 0.32528093f
                         },
                         new
                         {
                             id = 210,
-                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.11605145f,
-                            production_gross = 0.4917108f
+                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.62465864f,
+                            production_gross = 0.118391536f
                         },
                         new
                         {
                             id = 211,
-                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6605549f,
-                            production_gross = 0.22556844f
+                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.426167f,
+                            production_gross = 0.27394307f
                         },
                         new
                         {
                             id = 212,
-                            date = new DateTime(2020, 8, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.1554948f,
-                            production_gross = 0.75384474f
+                            date = new DateTime(2020, 6, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.50817364f,
+                            production_gross = 0.57123476f
                         },
                         new
                         {
                             id = 213,
-                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6966981f,
-                            production_gross = 0.80684656f
+                            date = new DateTime(2020, 5, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.3601697f,
+                            production_gross = 0.14755371f
                         },
                         new
                         {
                             id = 214,
-                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6160652f,
-                            production_gross = 0.15844251f
+                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.71852237f,
+                            production_gross = 0.067071274f
                         },
                         new
                         {
                             id = 215,
-                            date = new DateTime(2020, 1, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.41073802f,
-                            production_gross = 0.42076072f
+                            date = new DateTime(2020, 8, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.76598585f,
+                            production_gross = 0.4471624f
                         },
                         new
                         {
                             id = 216,
-                            date = new DateTime(2020, 8, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.53295225f,
-                            production_gross = 0.18670636f
+                            date = new DateTime(2020, 7, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.057748936f,
+                            production_gross = 0.42825285f
                         },
                         new
                         {
                             id = 217,
-                            date = new DateTime(2020, 10, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.2726307f,
-                            production_gross = 0.83929855f
+                            date = new DateTime(2020, 5, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.906417f,
+                            production_gross = 0.117273904f
                         },
                         new
                         {
                             id = 218,
-                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.91354364f,
-                            production_gross = 0.29835567f
+                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.36154142f,
+                            production_gross = 0.629725f
                         },
                         new
                         {
                             id = 219,
-                            date = new DateTime(2020, 9, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.613888f,
-                            production_gross = 0.2222972f
+                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5641126f,
+                            production_gross = 0.05212274f
                         },
                         new
                         {
                             id = 220,
-                            date = new DateTime(2020, 1, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.93933994f,
-                            production_gross = 0.080941506f
+                            date = new DateTime(2020, 4, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.43884176f,
+                            production_gross = 0.59603864f
                         },
                         new
                         {
                             id = 221,
-                            date = new DateTime(2020, 5, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.95601064f,
-                            production_gross = 0.44508168f
+                            date = new DateTime(2020, 4, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7151471f,
+                            production_gross = 0.9321291f
                         },
                         new
                         {
                             id = 222,
-                            date = new DateTime(2020, 6, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.17051955f,
-                            production_gross = 0.21069814f
+                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.4076837f,
+                            production_gross = 0.085025325f
                         },
                         new
                         {
                             id = 223,
-                            date = new DateTime(2020, 8, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6446513f,
-                            production_gross = 0.44330108f
+                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.9880565f,
+                            production_gross = 0.62438804f
                         },
                         new
                         {
                             id = 224,
-                            date = new DateTime(2020, 9, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.41204992f,
-                            production_gross = 0.009474668f
+                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.50816077f,
+                            production_gross = 0.07894145f
                         },
                         new
                         {
                             id = 225,
-                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.27450126f,
-                            production_gross = 0.6153304f
+                            date = new DateTime(2020, 3, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.78212035f,
+                            production_gross = 0.3759421f
                         },
                         new
                         {
                             id = 226,
-                            date = new DateTime(2020, 5, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.75347257f,
-                            production_gross = 0.20563532f
+                            date = new DateTime(2020, 10, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.076789215f,
+                            production_gross = 0.26478624f
                         },
                         new
                         {
                             id = 227,
-                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.7527355f,
-                            production_gross = 0.45920625f
+                            date = new DateTime(2020, 7, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6150631f,
+                            production_gross = 0.44901666f
                         },
                         new
                         {
                             id = 228,
-                            date = new DateTime(2020, 2, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8495298f,
-                            production_gross = 0.33802727f
+                            date = new DateTime(2020, 1, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7256911f,
+                            production_gross = 0.7916876f
                         },
                         new
                         {
                             id = 229,
-                            date = new DateTime(2020, 4, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.85294133f,
-                            production_gross = 0.7899237f
+                            date = new DateTime(2020, 10, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5363008f,
+                            production_gross = 0.77329415f
                         },
                         new
                         {
                             id = 230,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.11851985f,
-                            production_gross = 0.51783246f
+                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.045128506f,
+                            production_gross = 0.5886892f
                         },
                         new
                         {
                             id = 231,
-                            date = new DateTime(2020, 12, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.71950984f,
-                            production_gross = 0.6059197f
+                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6309441f,
+                            production_gross = 0.37942523f
                         },
                         new
                         {
                             id = 232,
-                            date = new DateTime(2020, 9, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.737704f,
-                            production_gross = 0.67121595f
+                            date = new DateTime(2020, 10, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.30372772f,
+                            production_gross = 0.8953913f
                         },
                         new
                         {
                             id = 233,
-                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.44708133f,
-                            production_gross = 0.7640544f
+                            date = new DateTime(2020, 11, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.27767622f,
+                            production_gross = 0.2682157f
                         },
                         new
                         {
                             id = 234,
-                            date = new DateTime(2020, 11, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.69396955f,
-                            production_gross = 0.033557218f
+                            date = new DateTime(2020, 8, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6496808f,
+                            production_gross = 0.08278301f
                         },
                         new
                         {
                             id = 235,
-                            date = new DateTime(2020, 8, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.52083427f,
-                            production_gross = 0.76460975f
+                            date = new DateTime(2020, 2, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.25383854f,
+                            production_gross = 0.17852372f
                         },
                         new
                         {
                             id = 236,
-                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.37182546f,
-                            production_gross = 0.31045145f
+                            date = new DateTime(2020, 11, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.13095059f,
+                            production_gross = 0.5431891f
                         },
                         new
                         {
                             id = 237,
-                            date = new DateTime(2020, 12, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.13561198f,
-                            production_gross = 0.2980589f
+                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5545979f,
+                            production_gross = 0.5128003f
                         },
                         new
                         {
                             id = 238,
-                            date = new DateTime(2020, 7, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.31862995f,
-                            production_gross = 0.39719486f
+                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5377645f,
+                            production_gross = 0.18965699f
                         },
                         new
                         {
                             id = 239,
-                            date = new DateTime(2020, 7, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.97996444f,
-                            production_gross = 0.4567221f
+                            date = new DateTime(2020, 2, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.67423517f,
+                            production_gross = 0.4366265f
                         },
                         new
                         {
                             id = 240,
-                            date = new DateTime(2020, 11, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9246007f,
-                            production_gross = 0.41673023f
+                            date = new DateTime(2020, 11, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.101956904f,
+                            production_gross = 0.7740834f
                         },
                         new
                         {
                             id = 241,
-                            date = new DateTime(2020, 11, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.9461214f,
-                            production_gross = 0.41423082f
+                            date = new DateTime(2020, 11, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.49024254f,
+                            production_gross = 0.7791212f
                         },
                         new
                         {
                             id = 242,
-                            date = new DateTime(2020, 11, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.92185354f,
-                            production_gross = 0.78030753f
+                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.3436406f,
+                            production_gross = 0.32119685f
                         },
                         new
                         {
                             id = 243,
-                            date = new DateTime(2020, 9, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.25976616f,
-                            production_gross = 0.3994251f
+                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.5234371f,
+                            production_gross = 0.12215414f
                         },
                         new
                         {
                             id = 244,
-                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8060653f,
-                            production_gross = 0.09559986f
+                            date = new DateTime(2020, 10, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.16782606f,
+                            production_gross = 0.82179904f
                         },
                         new
                         {
                             id = 245,
-                            date = new DateTime(2020, 5, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6522244f,
-                            production_gross = 0.7981904f
+                            date = new DateTime(2020, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.21828806f,
+                            production_gross = 0.032654382f
                         },
                         new
                         {
                             id = 246,
-                            date = new DateTime(2020, 8, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.8912539f,
-                            production_gross = 0.22490393f
+                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.31563827f,
+                            production_gross = 0.18887787f
                         },
                         new
                         {
                             id = 247,
-                            date = new DateTime(2020, 3, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.008764725f,
-                            production_gross = 0.8727185f
+                            date = new DateTime(2020, 3, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.36708274f,
+                            production_gross = 0.017144112f
                         },
                         new
                         {
                             id = 248,
-                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.09766443f,
-                            production_gross = 0.7941293f
+                            date = new DateTime(2020, 10, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.7315227f,
+                            production_gross = 0.0907465f
                         },
                         new
                         {
                             id = 249,
-                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.62236756f,
-                            production_gross = 0.1333248f
+                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.6972138f,
+                            production_gross = 0.42682463f
                         },
                         new
                         {
                             id = 250,
-                            date = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            fuel_consumption = 0.6177294f,
-                            production_gross = 0.525891f
+                            date = new DateTime(2020, 2, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            fuel_consumption = 0.57496595f,
+                            production_gross = 0.076763794f
                         });
                 });
 
@@ -7172,1752 +7172,1752 @@ namespace Server.Migrations
                         new
                         {
                             id = 1,
-                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.88448304f,
-                            net_income = 0.2723539f
+                            date = new DateTime(2020, 4, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.24087225f,
+                            net_income = 0.40901673f
                         },
                         new
                         {
                             id = 2,
-                            date = new DateTime(2020, 1, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.45516378f,
-                            net_income = 0.26024154f
+                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9414684f,
+                            net_income = 0.26372883f
                         },
                         new
                         {
                             id = 3,
-                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.07435797f,
-                            net_income = 0.69843477f
+                            date = new DateTime(2020, 10, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.968508f,
+                            net_income = 0.07482579f
                         },
                         new
                         {
                             id = 4,
-                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.2891657f,
-                            net_income = 0.83463764f
+                            date = new DateTime(2020, 2, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.86526054f,
+                            net_income = 0.068780154f
                         },
                         new
                         {
                             id = 5,
-                            date = new DateTime(2020, 11, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6129419f,
-                            net_income = 0.46538368f
+                            date = new DateTime(2020, 11, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.23077233f,
+                            net_income = 0.46784988f
                         },
                         new
                         {
                             id = 6,
-                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.16840857f,
-                            net_income = 0.11267557f
+                            date = new DateTime(2020, 5, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6161087f,
+                            net_income = 0.43149096f
                         },
                         new
                         {
                             id = 7,
-                            date = new DateTime(2020, 5, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5562386f,
-                            net_income = 0.14759767f
+                            date = new DateTime(2020, 10, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.030870875f,
+                            net_income = 0.2848949f
                         },
                         new
                         {
                             id = 8,
-                            date = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.74368566f,
-                            net_income = 0.01849115f
+                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.028866598f,
+                            net_income = 0.6588888f
                         },
                         new
                         {
                             id = 9,
-                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3871964f,
-                            net_income = 0.4218198f
+                            date = new DateTime(2020, 5, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.30428582f,
+                            net_income = 0.9452436f
                         },
                         new
                         {
                             id = 10,
-                            date = new DateTime(2020, 5, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.80995584f,
-                            net_income = 0.45507145f
+                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.383772f,
+                            net_income = 0.30738804f
                         },
                         new
                         {
                             id = 11,
-                            date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7187166f,
-                            net_income = 0.06349043f
+                            date = new DateTime(2020, 3, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.46827406f,
+                            net_income = 0.95123136f
                         },
                         new
                         {
                             id = 12,
-                            date = new DateTime(2020, 7, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.12184059f,
-                            net_income = 0.01969558f
+                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6998769f,
+                            net_income = 0.94228464f
                         },
                         new
                         {
                             id = 13,
-                            date = new DateTime(2020, 10, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7815601f,
-                            net_income = 0.65806186f
+                            date = new DateTime(2020, 7, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.64904195f,
+                            net_income = 0.98015213f
                         },
                         new
                         {
                             id = 14,
-                            date = new DateTime(2020, 9, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.71651155f,
-                            net_income = 0.06799264f
+                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.030433727f,
+                            net_income = 0.28987056f
                         },
                         new
                         {
                             id = 15,
-                            date = new DateTime(2020, 7, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6899761f,
-                            net_income = 0.11502948f
+                            date = new DateTime(2020, 12, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7126934f,
+                            net_income = 0.941905f
                         },
                         new
                         {
                             id = 16,
-                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7329899f,
-                            net_income = 0.024745043f
+                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.97225064f,
+                            net_income = 0.5404627f
                         },
                         new
                         {
                             id = 17,
-                            date = new DateTime(2020, 10, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.35373715f,
-                            net_income = 0.8465449f
+                            date = new DateTime(2020, 8, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.08901946f,
+                            net_income = 0.32037032f
                         },
                         new
                         {
                             id = 18,
-                            date = new DateTime(2020, 11, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8707126f,
-                            net_income = 0.16007568f
+                            date = new DateTime(2020, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.80121726f,
+                            net_income = 0.17314002f
                         },
                         new
                         {
                             id = 19,
-                            date = new DateTime(2020, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.24412836f,
-                            net_income = 0.12791705f
+                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.41646138f,
+                            net_income = 0.7098782f
                         },
                         new
                         {
                             id = 20,
-                            date = new DateTime(2020, 5, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.19836855f,
-                            net_income = 0.21293981f
+                            date = new DateTime(2020, 11, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.39859185f,
+                            net_income = 0.2523806f
                         },
                         new
                         {
                             id = 21,
-                            date = new DateTime(2020, 8, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.12933895f,
-                            net_income = 0.5463499f
+                            date = new DateTime(2020, 10, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.19788867f,
+                            net_income = 0.13409987f
                         },
                         new
                         {
                             id = 22,
-                            date = new DateTime(2020, 4, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.22575274f,
-                            net_income = 0.087065496f
+                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9959789f,
+                            net_income = 0.6657454f
                         },
                         new
                         {
                             id = 23,
-                            date = new DateTime(2020, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8466964f,
-                            net_income = 0.70446986f
+                            date = new DateTime(2020, 11, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.4178651f,
+                            net_income = 0.028160281f
                         },
                         new
                         {
                             id = 24,
-                            date = new DateTime(2020, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.71053886f,
-                            net_income = 0.69094723f
+                            date = new DateTime(2020, 2, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.98880005f,
+                            net_income = 0.39585364f
                         },
                         new
                         {
                             id = 25,
-                            date = new DateTime(2020, 12, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6615737f,
-                            net_income = 0.38562056f
+                            date = new DateTime(2020, 7, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8451536f,
+                            net_income = 0.35628024f
                         },
                         new
                         {
                             id = 26,
-                            date = new DateTime(2020, 7, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8346302f,
-                            net_income = 0.73067737f
+                            date = new DateTime(2020, 9, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.74296063f,
+                            net_income = 0.009269529f
                         },
                         new
                         {
                             id = 27,
-                            date = new DateTime(2020, 6, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6820843f,
-                            net_income = 0.10736929f
+                            date = new DateTime(2020, 11, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.0017346883f,
+                            net_income = 0.3328351f
                         },
                         new
                         {
                             id = 28,
-                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7983187f,
-                            net_income = 0.22727557f
+                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.636264f,
+                            net_income = 0.19879033f
                         },
                         new
                         {
                             id = 29,
-                            date = new DateTime(2020, 8, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7268806f,
-                            net_income = 0.9226958f
+                            date = new DateTime(2020, 11, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.38806418f,
+                            net_income = 0.8648316f
                         },
                         new
                         {
                             id = 30,
-                            date = new DateTime(2020, 2, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.91482383f,
-                            net_income = 0.74085575f
+                            date = new DateTime(2020, 3, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.70923567f,
+                            net_income = 0.3971335f
                         },
                         new
                         {
                             id = 31,
-                            date = new DateTime(2020, 9, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.39267084f,
-                            net_income = 0.86522746f
+                            date = new DateTime(2020, 12, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8564555f,
+                            net_income = 0.34959278f
                         },
                         new
                         {
                             id = 32,
-                            date = new DateTime(2020, 4, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3348259f,
-                            net_income = 0.3271978f
+                            date = new DateTime(2020, 2, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9838185f,
+                            net_income = 0.89458627f
                         },
                         new
                         {
                             id = 33,
-                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.23735031f,
-                            net_income = 0.44112328f
+                            date = new DateTime(2020, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8100218f,
+                            net_income = 0.55076784f
                         },
                         new
                         {
                             id = 34,
-                            date = new DateTime(2020, 7, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.96955603f,
-                            net_income = 0.16209374f
+                            date = new DateTime(2020, 3, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.85005796f,
+                            net_income = 0.32640678f
                         },
                         new
                         {
                             id = 35,
-                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7013353f,
-                            net_income = 0.61364746f
+                            date = new DateTime(2020, 1, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.45526043f,
+                            net_income = 0.95407313f
                         },
                         new
                         {
                             id = 36,
-                            date = new DateTime(2020, 1, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.13397065f,
-                            net_income = 0.3254404f
+                            date = new DateTime(2020, 2, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.13630116f,
+                            net_income = 0.9798959f
                         },
                         new
                         {
                             id = 37,
-                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.31053284f,
-                            net_income = 0.93959963f
+                            date = new DateTime(2020, 11, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9337861f,
+                            net_income = 0.7067444f
                         },
                         new
                         {
                             id = 38,
-                            date = new DateTime(2020, 10, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.692999f,
-                            net_income = 0.08253102f
+                            date = new DateTime(2020, 8, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.0064456817f,
+                            net_income = 0.26537883f
                         },
                         new
                         {
                             id = 39,
-                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.77757716f,
-                            net_income = 0.7200164f
+                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.052432485f,
+                            net_income = 0.98423916f
                         },
                         new
                         {
                             id = 40,
-                            date = new DateTime(2020, 8, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.022475345f,
-                            net_income = 0.7670513f
+                            date = new DateTime(2020, 3, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8500613f,
+                            net_income = 0.4441878f
                         },
                         new
                         {
                             id = 41,
-                            date = new DateTime(2020, 9, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8516619f,
-                            net_income = 0.8137112f
+                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.93095094f,
+                            net_income = 0.12604283f
                         },
                         new
                         {
                             id = 42,
-                            date = new DateTime(2020, 4, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.35615593f,
-                            net_income = 0.9549745f
+                            date = new DateTime(2020, 3, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8962606f,
+                            net_income = 0.6427713f
                         },
                         new
                         {
                             id = 43,
-                            date = new DateTime(2020, 9, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9427851f,
-                            net_income = 0.64164877f
+                            date = new DateTime(2020, 2, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.39351335f,
+                            net_income = 0.2684006f
                         },
                         new
                         {
                             id = 44,
-                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.52873737f,
-                            net_income = 0.7787909f
+                            date = new DateTime(2020, 11, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8340632f,
+                            net_income = 0.46072266f
                         },
                         new
                         {
                             id = 45,
-                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.33014238f,
-                            net_income = 0.47793803f
+                            date = new DateTime(2020, 5, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.043050267f,
+                            net_income = 0.28620368f
                         },
                         new
                         {
                             id = 46,
-                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5890918f,
-                            net_income = 0.6352153f
+                            date = new DateTime(2020, 1, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.80398774f,
+                            net_income = 0.83553505f
                         },
                         new
                         {
                             id = 47,
-                            date = new DateTime(2020, 12, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.45464644f,
-                            net_income = 0.29178423f
+                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.75552636f,
+                            net_income = 0.81581914f
                         },
                         new
                         {
                             id = 48,
-                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.55477816f,
-                            net_income = 0.6906029f
+                            date = new DateTime(2020, 7, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.58482105f,
+                            net_income = 0.21717432f
                         },
                         new
                         {
                             id = 49,
-                            date = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.033081643f,
-                            net_income = 0.17950277f
+                            date = new DateTime(2020, 11, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.99617386f,
+                            net_income = 0.7018519f
                         },
                         new
                         {
                             id = 50,
-                            date = new DateTime(2020, 2, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.07788089f,
-                            net_income = 0.23879337f
+                            date = new DateTime(2020, 1, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.027373843f,
+                            net_income = 0.7063947f
                         },
                         new
                         {
                             id = 51,
-                            date = new DateTime(2020, 12, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.39219797f,
-                            net_income = 0.63149774f
+                            date = new DateTime(2020, 3, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.24021673f,
+                            net_income = 0.6347573f
                         },
                         new
                         {
                             id = 52,
-                            date = new DateTime(2020, 5, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3306652f,
-                            net_income = 0.2714088f
+                            date = new DateTime(2020, 2, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.80090165f,
+                            net_income = 0.17149405f
                         },
                         new
                         {
                             id = 53,
-                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9880581f,
-                            net_income = 0.093203306f
+                            date = new DateTime(2020, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.021409824f,
+                            net_income = 0.8115261f
                         },
                         new
                         {
                             id = 54,
-                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.46125197f,
-                            net_income = 0.09037074f
+                            date = new DateTime(2020, 6, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.056578994f,
+                            net_income = 0.4337215f
                         },
                         new
                         {
                             id = 55,
-                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6756802f,
-                            net_income = 0.5448895f
+                            date = new DateTime(2020, 6, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.684998f,
+                            net_income = 0.22909388f
                         },
                         new
                         {
                             id = 56,
-                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.29788962f,
-                            net_income = 0.005034242f
+                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.49305093f,
+                            net_income = 0.048735846f
                         },
                         new
                         {
                             id = 57,
-                            date = new DateTime(2020, 11, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.67412674f,
-                            net_income = 0.21375723f
+                            date = new DateTime(2020, 2, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.29911855f,
+                            net_income = 0.5202329f
                         },
                         new
                         {
                             id = 58,
-                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.84714323f,
-                            net_income = 0.28565335f
+                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9630645f,
+                            net_income = 0.96888405f
                         },
                         new
                         {
                             id = 59,
-                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.79306996f,
-                            net_income = 0.292992f
+                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.72725856f,
+                            net_income = 0.4191931f
                         },
                         new
                         {
                             id = 60,
-                            date = new DateTime(2020, 11, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.050279364f,
-                            net_income = 0.33895823f
+                            date = new DateTime(2020, 1, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.81788385f,
+                            net_income = 0.20861134f
                         },
                         new
                         {
                             id = 61,
-                            date = new DateTime(2020, 9, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8545762f,
-                            net_income = 0.6565076f
+                            date = new DateTime(2020, 8, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.05321235f,
+                            net_income = 0.7446136f
                         },
                         new
                         {
                             id = 62,
-                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7752703f,
-                            net_income = 0.53421015f
+                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.70518523f,
+                            net_income = 0.6927149f
                         },
                         new
                         {
                             id = 63,
-                            date = new DateTime(2020, 6, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.00069510675f,
-                            net_income = 0.87494f
+                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.16122964f,
+                            net_income = 0.63187134f
                         },
                         new
                         {
                             id = 64,
-                            date = new DateTime(2020, 1, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.952746f,
-                            net_income = 0.8844699f
+                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.10799731f,
+                            net_income = 0.6951202f
                         },
                         new
                         {
                             id = 65,
-                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.17434797f,
-                            net_income = 0.6607219f
+                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.37372246f,
+                            net_income = 0.33107907f
                         },
                         new
                         {
                             id = 66,
-                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.090993464f,
-                            net_income = 0.27339563f
+                            date = new DateTime(2020, 10, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.03773283f,
+                            net_income = 0.5470613f
                         },
                         new
                         {
                             id = 67,
-                            date = new DateTime(2020, 2, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5548582f,
-                            net_income = 0.71005166f
+                            date = new DateTime(2020, 2, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7724216f,
+                            net_income = 0.056396328f
                         },
                         new
                         {
                             id = 68,
-                            date = new DateTime(2020, 3, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.31171137f,
-                            net_income = 0.39912868f
+                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.30999893f,
+                            net_income = 0.66277903f
                         },
                         new
                         {
                             id = 69,
-                            date = new DateTime(2020, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.84694546f,
-                            net_income = 0.6592219f
+                            date = new DateTime(2020, 5, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.60005987f,
+                            net_income = 0.5773094f
                         },
                         new
                         {
                             id = 70,
-                            date = new DateTime(2020, 4, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.34332338f,
-                            net_income = 0.31434232f
+                            date = new DateTime(2020, 3, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8370213f,
+                            net_income = 0.30830505f
                         },
                         new
                         {
                             id = 71,
-                            date = new DateTime(2020, 11, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8149482f,
-                            net_income = 0.94495654f
+                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.217633f,
+                            net_income = 0.41043362f
                         },
                         new
                         {
                             id = 72,
-                            date = new DateTime(2020, 5, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.55940145f,
-                            net_income = 0.81975687f
+                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.31672347f,
+                            net_income = 0.76797557f
                         },
                         new
                         {
                             id = 73,
-                            date = new DateTime(2020, 1, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3678713f,
-                            net_income = 0.14714426f
+                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9376938f,
+                            net_income = 0.7233737f
                         },
                         new
                         {
                             id = 74,
-                            date = new DateTime(2020, 12, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.23637693f,
-                            net_income = 0.12300562f
+                            date = new DateTime(2020, 4, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.0410231f,
+                            net_income = 0.6778007f
                         },
                         new
                         {
                             id = 75,
-                            date = new DateTime(2020, 3, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.14912689f,
-                            net_income = 0.17516448f
+                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.53636044f,
+                            net_income = 0.22995722f
                         },
                         new
                         {
                             id = 76,
-                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.16283211f,
-                            net_income = 0.75307775f
+                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.29133803f,
+                            net_income = 0.80228555f
                         },
                         new
                         {
                             id = 77,
-                            date = new DateTime(2020, 5, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.62196124f,
-                            net_income = 0.12338025f
+                            date = new DateTime(2020, 1, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.78362083f,
+                            net_income = 0.47099686f
                         },
                         new
                         {
                             id = 78,
-                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.16054875f,
-                            net_income = 0.64144427f
+                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.72220534f,
+                            net_income = 0.59565806f
                         },
                         new
                         {
                             id = 79,
-                            date = new DateTime(2020, 11, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.16136035f,
-                            net_income = 0.6002211f
+                            date = new DateTime(2020, 11, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.23812443f,
+                            net_income = 0.67798847f
                         },
                         new
                         {
                             id = 80,
-                            date = new DateTime(2020, 9, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.53244567f,
-                            net_income = 0.65574247f
+                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5911906f,
+                            net_income = 0.9197087f
                         },
                         new
                         {
                             id = 81,
-                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.28999832f,
-                            net_income = 0.75192547f
+                            date = new DateTime(2020, 10, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.11460515f,
+                            net_income = 0.090553366f
                         },
                         new
                         {
                             id = 82,
-                            date = new DateTime(2020, 2, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6780544f,
-                            net_income = 9.339938E-05f
+                            date = new DateTime(2020, 4, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.48689452f,
+                            net_income = 0.9913124f
                         },
                         new
                         {
                             id = 83,
-                            date = new DateTime(2020, 7, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.12354701f,
-                            net_income = 0.7983217f
+                            date = new DateTime(2020, 10, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.41095594f,
+                            net_income = 0.37706432f
                         },
                         new
                         {
                             id = 84,
-                            date = new DateTime(2020, 7, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5811074f,
-                            net_income = 0.5070565f
+                            date = new DateTime(2020, 8, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.163674f,
+                            net_income = 0.6443259f
                         },
                         new
                         {
                             id = 85,
-                            date = new DateTime(2020, 1, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.76832193f,
-                            net_income = 0.24798106f
+                            date = new DateTime(2020, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.67634416f,
+                            net_income = 0.1936412f
                         },
                         new
                         {
                             id = 86,
-                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.324089f,
-                            net_income = 0.6667083f
+                            date = new DateTime(2020, 12, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.03357514f,
+                            net_income = 0.79374444f
                         },
                         new
                         {
                             id = 87,
-                            date = new DateTime(2020, 9, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.08230517f,
-                            net_income = 0.012768731f
+                            date = new DateTime(2020, 7, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.60980934f,
+                            net_income = 0.6627678f
                         },
                         new
                         {
                             id = 88,
-                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.58232725f,
-                            net_income = 0.737298f
+                            date = new DateTime(2020, 1, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.34470633f,
+                            net_income = 0.5947475f
                         },
                         new
                         {
                             id = 89,
-                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.54538274f,
-                            net_income = 0.7993358f
+                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8547346f,
+                            net_income = 0.57014215f
                         },
                         new
                         {
                             id = 90,
-                            date = new DateTime(2020, 8, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.56799656f,
-                            net_income = 0.7239197f
+                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8269746f,
+                            net_income = 0.3491616f
                         },
                         new
                         {
                             id = 91,
-                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.67934567f,
-                            net_income = 0.17217405f
+                            date = new DateTime(2020, 3, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5038777f,
+                            net_income = 0.8199003f
                         },
                         new
                         {
                             id = 92,
-                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7759954f,
-                            net_income = 0.15189897f
+                            date = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.0010988504f,
+                            net_income = 0.0463352f
                         },
                         new
                         {
                             id = 93,
-                            date = new DateTime(2020, 11, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7409537f,
-                            net_income = 0.56418264f
+                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.11369854f,
+                            net_income = 0.50331175f
                         },
                         new
                         {
                             id = 94,
-                            date = new DateTime(2020, 7, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.78004575f,
-                            net_income = 0.872061f
+                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2898238f,
+                            net_income = 0.28877395f
                         },
                         new
                         {
                             id = 95,
-                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26562276f,
-                            net_income = 0.5549908f
+                            date = new DateTime(2020, 2, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7809928f,
+                            net_income = 0.049092375f
                         },
                         new
                         {
                             id = 96,
-                            date = new DateTime(2020, 3, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.11952831f,
-                            net_income = 0.74277043f
+                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.28536764f,
+                            net_income = 0.2077775f
                         },
                         new
                         {
                             id = 97,
-                            date = new DateTime(2020, 5, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.78329307f,
-                            net_income = 0.18327153f
+                            date = new DateTime(2020, 8, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8377966f,
+                            net_income = 0.7877962f
                         },
                         new
                         {
                             id = 98,
-                            date = new DateTime(2020, 4, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7359145f,
-                            net_income = 0.62151676f
+                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.23214713f,
+                            net_income = 0.8867607f
                         },
                         new
                         {
                             id = 99,
-                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7883993f,
-                            net_income = 0.28081894f
+                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6705853f,
+                            net_income = 0.824251f
                         },
                         new
                         {
                             id = 100,
-                            date = new DateTime(2020, 4, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.32584903f,
-                            net_income = 0.109107606f
+                            date = new DateTime(2020, 1, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.015045498f,
+                            net_income = 0.22499864f
                         },
                         new
                         {
                             id = 101,
-                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.15377593f,
-                            net_income = 0.43279904f
+                            date = new DateTime(2020, 12, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.53939015f,
+                            net_income = 0.4376356f
                         },
                         new
                         {
                             id = 102,
-                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.46664515f,
-                            net_income = 0.6252616f
+                            date = new DateTime(2020, 8, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.25319168f,
+                            net_income = 0.14533746f
                         },
                         new
                         {
                             id = 103,
-                            date = new DateTime(2020, 4, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.33497238f,
-                            net_income = 0.7767442f
+                            date = new DateTime(2020, 11, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8062935f,
+                            net_income = 0.1398287f
                         },
                         new
                         {
                             id = 104,
-                            date = new DateTime(2020, 11, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6976218f,
-                            net_income = 0.66627663f
+                            date = new DateTime(2020, 6, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.49058524f,
+                            net_income = 0.94603586f
                         },
                         new
                         {
                             id = 105,
-                            date = new DateTime(2020, 8, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.64541906f,
-                            net_income = 0.29815397f
+                            date = new DateTime(2020, 7, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.067749634f,
+                            net_income = 0.4151744f
                         },
                         new
                         {
                             id = 106,
-                            date = new DateTime(2020, 1, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.15622371f,
-                            net_income = 0.85949296f
+                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.66240716f,
+                            net_income = 0.39531443f
                         },
                         new
                         {
                             id = 107,
-                            date = new DateTime(2020, 5, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.56665796f,
-                            net_income = 0.016519118f
+                            date = new DateTime(2020, 11, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6762382f,
+                            net_income = 0.8431089f
                         },
                         new
                         {
                             id = 108,
-                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.16472258f,
-                            net_income = 0.06575952f
+                            date = new DateTime(2020, 8, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9665377f,
+                            net_income = 0.9562908f
                         },
                         new
                         {
                             id = 109,
-                            date = new DateTime(2020, 4, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.063387156f,
-                            net_income = 0.64662147f
+                            date = new DateTime(2020, 8, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9635551f,
+                            net_income = 0.41245624f
                         },
                         new
                         {
                             id = 110,
-                            date = new DateTime(2020, 3, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.58459836f,
-                            net_income = 0.21643914f
+                            date = new DateTime(2020, 1, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.70395243f,
+                            net_income = 0.5437122f
                         },
                         new
                         {
                             id = 111,
-                            date = new DateTime(2020, 8, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.66923565f,
-                            net_income = 0.28828418f
+                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7085182f,
+                            net_income = 0.20467784f
                         },
                         new
                         {
                             id = 112,
-                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.581378f,
-                            net_income = 0.34825605f
+                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9993349f,
+                            net_income = 0.45747244f
                         },
                         new
                         {
                             id = 113,
-                            date = new DateTime(2020, 9, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.074404284f,
-                            net_income = 0.6048353f
+                            date = new DateTime(2020, 2, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.03037716f,
+                            net_income = 0.14026713f
                         },
                         new
                         {
                             id = 114,
-                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.18635152f,
-                            net_income = 0.6906829f
+                            date = new DateTime(2020, 1, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7152542f,
+                            net_income = 0.9278083f
                         },
                         new
                         {
                             id = 115,
-                            date = new DateTime(2020, 5, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8281955f,
-                            net_income = 0.5527845f
+                            date = new DateTime(2020, 1, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.78921187f,
+                            net_income = 0.6232783f
                         },
                         new
                         {
                             id = 116,
-                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3399382f,
-                            net_income = 0.044846896f
+                            date = new DateTime(2020, 5, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5743734f,
+                            net_income = 0.35207748f
                         },
                         new
                         {
                             id = 117,
-                            date = new DateTime(2020, 5, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.775138f,
-                            net_income = 0.5715278f
+                            date = new DateTime(2020, 10, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9566442f,
+                            net_income = 0.35781148f
                         },
                         new
                         {
                             id = 118,
-                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.43007478f,
-                            net_income = 0.5222133f
+                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.88886935f,
+                            net_income = 0.42476135f
                         },
                         new
                         {
                             id = 119,
-                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.14536373f,
-                            net_income = 0.7147194f
+                            date = new DateTime(2020, 4, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.28740028f,
+                            net_income = 0.3199154f
                         },
                         new
                         {
                             id = 120,
-                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5899713f,
-                            net_income = 0.72711474f
+                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.942539f,
+                            net_income = 0.5980157f
                         },
                         new
                         {
                             id = 121,
-                            date = new DateTime(2020, 9, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8419436f,
-                            net_income = 0.08838747f
+                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.960285f,
+                            net_income = 0.18002321f
                         },
                         new
                         {
                             id = 122,
-                            date = new DateTime(2020, 9, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9896209f,
-                            net_income = 0.9553715f
+                            date = new DateTime(2020, 2, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.60562813f,
+                            net_income = 0.7035214f
                         },
                         new
                         {
                             id = 123,
                             date = new DateTime(2020, 1, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.67450124f,
-                            net_income = 0.38993257f
+                            expenses = 0.5736192f,
+                            net_income = 0.16107598f
                         },
                         new
                         {
                             id = 124,
-                            date = new DateTime(2020, 8, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.73725545f,
-                            net_income = 0.28784043f
+                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.821482f,
+                            net_income = 0.6266902f
                         },
                         new
                         {
                             id = 125,
-                            date = new DateTime(2020, 7, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26474234f,
-                            net_income = 0.10183125f
+                            date = new DateTime(2020, 2, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9608203f,
+                            net_income = 0.6579666f
                         },
                         new
                         {
                             id = 126,
-                            date = new DateTime(2020, 9, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7842665f,
-                            net_income = 0.9003495f
+                            date = new DateTime(2020, 7, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.49841714f,
+                            net_income = 0.91725314f
                         },
                         new
                         {
                             id = 127,
-                            date = new DateTime(2020, 11, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.2994867f,
-                            net_income = 0.6750001f
+                            date = new DateTime(2020, 1, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.1219019f,
+                            net_income = 0.35027623f
                         },
                         new
                         {
                             id = 128,
-                            date = new DateTime(2020, 3, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.74764144f,
-                            net_income = 0.8958435f
+                            date = new DateTime(2020, 9, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.26471153f,
+                            net_income = 0.4464156f
                         },
                         new
                         {
                             id = 129,
-                            date = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.2594616f,
-                            net_income = 0.37830374f
+                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.27567026f,
+                            net_income = 0.9052001f
                         },
                         new
                         {
                             id = 130,
-                            date = new DateTime(2020, 1, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26996338f,
-                            net_income = 0.70756125f
+                            date = new DateTime(2020, 12, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.66893667f,
+                            net_income = 0.9391269f
                         },
                         new
                         {
                             id = 131,
-                            date = new DateTime(2020, 8, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.031681437f,
-                            net_income = 0.8656774f
+                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.61099595f,
+                            net_income = 0.6533112f
                         },
                         new
                         {
                             id = 132,
-                            date = new DateTime(2020, 11, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8269434f,
-                            net_income = 0.12240903f
+                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3586609f,
+                            net_income = 0.12912689f
                         },
                         new
                         {
                             id = 133,
-                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.22215286f,
-                            net_income = 0.04789128f
+                            date = new DateTime(2020, 12, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.64866376f,
+                            net_income = 0.8956162f
                         },
                         new
                         {
                             id = 134,
-                            date = new DateTime(2020, 11, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.06500681f,
-                            net_income = 0.22479367f
+                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.057237405f,
+                            net_income = 0.014453389f
                         },
                         new
                         {
                             id = 135,
-                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.698876f,
-                            net_income = 0.8358943f
+                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.005259612f,
+                            net_income = 0.91740686f
                         },
                         new
                         {
                             id = 136,
-                            date = new DateTime(2020, 8, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5972705f,
-                            net_income = 0.74783826f
+                            date = new DateTime(2020, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.32497576f,
+                            net_income = 0.9502881f
                         },
                         new
                         {
                             id = 137,
-                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.02618993f,
-                            net_income = 0.28428212f
+                            date = new DateTime(2020, 12, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.08593706f,
+                            net_income = 0.39963183f
                         },
                         new
                         {
                             id = 138,
-                            date = new DateTime(2020, 12, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.4150587f,
-                            net_income = 0.42064267f
+                            date = new DateTime(2020, 3, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.34602937f,
+                            net_income = 0.3573001f
                         },
                         new
                         {
                             id = 139,
-                            date = new DateTime(2020, 7, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9962307f,
-                            net_income = 0.5127902f
+                            date = new DateTime(2020, 11, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8240068f,
+                            net_income = 0.130245f
                         },
                         new
                         {
                             id = 140,
-                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.4170376f,
-                            net_income = 0.27445787f
+                            date = new DateTime(2020, 11, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5588049f,
+                            net_income = 0.47250175f
                         },
                         new
                         {
                             id = 141,
-                            date = new DateTime(2020, 10, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6051809f,
-                            net_income = 0.2140765f
+                            date = new DateTime(2020, 11, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.84806657f,
+                            net_income = 0.6674397f
                         },
                         new
                         {
                             id = 142,
-                            date = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.80247945f,
-                            net_income = 0.44507703f
+                            date = new DateTime(2020, 7, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.29555866f,
+                            net_income = 0.22401509f
                         },
                         new
                         {
                             id = 143,
-                            date = new DateTime(2020, 7, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9771368f,
-                            net_income = 0.94607705f
+                            date = new DateTime(2020, 4, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.83068424f,
+                            net_income = 0.384878f
                         },
                         new
                         {
                             id = 144,
-                            date = new DateTime(2020, 2, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.82555354f,
-                            net_income = 0.4678928f
+                            date = new DateTime(2020, 11, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.87796474f,
+                            net_income = 0.93307585f
                         },
                         new
                         {
                             id = 145,
-                            date = new DateTime(2020, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.31352443f,
-                            net_income = 0.67242604f
+                            date = new DateTime(2020, 10, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.91114235f,
+                            net_income = 0.91632843f
                         },
                         new
                         {
                             id = 146,
-                            date = new DateTime(2020, 8, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.2458575f,
-                            net_income = 0.39384365f
+                            date = new DateTime(2020, 7, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9659535f,
+                            net_income = 0.52318615f
                         },
                         new
                         {
                             id = 147,
-                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.25924233f,
-                            net_income = 0.2971017f
+                            date = new DateTime(2020, 7, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.37644836f,
+                            net_income = 0.92658365f
                         },
                         new
                         {
                             id = 148,
-                            date = new DateTime(2020, 5, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.49346972f,
-                            net_income = 0.3642244f
+                            date = new DateTime(2020, 5, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.65122306f,
+                            net_income = 0.9006007f
                         },
                         new
                         {
                             id = 149,
-                            date = new DateTime(2020, 8, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.24145539f,
-                            net_income = 0.8773262f
+                            date = new DateTime(2020, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2422939f,
+                            net_income = 0.834352f
                         },
                         new
                         {
                             id = 150,
-                            date = new DateTime(2020, 1, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3676504f,
-                            net_income = 0.11984667f
+                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.4127519f,
+                            net_income = 0.7442622f
                         },
                         new
                         {
                             id = 151,
-                            date = new DateTime(2020, 4, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.82058406f,
-                            net_income = 0.8964701f
+                            date = new DateTime(2020, 2, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.97160566f,
+                            net_income = 0.83338106f
                         },
                         new
                         {
                             id = 152,
-                            date = new DateTime(2020, 1, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9810364f,
-                            net_income = 0.3079058f
+                            date = new DateTime(2020, 11, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9501118f,
+                            net_income = 0.7013803f
                         },
                         new
                         {
                             id = 153,
-                            date = new DateTime(2020, 9, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8931318f,
-                            net_income = 0.6422865f
+                            date = new DateTime(2020, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.76082206f,
+                            net_income = 0.3926825f
                         },
                         new
                         {
                             id = 154,
-                            date = new DateTime(2020, 2, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.31973618f,
-                            net_income = 0.87235826f
+                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.034188177f,
+                            net_income = 0.3713656f
                         },
                         new
                         {
                             id = 155,
-                            date = new DateTime(2020, 4, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.11127612f,
-                            net_income = 0.848965f
+                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9721908f,
+                            net_income = 0.06891061f
                         },
                         new
                         {
                             id = 156,
-                            date = new DateTime(2020, 9, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.46009368f,
-                            net_income = 0.29470435f
+                            date = new DateTime(2020, 9, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.81884855f,
+                            net_income = 0.071046524f
                         },
                         new
                         {
                             id = 157,
-                            date = new DateTime(2020, 4, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.78722185f,
-                            net_income = 0.8718397f
+                            date = new DateTime(2020, 6, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.24199189f,
+                            net_income = 0.64556634f
                         },
                         new
                         {
                             id = 158,
-                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.56048477f,
-                            net_income = 0.8381531f
+                            date = new DateTime(2020, 3, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6902285f,
+                            net_income = 0.455193f
                         },
                         new
                         {
                             id = 159,
-                            date = new DateTime(2020, 1, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.65341103f,
-                            net_income = 0.052199498f
+                            date = new DateTime(2020, 9, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2436538f,
+                            net_income = 0.9687884f
                         },
                         new
                         {
                             id = 160,
-                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.38703483f,
-                            net_income = 0.89421123f
+                            date = new DateTime(2020, 5, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.591284f,
+                            net_income = 0.050121672f
                         },
                         new
                         {
                             id = 161,
-                            date = new DateTime(2020, 8, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5887748f,
-                            net_income = 0.007669245f
+                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.674496f,
+                            net_income = 0.6933929f
                         },
                         new
                         {
                             id = 162,
-                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.19457495f,
-                            net_income = 0.8441675f
+                            date = new DateTime(2020, 3, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.44715708f,
+                            net_income = 0.027450087f
                         },
                         new
                         {
                             id = 163,
-                            date = new DateTime(2020, 3, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.80347884f,
-                            net_income = 0.5431483f
+                            date = new DateTime(2020, 12, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.0825312f,
+                            net_income = 0.390218f
                         },
                         new
                         {
                             id = 164,
-                            date = new DateTime(2020, 6, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.14553858f,
-                            net_income = 0.27240732f
+                            date = new DateTime(2020, 8, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9573537f,
+                            net_income = 0.026181277f
                         },
                         new
                         {
                             id = 165,
-                            date = new DateTime(2020, 12, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.20845178f,
-                            net_income = 0.88599634f
+                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9661246f,
+                            net_income = 0.81741065f
                         },
                         new
                         {
                             id = 166,
-                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.100450404f,
-                            net_income = 0.4604675f
+                            date = new DateTime(2020, 12, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.88485336f,
+                            net_income = 0.63840646f
                         },
                         new
                         {
                             id = 167,
-                            date = new DateTime(2020, 2, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.17895696f,
-                            net_income = 0.89783835f
+                            date = new DateTime(2020, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7514723f,
+                            net_income = 0.031648066f
                         },
                         new
                         {
                             id = 168,
-                            date = new DateTime(2020, 11, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7544127f,
-                            net_income = 0.5894266f
+                            date = new DateTime(2020, 2, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.38610432f,
+                            net_income = 0.24887505f
                         },
                         new
                         {
                             id = 169,
-                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.44913954f,
-                            net_income = 0.63463914f
+                            date = new DateTime(2020, 1, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5598779f,
+                            net_income = 0.36814678f
                         },
                         new
                         {
                             id = 170,
-                            date = new DateTime(2020, 9, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8907878f,
-                            net_income = 0.43390375f
+                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 1.1132211E-06f,
+                            net_income = 0.2993832f
                         },
                         new
                         {
                             id = 171,
-                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.28364998f,
-                            net_income = 0.2982146f
+                            date = new DateTime(2020, 5, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.08182082f,
+                            net_income = 0.5026308f
                         },
                         new
                         {
                             id = 172,
-                            date = new DateTime(2020, 2, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8209033f,
-                            net_income = 0.59012735f
+                            date = new DateTime(2020, 2, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8134114f,
+                            net_income = 0.25548726f
                         },
                         new
                         {
                             id = 173,
-                            date = new DateTime(2020, 11, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.08916593f,
-                            net_income = 0.44412896f
+                            date = new DateTime(2020, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.28087318f,
+                            net_income = 0.9797428f
                         },
                         new
                         {
                             id = 174,
-                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.48111752f,
-                            net_income = 0.23017327f
+                            date = new DateTime(2020, 8, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.92957836f,
+                            net_income = 0.4760245f
                         },
                         new
                         {
                             id = 175,
-                            date = new DateTime(2020, 8, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.54747653f,
-                            net_income = 0.57278585f
+                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.87533665f,
+                            net_income = 0.41422892f
                         },
                         new
                         {
                             id = 176,
-                            date = new DateTime(2020, 11, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.74497193f,
-                            net_income = 0.35568815f
+                            date = new DateTime(2020, 8, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.36524707f,
+                            net_income = 0.009238411f
                         },
                         new
                         {
                             id = 177,
-                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.69263995f,
-                            net_income = 0.62258524f
+                            date = new DateTime(2020, 2, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.1318303f,
+                            net_income = 0.38862556f
                         },
                         new
                         {
                             id = 178,
-                            date = new DateTime(2020, 4, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.018378787f,
-                            net_income = 0.52519166f
+                            date = new DateTime(2020, 4, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2401212f,
+                            net_income = 0.5918174f
                         },
                         new
                         {
                             id = 179,
-                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.036412302f,
-                            net_income = 0.5307849f
+                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.38057667f,
+                            net_income = 0.28035244f
                         },
                         new
                         {
                             id = 180,
-                            date = new DateTime(2020, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.38375634f,
-                            net_income = 0.97732997f
+                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.440898f,
+                            net_income = 0.45211735f
                         },
                         new
                         {
                             id = 181,
-                            date = new DateTime(2020, 1, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.58904517f,
-                            net_income = 0.176335f
+                            date = new DateTime(2020, 10, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.49081874f,
+                            net_income = 0.17733505f
                         },
                         new
                         {
                             id = 182,
-                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.57463926f,
-                            net_income = 0.7962249f
+                            date = new DateTime(2020, 1, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.64588404f,
+                            net_income = 0.6687334f
                         },
                         new
                         {
                             id = 183,
-                            date = new DateTime(2020, 11, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7580448f,
-                            net_income = 0.17453118f
+                            date = new DateTime(2020, 11, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9540415f,
+                            net_income = 0.36781752f
                         },
                         new
                         {
                             id = 184,
-                            date = new DateTime(2020, 11, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.88748395f,
-                            net_income = 0.8177243f
+                            date = new DateTime(2020, 2, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.70115596f,
+                            net_income = 0.4624902f
                         },
                         new
                         {
                             id = 185,
-                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.85953885f,
-                            net_income = 0.7741236f
+                            date = new DateTime(2020, 11, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6379783f,
+                            net_income = 0.83619916f
                         },
                         new
                         {
                             id = 186,
-                            date = new DateTime(2020, 12, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.42977276f,
-                            net_income = 0.043513067f
+                            date = new DateTime(2020, 4, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.20889279f,
+                            net_income = 0.20091982f
                         },
                         new
                         {
                             id = 187,
-                            date = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.21721676f,
-                            net_income = 0.17573693f
+                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.88530886f,
+                            net_income = 0.47828364f
                         },
                         new
                         {
                             id = 188,
-                            date = new DateTime(2020, 7, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.46078545f,
-                            net_income = 0.2762475f
+                            date = new DateTime(2020, 10, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.56797034f,
+                            net_income = 0.7121682f
                         },
                         new
                         {
                             id = 189,
-                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.19563115f,
-                            net_income = 0.017232105f
+                            date = new DateTime(2020, 8, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.007328767f,
+                            net_income = 0.42267066f
                         },
                         new
                         {
                             id = 190,
-                            date = new DateTime(2020, 2, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.19034043f,
-                            net_income = 0.65043414f
+                            date = new DateTime(2020, 9, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.32973313f,
+                            net_income = 0.8220927f
                         },
                         new
                         {
                             id = 191,
-                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.392153f,
-                            net_income = 0.3847204f
+                            date = new DateTime(2020, 8, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.1315372f,
+                            net_income = 0.5262904f
                         },
                         new
                         {
                             id = 192,
-                            date = new DateTime(2020, 5, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9417529f,
-                            net_income = 0.909348f
+                            date = new DateTime(2020, 11, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.42570034f,
+                            net_income = 0.057326168f
                         },
                         new
                         {
                             id = 193,
-                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.009788112f,
-                            net_income = 0.11116833f
+                            date = new DateTime(2020, 12, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.63874924f,
+                            net_income = 0.6200778f
                         },
                         new
                         {
                             id = 194,
-                            date = new DateTime(2020, 4, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5363884f,
-                            net_income = 0.44804305f
+                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9062555f,
+                            net_income = 0.969813f
                         },
                         new
                         {
                             id = 195,
-                            date = new DateTime(2020, 4, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.61794263f,
-                            net_income = 0.0063178907f
+                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6218502f,
+                            net_income = 0.7286275f
                         },
                         new
                         {
                             id = 196,
-                            date = new DateTime(2020, 4, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.12274378f,
-                            net_income = 0.7081044f
+                            date = new DateTime(2020, 6, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.46318033f,
+                            net_income = 0.823037f
                         },
                         new
                         {
                             id = 197,
-                            date = new DateTime(2020, 5, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.74457824f,
-                            net_income = 0.25768355f
+                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7601829f,
+                            net_income = 0.84711194f
                         },
                         new
                         {
                             id = 198,
-                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.82740605f,
-                            net_income = 0.6440899f
+                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7657089f,
+                            net_income = 0.12829393f
                         },
                         new
                         {
                             id = 199,
-                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8891103f,
-                            net_income = 0.9223387f
+                            date = new DateTime(2020, 10, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.059581783f,
+                            net_income = 0.2510506f
                         },
                         new
                         {
                             id = 200,
-                            date = new DateTime(2020, 4, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3678121f,
-                            net_income = 0.843175f
+                            date = new DateTime(2020, 10, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.57420695f,
+                            net_income = 0.3245754f
                         },
                         new
                         {
                             id = 201,
-                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.50957346f,
-                            net_income = 0.70142937f
+                            date = new DateTime(2020, 8, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8691343f,
+                            net_income = 0.3446595f
                         },
                         new
                         {
                             id = 202,
-                            date = new DateTime(2020, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.1498375f,
-                            net_income = 0.1178787f
+                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6686416f,
+                            net_income = 0.7121885f
                         },
                         new
                         {
                             id = 203,
-                            date = new DateTime(2020, 12, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3434452f,
-                            net_income = 0.6110667f
+                            date = new DateTime(2020, 3, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7998379f,
+                            net_income = 0.35996503f
                         },
                         new
                         {
                             id = 204,
-                            date = new DateTime(2020, 2, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.28136215f,
-                            net_income = 0.21234185f
+                            date = new DateTime(2020, 3, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.6561296f,
+                            net_income = 0.87983155f
                         },
                         new
                         {
                             id = 205,
-                            date = new DateTime(2020, 9, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.6294196f,
-                            net_income = 0.5585973f
+                            date = new DateTime(2020, 8, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7189905f,
+                            net_income = 0.26086408f
                         },
                         new
                         {
                             id = 206,
-                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.12801714f,
-                            net_income = 0.69955516f
+                            date = new DateTime(2020, 7, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.46074137f,
+                            net_income = 0.24455969f
                         },
                         new
                         {
                             id = 207,
-                            date = new DateTime(2020, 9, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.13820298f,
-                            net_income = 0.84640545f
+                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.99278647f,
+                            net_income = 0.2454036f
                         },
                         new
                         {
                             id = 208,
-                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8441775f,
-                            net_income = 0.73242843f
+                            date = new DateTime(2020, 4, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.487573f,
+                            net_income = 0.9972291f
                         },
                         new
                         {
                             id = 209,
-                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.39614516f,
-                            net_income = 0.16076803f
+                            date = new DateTime(2020, 5, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.017187804f,
+                            net_income = 0.6306427f
                         },
                         new
                         {
                             id = 210,
-                            date = new DateTime(2020, 4, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.24797775f,
-                            net_income = 0.6759824f
+                            date = new DateTime(2020, 7, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.15338837f,
+                            net_income = 0.5786462f
                         },
                         new
                         {
                             id = 211,
-                            date = new DateTime(2020, 9, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.62967575f,
-                            net_income = 0.13330026f
+                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.35556617f,
+                            net_income = 0.3440855f
                         },
                         new
                         {
                             id = 212,
-                            date = new DateTime(2020, 5, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.3984515f,
-                            net_income = 0.57055634f
+                            date = new DateTime(2020, 9, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.4734163f,
+                            net_income = 0.810478f
                         },
                         new
                         {
                             id = 213,
-                            date = new DateTime(2020, 4, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9464386f,
-                            net_income = 0.12617467f
+                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.92417336f,
+                            net_income = 0.8846098f
                         },
                         new
                         {
                             id = 214,
-                            date = new DateTime(2020, 6, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.68947953f,
-                            net_income = 0.48912734f
+                            date = new DateTime(2020, 10, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.719051f,
+                            net_income = 0.49227136f
                         },
                         new
                         {
                             id = 215,
-                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.28245828f,
-                            net_income = 0.44649708f
+                            date = new DateTime(2020, 10, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5668498f,
+                            net_income = 0.16099384f
                         },
                         new
                         {
                             id = 216,
-                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.34673512f,
-                            net_income = 0.9921015f
+                            date = new DateTime(2020, 7, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.065064f,
+                            net_income = 0.47012833f
                         },
                         new
                         {
                             id = 217,
-                            date = new DateTime(2020, 6, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.108026534f,
-                            net_income = 0.72296786f
+                            date = new DateTime(2020, 12, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.58248264f,
+                            net_income = 0.545398f
                         },
                         new
                         {
                             id = 218,
-                            date = new DateTime(2020, 2, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.032060638f,
-                            net_income = 0.33719915f
+                            date = new DateTime(2020, 2, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5142789f,
+                            net_income = 0.2893556f
                         },
                         new
                         {
                             id = 219,
-                            date = new DateTime(2020, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.74986494f,
-                            net_income = 0.47359616f
+                            date = new DateTime(2020, 4, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.007824509f,
+                            net_income = 0.18918632f
                         },
                         new
                         {
                             id = 220,
-                            date = new DateTime(2020, 8, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.05440822f,
-                            net_income = 0.7863928f
+                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.73792773f,
+                            net_income = 0.22552833f
                         },
                         new
                         {
                             id = 221,
-                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.9090434f,
-                            net_income = 0.028113287f
+                            date = new DateTime(2020, 12, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.0063941735f,
+                            net_income = 0.8421327f
                         },
                         new
                         {
                             id = 222,
-                            date = new DateTime(2020, 7, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7474498f,
-                            net_income = 0.30316824f
+                            date = new DateTime(2020, 11, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.24526113f,
+                            net_income = 0.645051f
                         },
                         new
                         {
                             id = 223,
-                            date = new DateTime(2020, 9, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.47589827f,
-                            net_income = 0.60609317f
+                            date = new DateTime(2020, 8, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5083468f,
+                            net_income = 0.33540216f
                         },
                         new
                         {
                             id = 224,
-                            date = new DateTime(2020, 7, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.54688776f,
-                            net_income = 0.8554106f
+                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9741773f,
+                            net_income = 0.122951075f
                         },
                         new
                         {
                             id = 225,
-                            date = new DateTime(2020, 12, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.24822992f,
-                            net_income = 0.14503299f
+                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.17651677f,
+                            net_income = 0.204573f
                         },
                         new
                         {
                             id = 226,
-                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5446164f,
-                            net_income = 0.20506822f
+                            date = new DateTime(2020, 7, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.47815964f,
+                            net_income = 0.51741534f
                         },
                         new
                         {
                             id = 227,
-                            date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.42540208f,
-                            net_income = 0.4009413f
+                            date = new DateTime(2020, 11, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5144807f,
+                            net_income = 0.17752713f
                         },
                         new
                         {
                             id = 228,
-                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.31912887f,
-                            net_income = 0.23718709f
+                            date = new DateTime(2020, 6, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.99903494f,
+                            net_income = 0.4304598f
                         },
                         new
                         {
                             id = 229,
-                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.75907236f,
-                            net_income = 0.12210623f
+                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9248982f,
+                            net_income = 0.6166736f
                         },
                         new
                         {
                             id = 230,
-                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7054004f,
-                            net_income = 0.6866182f
+                            date = new DateTime(2020, 3, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9054211f,
+                            net_income = 0.89078534f
                         },
                         new
                         {
                             id = 231,
-                            date = new DateTime(2020, 6, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.666776f,
-                            net_income = 0.16976112f
+                            date = new DateTime(2020, 10, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.91164196f,
+                            net_income = 0.7436007f
                         },
                         new
                         {
                             id = 232,
-                            date = new DateTime(2020, 5, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.46058762f,
-                            net_income = 0.34258097f
+                            date = new DateTime(2020, 2, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.9435949f,
+                            net_income = 0.9399964f
                         },
                         new
                         {
                             id = 233,
-                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.13599849f,
-                            net_income = 0.646909f
+                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.05443816f,
+                            net_income = 0.38766685f
                         },
                         new
                         {
                             id = 234,
-                            date = new DateTime(2020, 1, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.17347181f,
-                            net_income = 0.014093945f
+                            date = new DateTime(2020, 5, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.050176747f,
+                            net_income = 0.99387103f
                         },
                         new
                         {
                             id = 235,
-                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.00579165f,
-                            net_income = 0.41660142f
+                            date = new DateTime(2020, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.31633803f,
+                            net_income = 0.639499f
                         },
                         new
                         {
                             id = 236,
-                            date = new DateTime(2020, 2, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.081520714f,
-                            net_income = 0.405711f
+                            date = new DateTime(2020, 11, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.7649134f,
+                            net_income = 0.20090291f
                         },
                         new
                         {
                             id = 237,
-                            date = new DateTime(2020, 8, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.26740327f,
-                            net_income = 0.0066580963f
+                            date = new DateTime(2020, 6, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.0111428555f,
+                            net_income = 0.8836846f
                         },
                         new
                         {
                             id = 238,
-                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7380044f,
-                            net_income = 0.03717126f
+                            date = new DateTime(2020, 4, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5579821f,
+                            net_income = 0.52085966f
                         },
                         new
                         {
                             id = 239,
-                            date = new DateTime(2020, 4, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.7642605f,
-                            net_income = 0.44893238f
+                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.47486427f,
+                            net_income = 0.5506861f
                         },
                         new
                         {
                             id = 240,
-                            date = new DateTime(2020, 7, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.84094447f,
-                            net_income = 0.48551506f
+                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.2324046f,
+                            net_income = 0.26838532f
                         },
                         new
                         {
                             id = 241,
-                            date = new DateTime(2020, 7, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.172035f,
-                            net_income = 0.7612498f
+                            date = new DateTime(2020, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.8649221f,
+                            net_income = 0.9918587f
                         },
                         new
                         {
                             id = 242,
-                            date = new DateTime(2020, 9, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.76445186f,
-                            net_income = 0.17554404f
+                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.15522599f,
+                            net_income = 0.30308485f
                         },
                         new
                         {
                             id = 243,
-                            date = new DateTime(2020, 6, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.8135729f,
-                            net_income = 0.54072624f
+                            date = new DateTime(2020, 5, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.5556023f,
+                            net_income = 0.89271426f
                         },
                         new
                         {
                             id = 244,
-                            date = new DateTime(2020, 4, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.005233596f,
-                            net_income = 0.36193734f
+                            date = new DateTime(2020, 5, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.109569676f,
+                            net_income = 0.25084123f
                         },
                         new
                         {
                             id = 245,
-                            date = new DateTime(2020, 12, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.86141306f,
-                            net_income = 0.8606567f
+                            date = new DateTime(2020, 1, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.3673398f,
+                            net_income = 0.87601763f
                         },
                         new
                         {
                             id = 246,
-                            date = new DateTime(2020, 12, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.39106676f,
-                            net_income = 0.7548795f
+                            date = new DateTime(2020, 1, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.010537988f,
+                            net_income = 0.12227063f
                         },
                         new
                         {
                             id = 247,
-                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5366811f,
-                            net_income = 0.26764178f
+                            date = new DateTime(2020, 9, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.08643815f,
+                            net_income = 0.9590262f
                         },
                         new
                         {
                             id = 248,
-                            date = new DateTime(2020, 8, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.646004f,
-                            net_income = 0.51297706f
+                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.080276415f,
+                            net_income = 0.5475578f
                         },
                         new
                         {
                             id = 249,
-                            date = new DateTime(2020, 1, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.5930763f,
-                            net_income = 0.7149528f
+                            date = new DateTime(2020, 6, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.61978704f,
+                            net_income = 0.89279586f
                         },
                         new
                         {
                             id = 250,
-                            date = new DateTime(2020, 8, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 0.21377572f,
-                            net_income = 0.81744516f
+                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 0.36272478f,
+                            net_income = 0.9600694f
                         });
                 });
 
@@ -8949,2002 +8949,2002 @@ namespace Server.Migrations
                         new
                         {
                             id = 1,
-                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 10743.696f,
-                            net_income = 1985.9126f,
-                            revenue = 163080f
+                            date = new DateTime(2020, 1, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 43916.68f,
+                            net_income = 7545.873f,
+                            revenue = 388236f
                         },
                         new
                         {
                             id = 2,
-                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 74967.69f,
-                            net_income = 49519.38f,
-                            revenue = 851429f
+                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 16598.65f,
+                            net_income = 8221.583f,
+                            revenue = 305273f
                         },
                         new
                         {
                             id = 3,
-                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 115051.11f,
-                            net_income = 41423.777f,
-                            revenue = 921132f
+                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 94120.11f,
+                            net_income = 21005.91f,
+                            revenue = 890016f
                         },
                         new
                         {
                             id = 4,
-                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 72922.31f,
-                            net_income = 25214.164f,
-                            revenue = 711196f
+                            date = new DateTime(2020, 2, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 25494.361f,
+                            net_income = 4461.9243f,
+                            revenue = 265328f
                         },
                         new
                         {
                             id = 5,
-                            date = new DateTime(2020, 2, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 17739.727f,
-                            net_income = 19913.963f,
-                            revenue = 334053f
+                            date = new DateTime(2020, 1, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 68136.7f,
+                            net_income = 10045.328f,
+                            revenue = 462433f
                         },
                         new
                         {
                             id = 6,
-                            date = new DateTime(2020, 5, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 33768.312f,
-                            net_income = 13263.492f,
-                            revenue = 502357f
+                            date = new DateTime(2020, 3, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 50799.383f,
+                            net_income = 20809.553f,
+                            revenue = 366602f
                         },
                         new
                         {
                             id = 7,
-                            date = new DateTime(2020, 8, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 85256.66f,
-                            net_income = 24364.033f,
-                            revenue = 916506f
+                            date = new DateTime(2020, 3, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 22297.352f,
+                            net_income = 12694.923f,
+                            revenue = 434736f
                         },
                         new
                         {
                             id = 8,
-                            date = new DateTime(2020, 5, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 7573.8164f,
-                            net_income = 5766.2153f,
-                            revenue = 122528f
+                            date = new DateTime(2020, 2, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 19475.764f,
+                            net_income = 14053.348f,
+                            revenue = 248685f
                         },
                         new
                         {
                             id = 9,
-                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 20393.496f,
-                            net_income = 2213.8386f,
-                            revenue = 162744f
+                            date = new DateTime(2020, 7, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 7657.684f,
+                            net_income = 4094.661f,
+                            revenue = 103762f
                         },
                         new
                         {
                             id = 10,
-                            date = new DateTime(2020, 3, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 74682.59f,
-                            net_income = 23608.113f,
-                            revenue = 611039f
+                            date = new DateTime(2020, 7, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 55551.125f,
+                            net_income = 19835.709f,
+                            revenue = 931685f
                         },
                         new
                         {
                             id = 11,
-                            date = new DateTime(2020, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 18584.928f,
-                            net_income = 3410.517f,
-                            revenue = 198053f
+                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 50000.875f,
+                            net_income = 14979.123f,
+                            revenue = 647886f
                         },
                         new
                         {
                             id = 12,
-                            date = new DateTime(2020, 11, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 29267.654f,
-                            net_income = 12606.678f,
-                            revenue = 234134f
+                            date = new DateTime(2020, 4, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 32688.373f,
+                            net_income = 21644.896f,
+                            revenue = 389311f
                         },
                         new
                         {
                             id = 13,
-                            date = new DateTime(2020, 8, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 46944.582f,
-                            net_income = 6018.405f,
-                            revenue = 359163f
+                            date = new DateTime(2020, 7, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 22161.016f,
+                            net_income = 6577.2197f,
+                            revenue = 260094f
                         },
                         new
                         {
                             id = 14,
-                            date = new DateTime(2020, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 83648.36f,
-                            net_income = 33996.727f,
-                            revenue = 961377f
+                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 83042.46f,
+                            net_income = 45121.203f,
+                            revenue = 860740f
                         },
                         new
                         {
                             id = 15,
-                            date = new DateTime(2020, 7, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 84837.555f,
-                            net_income = 41650.715f,
-                            revenue = 987921f
+                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 25897.64f,
+                            net_income = 11887.724f,
+                            revenue = 415907f
                         },
                         new
                         {
                             id = 16,
-                            date = new DateTime(2020, 10, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 100156.68f,
-                            net_income = 22753.71f,
-                            revenue = 720807f
+                            date = new DateTime(2020, 10, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 49773.355f,
+                            net_income = 4964.2754f,
+                            revenue = 345642f
                         },
                         new
                         {
                             id = 17,
-                            date = new DateTime(2020, 2, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 48196.246f,
-                            net_income = 17257.549f,
-                            revenue = 496582f
+                            date = new DateTime(2020, 5, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 31531.922f,
+                            net_income = 6901.316f,
+                            revenue = 232118f
                         },
                         new
                         {
                             id = 18,
-                            date = new DateTime(2020, 10, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 43153.76f,
-                            net_income = 19460.355f,
-                            revenue = 359473f
+                            date = new DateTime(2020, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 55119.984f,
+                            net_income = 20422.596f,
+                            revenue = 493732f
                         },
                         new
                         {
                             id = 19,
-                            date = new DateTime(2020, 10, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 46644.15f,
-                            net_income = 12187.517f,
-                            revenue = 795049f
+                            date = new DateTime(2020, 12, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 63570.133f,
+                            net_income = 37754.473f,
+                            revenue = 751664f
                         },
                         new
                         {
                             id = 20,
-                            date = new DateTime(2020, 12, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 29993.848f,
-                            net_income = 4679.675f,
-                            revenue = 415969f
+                            date = new DateTime(2020, 12, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 28158.078f,
+                            net_income = 6712.6006f,
+                            revenue = 453164f
                         },
                         new
                         {
                             id = 21,
-                            date = new DateTime(2020, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 60554.99f,
-                            net_income = 11933.456f,
-                            revenue = 470911f
+                            date = new DateTime(2020, 10, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 50449.973f,
+                            net_income = 6553.9614f,
+                            revenue = 385377f
                         },
                         new
                         {
                             id = 22,
-                            date = new DateTime(2020, 4, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 98292.47f,
-                            net_income = 14952.745f,
-                            revenue = 839901f
+                            date = new DateTime(2020, 6, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 38538.93f,
+                            net_income = 9365.402f,
+                            revenue = 263276f
                         },
                         new
                         {
                             id = 23,
-                            date = new DateTime(2020, 3, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 59199.32f,
-                            net_income = 34293.656f,
-                            revenue = 918451f
+                            date = new DateTime(2020, 8, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 14745.951f,
+                            net_income = 3392.096f,
+                            revenue = 135618f
                         },
                         new
                         {
                             id = 24,
-                            date = new DateTime(2020, 11, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 28035.36f,
-                            net_income = 4585.202f,
-                            revenue = 333211f
+                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 74955.02f,
+                            net_income = 15436.186f,
+                            revenue = 654646f
                         },
                         new
                         {
                             id = 25,
-                            date = new DateTime(2020, 7, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 77622.25f,
-                            net_income = 43245.26f,
-                            revenue = 892675f
+                            date = new DateTime(2020, 6, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 55619.027f,
+                            net_income = 23305.035f,
+                            revenue = 645532f
                         },
                         new
                         {
                             id = 26,
-                            date = new DateTime(2020, 1, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 24695.049f,
-                            net_income = 22627.316f,
-                            revenue = 394098f
+                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 40927.87f,
+                            net_income = 13013.017f,
+                            revenue = 404784f
                         },
                         new
                         {
                             id = 27,
-                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 41555.496f,
-                            net_income = 21936.988f,
-                            revenue = 605842f
+                            date = new DateTime(2020, 6, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 25390.28f,
+                            net_income = 19674.316f,
+                            revenue = 439177f
                         },
                         new
                         {
                             id = 28,
-                            date = new DateTime(2020, 9, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 13599.015f,
-                            net_income = 4575.125f,
-                            revenue = 131140f
+                            date = new DateTime(2020, 7, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 12618.322f,
+                            net_income = 4315.0947f,
+                            revenue = 194704f
                         },
                         new
                         {
                             id = 29,
-                            date = new DateTime(2020, 5, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 59057.508f,
-                            net_income = 16503.512f,
-                            revenue = 428631f
+                            date = new DateTime(2020, 6, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 20894.197f,
+                            net_income = 12203.244f,
+                            revenue = 359413f
                         },
                         new
                         {
                             id = 30,
-                            date = new DateTime(2020, 12, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 46315.57f,
-                            net_income = 10307.67f,
-                            revenue = 775531f
+                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 43975.156f,
+                            net_income = 13409.643f,
+                            revenue = 344163f
                         },
                         new
                         {
                             id = 31,
-                            date = new DateTime(2020, 3, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 23626.547f,
-                            net_income = 7584.004f,
-                            revenue = 187039f
+                            date = new DateTime(2020, 4, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 91060.58f,
+                            net_income = 26720.918f,
+                            revenue = 738101f
                         },
                         new
                         {
                             id = 32,
-                            date = new DateTime(2020, 2, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 82197.09f,
-                            net_income = 36245.832f,
-                            revenue = 778553f
+                            date = new DateTime(2020, 9, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 14673.699f,
+                            net_income = 4139.562f,
+                            revenue = 168394f
                         },
                         new
                         {
                             id = 33,
-                            date = new DateTime(2020, 9, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 73555.3f,
-                            net_income = 23323.572f,
-                            revenue = 714871f
+                            date = new DateTime(2020, 9, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 17669.58f,
+                            net_income = 1693.2662f,
+                            revenue = 121815f
                         },
                         new
                         {
                             id = 34,
-                            date = new DateTime(2020, 12, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 39998.46f,
-                            net_income = 11717.7705f,
-                            revenue = 650441f
+                            date = new DateTime(2020, 7, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 74788.53f,
+                            net_income = 10601.516f,
+                            revenue = 498602f
                         },
                         new
                         {
                             id = 35,
-                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 14589.419f,
-                            net_income = 9982.378f,
-                            revenue = 167454f
+                            date = new DateTime(2020, 11, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 16346.863f,
+                            net_income = 3148.7466f,
+                            revenue = 135764f
                         },
                         new
                         {
                             id = 36,
-                            date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 49036.12f,
-                            net_income = 36550.945f,
-                            revenue = 663288f
+                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 48768.723f,
+                            net_income = 34153.75f,
+                            revenue = 666803f
                         },
                         new
                         {
                             id = 37,
-                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 131542.05f,
-                            net_income = 31924.117f,
-                            revenue = 878935f
+                            date = new DateTime(2020, 11, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 92664.555f,
+                            net_income = 51687.3f,
+                            revenue = 867198f
                         },
                         new
                         {
                             id = 38,
-                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 19536.123f,
-                            net_income = 4148.9307f,
-                            revenue = 145995f
+                            date = new DateTime(2020, 8, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 49805.39f,
+                            net_income = 20682.275f,
+                            revenue = 487982f
                         },
                         new
                         {
                             id = 39,
-                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 22583.217f,
-                            net_income = 5156.1685f,
-                            revenue = 335348f
+                            date = new DateTime(2020, 11, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 48724.41f,
+                            net_income = 33285.848f,
+                            revenue = 607594f
                         },
                         new
                         {
                             id = 40,
-                            date = new DateTime(2020, 11, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 138626.38f,
-                            net_income = 14767.14f,
-                            revenue = 958212f
+                            date = new DateTime(2020, 8, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 20062.498f,
+                            net_income = 16100.39f,
+                            revenue = 306833f
                         },
                         new
                         {
                             id = 41,
-                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 23541.521f,
-                            net_income = 6224.732f,
-                            revenue = 243956f
+                            date = new DateTime(2020, 9, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 79056.87f,
+                            net_income = 20040.453f,
+                            revenue = 619478f
                         },
                         new
                         {
                             id = 42,
-                            date = new DateTime(2020, 6, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 56254.766f,
-                            net_income = 9919.562f,
-                            revenue = 481845f
+                            date = new DateTime(2020, 2, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 118597.5f,
+                            net_income = 39040.8f,
+                            revenue = 898401f
                         },
                         new
                         {
                             id = 43,
-                            date = new DateTime(2020, 5, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 12128.338f,
-                            net_income = 6803.0034f,
-                            revenue = 117437f
+                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 27457.37f,
+                            net_income = 3702.0195f,
+                            revenue = 350704f
                         },
                         new
                         {
                             id = 44,
-                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 13801.649f,
-                            net_income = 6966.907f,
-                            revenue = 141732f
+                            date = new DateTime(2020, 9, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 35210.375f,
+                            net_income = 8312.822f,
+                            revenue = 625293f
                         },
                         new
                         {
                             id = 45,
-                            date = new DateTime(2020, 10, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 34569.004f,
-                            net_income = 7489.8315f,
-                            revenue = 454769f
+                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 16585.213f,
+                            net_income = 10484.272f,
+                            revenue = 285328f
                         },
                         new
                         {
                             id = 46,
-                            date = new DateTime(2020, 1, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 28578.895f,
-                            net_income = 9274.177f,
-                            revenue = 207639f
+                            date = new DateTime(2020, 3, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 43773.223f,
+                            net_income = 12594.184f,
+                            revenue = 320025f
                         },
                         new
                         {
                             id = 47,
-                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 14977.109f,
-                            net_income = 8140.351f,
-                            revenue = 269738f
+                            date = new DateTime(2020, 1, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 29880.75f,
+                            net_income = 31584.229f,
+                            revenue = 597394f
                         },
                         new
                         {
                             id = 48,
-                            date = new DateTime(2020, 6, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 18408.88f,
-                            net_income = 16206.108f,
-                            revenue = 362173f
+                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 36585.133f,
+                            net_income = 22193.318f,
+                            revenue = 435113f
                         },
                         new
                         {
                             id = 49,
-                            date = new DateTime(2020, 3, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 78514.836f,
-                            net_income = 9980.092f,
-                            revenue = 608366f
+                            date = new DateTime(2020, 4, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 52208.887f,
+                            net_income = 54894.574f,
+                            revenue = 960422f
                         },
                         new
                         {
                             id = 50,
-                            date = new DateTime(2020, 7, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 27913.176f,
-                            net_income = 7924.997f,
-                            revenue = 342410f
+                            date = new DateTime(2020, 7, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 21796.145f,
+                            net_income = 5888.425f,
+                            revenue = 206448f
                         },
                         new
                         {
                             id = 51,
-                            date = new DateTime(2020, 6, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 49826.188f,
-                            net_income = 26055.383f,
-                            revenue = 563685f
+                            date = new DateTime(2020, 4, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 46847.62f,
+                            net_income = 5204.193f,
+                            revenue = 462670f
                         },
                         new
                         {
                             id = 52,
-                            date = new DateTime(2020, 10, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 55483.18f,
-                            net_income = 21470.107f,
-                            revenue = 530013f
+                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 57822.516f,
+                            net_income = 11422.98f,
+                            revenue = 972016f
                         },
                         new
                         {
                             id = 53,
-                            date = new DateTime(2020, 5, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 17643.613f,
-                            net_income = 5969.7305f,
-                            revenue = 222322f
+                            date = new DateTime(2020, 4, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 29464.305f,
+                            net_income = 11089.975f,
+                            revenue = 237172f
                         },
                         new
                         {
                             id = 54,
-                            date = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 98835.18f,
-                            net_income = 12378.039f,
-                            revenue = 887299f
+                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 43462.844f,
+                            net_income = 5196.234f,
+                            revenue = 298327f
                         },
                         new
                         {
                             id = 55,
-                            date = new DateTime(2020, 3, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 30377.574f,
-                            net_income = 4309.8047f,
-                            revenue = 255476f
+                            date = new DateTime(2020, 10, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 31693.371f,
+                            net_income = 29327.49f,
+                            revenue = 492765f
                         },
                         new
                         {
                             id = 56,
-                            date = new DateTime(2020, 7, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 9282.246f,
-                            net_income = 8079.5825f,
-                            revenue = 183464f
+                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 127202.16f,
+                            net_income = 26161.15f,
+                            revenue = 993239f
                         },
                         new
                         {
                             id = 57,
-                            date = new DateTime(2020, 5, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 35859.69f,
-                            net_income = 8206.108f,
-                            revenue = 327194f
+                            date = new DateTime(2020, 3, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 113623.44f,
+                            net_income = 14388.464f,
+                            revenue = 862815f
                         },
                         new
                         {
                             id = 58,
-                            date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 51370.195f,
-                            net_income = 13120.397f,
-                            revenue = 898332f
+                            date = new DateTime(2020, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 42462.004f,
+                            net_income = 10754.051f,
+                            revenue = 393769f
                         },
                         new
                         {
                             id = 59,
-                            date = new DateTime(2020, 12, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 98006.14f,
-                            net_income = 52835.37f,
-                            revenue = 951163f
+                            date = new DateTime(2020, 4, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 74746.65f,
+                            net_income = 26787.63f,
+                            revenue = 884311f
                         },
                         new
                         {
                             id = 60,
-                            date = new DateTime(2020, 5, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 67295.21f,
-                            net_income = 23614.438f,
-                            revenue = 839998f
+                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 88190.805f,
+                            net_income = 19691.562f,
+                            revenue = 679821f
                         },
                         new
                         {
                             id = 61,
-                            date = new DateTime(2020, 4, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 35904.72f,
-                            net_income = 6401.3745f,
-                            revenue = 373276f
+                            date = new DateTime(2020, 12, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 101205.055f,
+                            net_income = 35752.008f,
+                            revenue = 722275f
                         },
                         new
                         {
                             id = 62,
-                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 74007.57f,
-                            net_income = 13447.176f,
-                            revenue = 889383f
+                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 14757.316f,
+                            net_income = 7292.0723f,
+                            revenue = 190706f
                         },
                         new
                         {
                             id = 63,
-                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 39382.504f,
-                            net_income = 16668.988f,
-                            revenue = 293640f
+                            date = new DateTime(2020, 9, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 63945.54f,
+                            net_income = 19411.275f,
+                            revenue = 521739f
                         },
                         new
                         {
                             id = 64,
-                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 10930.147f,
-                            net_income = 6209.3853f,
-                            revenue = 133663f
+                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 75872.29f,
+                            net_income = 15716.422f,
+                            revenue = 521532f
                         },
                         new
                         {
                             id = 65,
-                            date = new DateTime(2020, 10, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 20164.496f,
-                            net_income = 3641.6785f,
-                            revenue = 319979f
+                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 78054.71f,
+                            net_income = 9070.855f,
+                            revenue = 825733f
                         },
                         new
                         {
                             id = 66,
-                            date = new DateTime(2020, 10, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 124417.2f,
-                            net_income = 20068.676f,
-                            revenue = 998936f
+                            date = new DateTime(2020, 3, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 26915.812f,
+                            net_income = 9072.136f,
+                            revenue = 195725f
                         },
                         new
                         {
                             id = 67,
-                            date = new DateTime(2020, 11, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 66276.86f,
-                            net_income = 53524.184f,
-                            revenue = 956690f
+                            date = new DateTime(2020, 8, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 48497.69f,
+                            net_income = 19599.39f,
+                            revenue = 480793f
                         },
                         new
                         {
                             id = 68,
-                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 44812.95f,
-                            net_income = 22989.87f,
-                            revenue = 528458f
+                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 64795.523f,
+                            net_income = 11874.422f,
+                            revenue = 517211f
                         },
                         new
                         {
                             id = 69,
-                            date = new DateTime(2020, 2, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 67724.15f,
-                            net_income = 31296.713f,
-                            revenue = 780104f
+                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 41099.848f,
+                            net_income = 9254.297f,
+                            revenue = 528585f
                         },
                         new
                         {
                             id = 70,
-                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 34197.426f,
-                            net_income = 28120.238f,
-                            revenue = 531708f
+                            date = new DateTime(2020, 4, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 103011.22f,
+                            net_income = 27223.611f,
+                            revenue = 724123f
                         },
                         new
                         {
                             id = 71,
-                            date = new DateTime(2020, 8, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 96272.9f,
-                            net_income = 30078.31f,
-                            revenue = 917857f
+                            date = new DateTime(2020, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 13923.868f,
+                            net_income = 9590.426f,
+                            revenue = 190446f
                         },
                         new
                         {
                             id = 72,
-                            date = new DateTime(2020, 5, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 20103.678f,
-                            net_income = 7157.922f,
-                            revenue = 148995f
+                            date = new DateTime(2020, 5, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 31481.76f,
+                            net_income = 26566.08f,
+                            revenue = 602798f
                         },
                         new
                         {
                             id = 73,
-                            date = new DateTime(2020, 4, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 67204.516f,
-                            net_income = 7929.2876f,
-                            revenue = 487725f
+                            date = new DateTime(2020, 7, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 25223.355f,
+                            net_income = 8505.765f,
+                            revenue = 269523f
                         },
                         new
                         {
                             id = 74,
-                            date = new DateTime(2020, 8, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 13865.739f,
-                            net_income = 4518.9556f,
-                            revenue = 185388f
+                            date = new DateTime(2020, 5, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 38318.387f,
+                            net_income = 3817.4397f,
+                            revenue = 291469f
                         },
                         new
                         {
                             id = 75,
-                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 89013.586f,
-                            net_income = 10574.922f,
-                            revenue = 765493f
+                            date = new DateTime(2020, 6, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 100061.664f,
+                            net_income = 38796.816f,
+                            revenue = 749764f
                         },
                         new
                         {
                             id = 76,
-                            date = new DateTime(2020, 8, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 13531.584f,
-                            net_income = 10424.613f,
-                            revenue = 184436f
+                            date = new DateTime(2020, 11, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 42743.996f,
+                            net_income = 8418.763f,
+                            revenue = 294646f
                         },
                         new
                         {
                             id = 77,
-                            date = new DateTime(2020, 6, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 55962.805f,
-                            net_income = 16503.107f,
-                            revenue = 966365f
+                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 110425.914f,
+                            net_income = 20901.193f,
+                            revenue = 811440f
                         },
                         new
                         {
                             id = 78,
-                            date = new DateTime(2020, 4, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 38781.832f,
-                            net_income = 18804.744f,
-                            revenue = 584807f
+                            date = new DateTime(2020, 7, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 72381.33f,
+                            net_income = 7803.124f,
+                            revenue = 586186f
                         },
                         new
                         {
                             id = 79,
-                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 56681.363f,
-                            net_income = 26413.312f,
-                            revenue = 445264f
+                            date = new DateTime(2020, 8, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 76042.125f,
+                            net_income = 36341.242f,
+                            revenue = 738599f
                         },
                         new
                         {
                             id = 80,
-                            date = new DateTime(2020, 2, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 17572.082f,
-                            net_income = 6294.7417f,
-                            revenue = 153096f
+                            date = new DateTime(2020, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 77996.14f,
+                            net_income = 50578.777f,
+                            revenue = 854267f
                         },
                         new
                         {
                             id = 81,
-                            date = new DateTime(2020, 9, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 56325.83f,
-                            net_income = 22509.691f,
-                            revenue = 461556f
+                            date = new DateTime(2020, 7, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 123142.53f,
+                            net_income = 35335.65f,
+                            revenue = 916291f
                         },
                         new
                         {
                             id = 82,
-                            date = new DateTime(2020, 3, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 16893.453f,
-                            net_income = 6139.1626f,
-                            revenue = 296998f
+                            date = new DateTime(2020, 5, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 30283.055f,
+                            net_income = 13652.68f,
+                            revenue = 267666f
                         },
                         new
                         {
                             id = 83,
-                            date = new DateTime(2020, 8, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 23078.354f,
-                            net_income = 6293.7974f,
-                            revenue = 341923f
+                            date = new DateTime(2020, 10, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 91722.51f,
+                            net_income = 13958.03f,
+                            revenue = 718244f
                         },
                         new
                         {
                             id = 84,
-                            date = new DateTime(2020, 9, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 21894.096f,
-                            net_income = 8501.663f,
-                            revenue = 156477f
+                            date = new DateTime(2020, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 23602.543f,
+                            net_income = 5835.6943f,
+                            revenue = 198215f
                         },
                         new
                         {
                             id = 85,
-                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 50860.348f,
-                            net_income = 29079.572f,
-                            revenue = 598655f
+                            date = new DateTime(2020, 3, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 18477.97f,
+                            net_income = 6994.7563f,
+                            revenue = 341008f
                         },
                         new
                         {
                             id = 86,
-                            date = new DateTime(2020, 7, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 73639.14f,
-                            net_income = 40279.016f,
-                            revenue = 747612f
+                            date = new DateTime(2020, 7, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 22868.027f,
+                            net_income = 6026.2407f,
+                            revenue = 167636f
                         },
                         new
                         {
                             id = 87,
-                            date = new DateTime(2020, 8, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 90115.39f,
-                            net_income = 38029.2f,
-                            revenue = 753922f
+                            date = new DateTime(2020, 8, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 100978.52f,
+                            net_income = 25697.361f,
+                            revenue = 679543f
                         },
                         new
                         {
                             id = 88,
-                            date = new DateTime(2020, 4, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 69686.734f,
-                            net_income = 15315.666f,
-                            revenue = 948635f
+                            date = new DateTime(2020, 11, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 90966.09f,
+                            net_income = 42429.836f,
+                            revenue = 762634f
                         },
                         new
                         {
                             id = 89,
-                            date = new DateTime(2020, 5, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 20570.143f,
-                            net_income = 14640.107f,
-                            revenue = 346150f
+                            date = new DateTime(2020, 8, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 18641.688f,
+                            net_income = 6828.5547f,
+                            revenue = 250169f
                         },
                         new
                         {
                             id = 90,
-                            date = new DateTime(2020, 8, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 76000.555f,
-                            net_income = 17821.941f,
-                            revenue = 575915f
+                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 52094.484f,
+                            net_income = 11675.028f,
+                            revenue = 380976f
                         },
                         new
                         {
                             id = 91,
-                            date = new DateTime(2020, 1, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 28252.607f,
-                            net_income = 20269.252f,
-                            revenue = 390263f
+                            date = new DateTime(2020, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 96708.51f,
+                            net_income = 44068.574f,
+                            revenue = 856325f
                         },
                         new
                         {
                             id = 92,
-                            date = new DateTime(2020, 2, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 22281.205f,
-                            net_income = 4797.565f,
-                            revenue = 238014f
+                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 63312.797f,
+                            net_income = 11777.93f,
+                            revenue = 741471f
                         },
                         new
                         {
                             id = 93,
-                            date = new DateTime(2020, 12, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 13973.717f,
-                            net_income = 12235.12f,
-                            revenue = 239883f
+                            date = new DateTime(2020, 8, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 53236.69f,
+                            net_income = 46247.95f,
+                            revenue = 986015f
                         },
                         new
                         {
                             id = 94,
-                            date = new DateTime(2020, 8, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 62173.43f,
-                            net_income = 36593.074f,
-                            revenue = 830138f
+                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 29737.414f,
+                            net_income = 7708.0244f,
+                            revenue = 214687f
                         },
                         new
                         {
                             id = 95,
-                            date = new DateTime(2020, 4, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 22527.879f,
-                            net_income = 18293.12f,
-                            revenue = 339193f
+                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 44181.56f,
+                            net_income = 30882.256f,
+                            revenue = 739609f
                         },
                         new
                         {
                             id = 96,
-                            date = new DateTime(2020, 11, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 63125.08f,
-                            net_income = 9358.781f,
-                            revenue = 740030f
+                            date = new DateTime(2020, 11, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 63621.71f,
+                            net_income = 12326.639f,
+                            revenue = 755803f
                         },
                         new
                         {
                             id = 97,
-                            date = new DateTime(2020, 6, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 15963.409f,
-                            net_income = 2372.2493f,
-                            revenue = 201402f
+                            date = new DateTime(2020, 2, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 82814.86f,
+                            net_income = 18030.396f,
+                            revenue = 911741f
                         },
                         new
                         {
                             id = 98,
-                            date = new DateTime(2020, 12, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 80209.35f,
-                            net_income = 16627.361f,
-                            revenue = 855480f
+                            date = new DateTime(2020, 2, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 51925.5f,
+                            net_income = 24063.646f,
+                            revenue = 925222f
                         },
                         new
                         {
                             id = 99,
-                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 49986.07f,
-                            net_income = 7958.1357f,
-                            revenue = 518945f
+                            date = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 53625.664f,
+                            net_income = 11946.51f,
+                            revenue = 424780f
                         },
                         new
                         {
                             id = 100,
-                            date = new DateTime(2020, 8, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 31163.19f,
-                            net_income = 22956.547f,
-                            revenue = 514426f
+                            date = new DateTime(2020, 11, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 72214.22f,
+                            net_income = 39895f,
+                            revenue = 704545f
                         },
                         new
                         {
                             id = 101,
-                            date = new DateTime(2020, 5, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 118470.55f,
-                            net_income = 23687.438f,
-                            revenue = 805369f
+                            date = new DateTime(2020, 7, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 51206.598f,
+                            net_income = 15776.466f,
+                            revenue = 353305f
                         },
                         new
                         {
                             id = 102,
-                            date = new DateTime(2020, 10, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 61595.285f,
-                            net_income = 8440.036f,
-                            revenue = 613762f
+                            date = new DateTime(2020, 10, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 53585.535f,
+                            net_income = 11333.332f,
+                            revenue = 645292f
                         },
                         new
                         {
                             id = 103,
-                            date = new DateTime(2020, 11, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 9680.095f,
-                            net_income = 2965.4219f,
-                            revenue = 106001f
+                            date = new DateTime(2020, 2, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 18642.367f,
+                            net_income = 7908.292f,
+                            revenue = 157150f
                         },
                         new
                         {
                             id = 104,
-                            date = new DateTime(2020, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 62013.44f,
-                            net_income = 30171.754f,
-                            revenue = 607501f
+                            date = new DateTime(2020, 11, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 82620.086f,
+                            net_income = 35336.973f,
+                            revenue = 969598f
                         },
                         new
                         {
                             id = 105,
-                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 37086.027f,
-                            net_income = 6728.4927f,
-                            revenue = 651851f
+                            date = new DateTime(2020, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 11144.769f,
+                            net_income = 2565.987f,
+                            revenue = 120176f
                         },
                         new
                         {
                             id = 106,
-                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 7175.547f,
-                            net_income = 6124.1797f,
-                            revenue = 129214f
+                            date = new DateTime(2020, 5, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 26386.416f,
+                            net_income = 23003.432f,
+                            revenue = 394012f
                         },
                         new
                         {
                             id = 107,
-                            date = new DateTime(2020, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 55895.027f,
-                            net_income = 22413.135f,
-                            revenue = 671922f
+                            date = new DateTime(2020, 8, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 17020.777f,
+                            net_income = 3666.7468f,
+                            revenue = 132813f
                         },
                         new
                         {
                             id = 108,
-                            date = new DateTime(2020, 11, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 39670.64f,
-                            net_income = 22135.588f,
-                            revenue = 628902f
+                            date = new DateTime(2020, 11, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 29919.324f,
+                            net_income = 15602.863f,
+                            revenue = 428620f
                         },
                         new
                         {
                             id = 109,
-                            date = new DateTime(2020, 8, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 22477.514f,
-                            net_income = 3603.8984f,
-                            revenue = 202943f
+                            date = new DateTime(2020, 10, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 29552.85f,
+                            net_income = 13443.154f,
+                            revenue = 243770f
                         },
                         new
                         {
                             id = 110,
-                            date = new DateTime(2020, 5, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 92778.36f,
-                            net_income = 34344.863f,
-                            revenue = 711471f
+                            date = new DateTime(2020, 9, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 91779.234f,
+                            net_income = 43245.83f,
+                            revenue = 734547f
                         },
                         new
                         {
                             id = 111,
-                            date = new DateTime(2020, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 42706.85f,
-                            net_income = 19062.244f,
-                            revenue = 573883f
+                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 72446.39f,
+                            net_income = 8476.853f,
+                            revenue = 618489f
                         },
                         new
                         {
                             id = 112,
-                            date = new DateTime(2020, 2, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 12667.3955f,
-                            net_income = 3450.9683f,
-                            revenue = 154440f
+                            date = new DateTime(2020, 10, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 89164.11f,
+                            net_income = 30253.293f,
+                            revenue = 833265f
                         },
                         new
                         {
                             id = 113,
-                            date = new DateTime(2020, 4, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 31040.373f,
-                            net_income = 10260.06f,
-                            revenue = 340233f
+                            date = new DateTime(2020, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 61495.98f,
+                            net_income = 10036.64f,
+                            revenue = 598199f
                         },
                         new
                         {
                             id = 114,
-                            date = new DateTime(2020, 2, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 81464.836f,
-                            net_income = 36384.258f,
-                            revenue = 617631f
+                            date = new DateTime(2020, 10, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 52919.83f,
+                            net_income = 14835.553f,
+                            revenue = 422139f
                         },
                         new
                         {
                             id = 115,
-                            date = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 69765.94f,
-                            net_income = 10591.472f,
-                            revenue = 851718f
+                            date = new DateTime(2020, 9, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 48557.31f,
+                            net_income = 24037.354f,
+                            revenue = 696161f
                         },
                         new
                         {
                             id = 116,
-                            date = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 38549.04f,
-                            net_income = 22948.492f,
-                            revenue = 431194f
+                            date = new DateTime(2020, 7, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 75938.516f,
+                            net_income = 49333.266f,
+                            revenue = 958281f
                         },
                         new
                         {
                             id = 117,
-                            date = new DateTime(2020, 1, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 41185.2f,
-                            net_income = 4979.3467f,
-                            revenue = 446517f
+                            date = new DateTime(2020, 6, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 79862.09f,
+                            net_income = 12918.407f,
+                            revenue = 594654f
                         },
                         new
                         {
                             id = 118,
-                            date = new DateTime(2020, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 28331.11f,
-                            net_income = 10358.028f,
-                            revenue = 227880f
+                            date = new DateTime(2020, 2, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 12809.223f,
+                            net_income = 5311.445f,
+                            revenue = 106607f
                         },
                         new
                         {
                             id = 119,
-                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 43584.25f,
-                            net_income = 4612.5576f,
-                            revenue = 321660f
+                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 47108.734f,
+                            net_income = 18406.271f,
+                            revenue = 403635f
                         },
                         new
                         {
                             id = 120,
-                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 99347.55f,
-                            net_income = 34221.16f,
-                            revenue = 819720f
+                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 113430.93f,
+                            net_income = 19418.094f,
+                            revenue = 791512f
                         },
                         new
                         {
                             id = 121,
-                            date = new DateTime(2020, 6, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 104086.266f,
-                            net_income = 31714.691f,
-                            revenue = 962090f
+                            date = new DateTime(2020, 7, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 93749.12f,
+                            net_income = 27220.887f,
+                            revenue = 645433f
                         },
                         new
                         {
                             id = 122,
-                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 30494.006f,
-                            net_income = 12623.846f,
-                            revenue = 450744f
+                            date = new DateTime(2020, 4, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 93116.875f,
+                            net_income = 33522.54f,
+                            revenue = 704050f
                         },
                         new
                         {
                             id = 123,
-                            date = new DateTime(2020, 6, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 95254.24f,
-                            net_income = 36913.84f,
-                            revenue = 714976f
+                            date = new DateTime(2020, 7, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 116418.78f,
+                            net_income = 32478.305f,
+                            revenue = 943849f
                         },
                         new
                         {
                             id = 124,
-                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 28257.674f,
-                            net_income = 9944.923f,
-                            revenue = 213547f
+                            date = new DateTime(2020, 1, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 20053.486f,
+                            net_income = 3349.0813f,
+                            revenue = 180462f
                         },
                         new
                         {
                             id = 125,
-                            date = new DateTime(2020, 7, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 46718.695f,
-                            net_income = 27661.682f,
-                            revenue = 911447f
+                            date = new DateTime(2020, 5, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 50665.223f,
+                            net_income = 24330.186f,
+                            revenue = 443176f
                         },
                         new
                         {
                             id = 126,
-                            date = new DateTime(2020, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 85798.53f,
-                            net_income = 13552.954f,
-                            revenue = 701865f
+                            date = new DateTime(2020, 7, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 32460.914f,
+                            net_income = 20640.68f,
+                            revenue = 354921f
                         },
                         new
                         {
                             id = 127,
-                            date = new DateTime(2020, 5, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 80021.13f,
-                            net_income = 24080.701f,
-                            revenue = 569920f
+                            date = new DateTime(2020, 12, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 56792.855f,
+                            net_income = 9727.854f,
+                            revenue = 758448f
                         },
                         new
                         {
                             id = 128,
-                            date = new DateTime(2020, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 50783.363f,
-                            net_income = 20517.924f,
-                            revenue = 488596f
+                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 79108.91f,
+                            net_income = 11804.523f,
+                            revenue = 911675f
                         },
                         new
                         {
                             id = 129,
-                            date = new DateTime(2020, 9, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 17077.82f,
-                            net_income = 8952.632f,
-                            revenue = 220966f
+                            date = new DateTime(2020, 6, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 94296.984f,
+                            net_income = 47018.49f,
+                            revenue = 906097f
                         },
                         new
                         {
                             id = 130,
-                            date = new DateTime(2020, 8, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 79686.32f,
-                            net_income = 30635.781f,
-                            revenue = 542846f
+                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 64711.64f,
+                            net_income = 15300.286f,
+                            revenue = 971362f
                         },
                         new
                         {
                             id = 131,
-                            date = new DateTime(2020, 12, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 56951.176f,
-                            net_income = 15138.858f,
-                            revenue = 621754f
+                            date = new DateTime(2020, 4, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 59327.81f,
+                            net_income = 39474.375f,
+                            revenue = 986161f
                         },
                         new
                         {
                             id = 132,
-                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 27709.992f,
-                            net_income = 13364.585f,
-                            revenue = 332680f
+                            date = new DateTime(2020, 8, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 63485.9f,
+                            net_income = 54142.824f,
+                            revenue = 984263f
                         },
                         new
                         {
                             id = 133,
-                            date = new DateTime(2020, 2, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 18236.781f,
-                            net_income = 4724.889f,
-                            revenue = 156373f
+                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 88675.53f,
+                            net_income = 24280.79f,
+                            revenue = 902434f
                         },
                         new
                         {
                             id = 134,
-                            date = new DateTime(2020, 11, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 27731.404f,
-                            net_income = 7744.772f,
-                            revenue = 200161f
+                            date = new DateTime(2020, 7, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 81316.66f,
+                            net_income = 27341.98f,
+                            revenue = 716894f
                         },
                         new
                         {
                             id = 135,
-                            date = new DateTime(2020, 12, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 31481.062f,
-                            net_income = 12948.614f,
-                            revenue = 320572f
+                            date = new DateTime(2020, 2, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 31869.082f,
+                            net_income = 11877.304f,
+                            revenue = 397430f
                         },
                         new
                         {
                             id = 136,
-                            date = new DateTime(2020, 12, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 92433.05f,
-                            net_income = 32217.418f,
-                            revenue = 710168f
+                            date = new DateTime(2020, 1, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 21072.096f,
+                            net_income = 14815f,
+                            revenue = 267930f
                         },
                         new
                         {
                             id = 137,
-                            date = new DateTime(2020, 3, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 52639.266f,
-                            net_income = 29341.768f,
-                            revenue = 684400f
+                            date = new DateTime(2020, 1, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 60352.785f,
+                            net_income = 28624.71f,
+                            revenue = 563788f
                         },
                         new
                         {
                             id = 138,
-                            date = new DateTime(2020, 3, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 110089.64f,
-                            net_income = 42576.293f,
-                            revenue = 754750f
+                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 90352.945f,
+                            net_income = 22108.809f,
+                            revenue = 611773f
                         },
                         new
                         {
                             id = 139,
-                            date = new DateTime(2020, 3, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 56539.63f,
-                            net_income = 13068.434f,
-                            revenue = 917366f
+                            date = new DateTime(2020, 3, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 20259.508f,
+                            net_income = 3741.231f,
+                            revenue = 315834f
                         },
                         new
                         {
                             id = 140,
-                            date = new DateTime(2020, 2, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 82134.945f,
-                            net_income = 40991.152f,
-                            revenue = 707626f
+                            date = new DateTime(2020, 10, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 20633.861f,
+                            net_income = 3228.6863f,
+                            revenue = 303888f
                         },
                         new
                         {
                             id = 141,
-                            date = new DateTime(2020, 9, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 78454.7f,
-                            net_income = 35226.402f,
-                            revenue = 804875f
+                            date = new DateTime(2020, 8, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 9406.604f,
+                            net_income = 1648.5317f,
+                            revenue = 101892f
                         },
                         new
                         {
                             id = 142,
-                            date = new DateTime(2020, 4, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 43903.566f,
-                            net_income = 7093.347f,
-                            revenue = 604810f
+                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 46612.023f,
+                            net_income = 21593.756f,
+                            revenue = 565009f
                         },
                         new
                         {
                             id = 143,
-                            date = new DateTime(2020, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 59844.15f,
-                            net_income = 13846.018f,
-                            revenue = 618523f
+                            date = new DateTime(2020, 10, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 46165.42f,
+                            net_income = 31070.414f,
+                            revenue = 704005f
                         },
                         new
                         {
                             id = 144,
-                            date = new DateTime(2020, 1, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 36985.203f,
-                            net_income = 37058.914f,
-                            revenue = 684812f
+                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 12729.366f,
+                            net_income = 5498.7866f,
+                            revenue = 127925f
                         },
                         new
                         {
                             id = 145,
-                            date = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 43401.957f,
-                            net_income = 39088.246f,
-                            revenue = 698124f
+                            date = new DateTime(2020, 9, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 21370.27f,
+                            net_income = 15744.034f,
+                            revenue = 348690f
                         },
                         new
                         {
                             id = 146,
-                            date = new DateTime(2020, 4, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 21585.098f,
-                            net_income = 1723.5098f,
-                            revenue = 154040f
+                            date = new DateTime(2020, 6, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 26092.348f,
+                            net_income = 4379.6655f,
+                            revenue = 316191f
                         },
                         new
                         {
                             id = 147,
-                            date = new DateTime(2020, 1, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 42069.06f,
-                            net_income = 30352.297f,
-                            revenue = 643806f
+                            date = new DateTime(2020, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 43037.996f,
+                            net_income = 26589.06f,
+                            revenue = 496072f
                         },
                         new
                         {
                             id = 148,
-                            date = new DateTime(2020, 3, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 35709.824f,
-                            net_income = 28380.654f,
-                            revenue = 593477f
+                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 29568.39f,
+                            net_income = 17648.807f,
+                            revenue = 436084f
                         },
                         new
                         {
                             id = 149,
-                            date = new DateTime(2020, 9, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 54552.73f,
-                            net_income = 13046.849f,
-                            revenue = 900568f
+                            date = new DateTime(2020, 1, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 39238.91f,
+                            net_income = 34454.24f,
+                            revenue = 734906f
                         },
                         new
                         {
                             id = 150,
-                            date = new DateTime(2020, 10, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 102847.164f,
-                            net_income = 58238.633f,
-                            revenue = 992986f
+                            date = new DateTime(2020, 9, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 12039.906f,
+                            net_income = 1277.0225f,
+                            revenue = 102625f
                         },
                         new
                         {
                             id = 151,
-                            date = new DateTime(2020, 2, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 75645.01f,
-                            net_income = 10037.692f,
-                            revenue = 549265f
+                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 54094.746f,
+                            net_income = 26166.879f,
+                            revenue = 651199f
                         },
                         new
                         {
                             id = 152,
-                            date = new DateTime(2020, 4, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 43033.51f,
-                            net_income = 27205.69f,
-                            revenue = 746021f
+                            date = new DateTime(2020, 8, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 53369.23f,
+                            net_income = 14192.917f,
+                            revenue = 644708f
                         },
                         new
                         {
                             id = 153,
-                            date = new DateTime(2020, 7, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 28482.453f,
-                            net_income = 11718.939f,
-                            revenue = 501419f
+                            date = new DateTime(2020, 2, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 34160.65f,
+                            net_income = 8778.319f,
+                            revenue = 315430f
                         },
                         new
                         {
                             id = 154,
-                            date = new DateTime(2020, 1, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 30551.541f,
-                            net_income = 8305.88f,
-                            revenue = 605430f
+                            date = new DateTime(2020, 12, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 23562.094f,
+                            net_income = 7396.5986f,
+                            revenue = 288014f
                         },
                         new
                         {
                             id = 155,
-                            date = new DateTime(2020, 7, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 47261.117f,
-                            net_income = 9860.044f,
-                            revenue = 620886f
+                            date = new DateTime(2020, 9, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 38220.453f,
+                            net_income = 17793.412f,
+                            revenue = 526566f
                         },
                         new
                         {
                             id = 156,
-                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 60701.395f,
-                            net_income = 12452.569f,
-                            revenue = 431550f
+                            date = new DateTime(2020, 1, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 46778.375f,
+                            net_income = 7403.326f,
+                            revenue = 515928f
                         },
                         new
                         {
                             id = 157,
-                            date = new DateTime(2020, 8, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 25063.934f,
-                            net_income = 9197.97f,
-                            revenue = 184020f
+                            date = new DateTime(2020, 8, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 51644.69f,
+                            net_income = 55837.78f,
+                            revenue = 996193f
                         },
                         new
                         {
                             id = 158,
-                            date = new DateTime(2020, 11, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 72113.805f,
-                            net_income = 16158.632f,
-                            revenue = 951512f
+                            date = new DateTime(2020, 6, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 116051.96f,
+                            net_income = 35033.953f,
+                            revenue = 811617f
                         },
                         new
                         {
                             id = 159,
-                            date = new DateTime(2020, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 89138.375f,
-                            net_income = 10287.175f,
-                            revenue = 925550f
+                            date = new DateTime(2020, 6, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 25654.43f,
+                            net_income = 11293.249f,
+                            revenue = 193307f
                         },
                         new
                         {
                             id = 160,
-                            date = new DateTime(2020, 2, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 80154.13f,
-                            net_income = 50248.04f,
-                            revenue = 902634f
+                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 100551.37f,
+                            net_income = 13460.262f,
+                            revenue = 796861f
                         },
                         new
                         {
                             id = 161,
-                            date = new DateTime(2020, 8, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 16972.69f,
-                            net_income = 5402.447f,
-                            revenue = 313879f
+                            date = new DateTime(2020, 7, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 22204.766f,
+                            net_income = 11246.127f,
+                            revenue = 359771f
                         },
                         new
                         {
                             id = 162,
-                            date = new DateTime(2020, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 83819.85f,
-                            net_income = 26469.256f,
-                            revenue = 560820f
+                            date = new DateTime(2020, 9, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 119102.6f,
+                            net_income = 37880.098f,
+                            revenue = 961998f
                         },
                         new
                         {
                             id = 163,
-                            date = new DateTime(2020, 9, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 19556.559f,
-                            net_income = 4153.0947f,
-                            revenue = 177905f
+                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 69044.52f,
+                            net_income = 44714.387f,
+                            revenue = 918369f
                         },
                         new
                         {
                             id = 164,
-                            date = new DateTime(2020, 4, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 7793.229f,
-                            net_income = 4874.554f,
-                            revenue = 129852f
+                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 43714.88f,
+                            net_income = 5559.937f,
+                            revenue = 316875f
                         },
                         new
                         {
                             id = 165,
-                            date = new DateTime(2020, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 98016.65f,
-                            net_income = 13953.874f,
-                            revenue = 813067f
+                            date = new DateTime(2020, 4, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 88836.125f,
+                            net_income = 34580.33f,
+                            revenue = 623724f
                         },
                         new
                         {
                             id = 166,
-                            date = new DateTime(2020, 3, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 25998.379f,
-                            net_income = 6052.5083f,
-                            revenue = 478414f
+                            date = new DateTime(2020, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 25898.678f,
+                            net_income = 18489.703f,
+                            revenue = 446734f
                         },
                         new
                         {
                             id = 167,
-                            date = new DateTime(2020, 7, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 39800.215f,
-                            net_income = 18816.018f,
-                            revenue = 536486f
+                            date = new DateTime(2020, 2, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 38253.027f,
+                            net_income = 15542.647f,
+                            revenue = 474551f
                         },
                         new
                         {
                             id = 168,
-                            date = new DateTime(2020, 3, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 24792.543f,
-                            net_income = 10870.192f,
-                            revenue = 202121f
+                            date = new DateTime(2020, 9, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 68023.11f,
+                            net_income = 23018.947f,
+                            revenue = 554249f
                         },
                         new
                         {
                             id = 169,
-                            date = new DateTime(2020, 10, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 30731.541f,
-                            net_income = 6031.1187f,
-                            revenue = 591152f
+                            date = new DateTime(2020, 4, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 122348.73f,
+                            net_income = 29119.639f,
+                            revenue = 986025f
                         },
                         new
                         {
                             id = 170,
-                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 32289.541f,
-                            net_income = 18582.797f,
-                            revenue = 456926f
+                            date = new DateTime(2020, 7, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 65156.246f,
+                            net_income = 22001.844f,
+                            revenue = 587936f
                         },
                         new
                         {
                             id = 171,
-                            date = new DateTime(2020, 11, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 22390.521f,
-                            net_income = 20469.354f,
-                            revenue = 443834f
+                            date = new DateTime(2020, 1, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 44138.418f,
+                            net_income = 27831.582f,
+                            revenue = 477042f
                         },
                         new
                         {
                             id = 172,
-                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 57699.25f,
-                            net_income = 23583.975f,
-                            revenue = 595255f
+                            date = new DateTime(2020, 10, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 25662.371f,
+                            net_income = 3239.4822f,
+                            revenue = 196908f
                         },
                         new
                         {
                             id = 173,
-                            date = new DateTime(2020, 5, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 32312.637f,
-                            net_income = 6717.4614f,
-                            revenue = 246748f
+                            date = new DateTime(2020, 12, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 25376.629f,
+                            net_income = 7914.339f,
+                            revenue = 291225f
                         },
                         new
                         {
                             id = 174,
-                            date = new DateTime(2020, 8, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 40856.688f,
-                            net_income = 13669.45f,
-                            revenue = 401813f
+                            date = new DateTime(2020, 8, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 24534.85f,
+                            net_income = 15076.457f,
+                            revenue = 396505f
                         },
                         new
                         {
                             id = 175,
-                            date = new DateTime(2020, 10, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 47737.79f,
-                            net_income = 8123.4067f,
-                            revenue = 330360f
+                            date = new DateTime(2020, 12, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 26075.658f,
+                            net_income = 11133.852f,
+                            revenue = 253120f
                         },
                         new
                         {
                             id = 176,
-                            date = new DateTime(2020, 1, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 81066.125f,
-                            net_income = 9794.954f,
-                            revenue = 896984f
+                            date = new DateTime(2020, 8, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 63122.832f,
+                            net_income = 31191.861f,
+                            revenue = 817444f
                         },
                         new
                         {
                             id = 177,
-                            date = new DateTime(2020, 8, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 35213.72f,
-                            net_income = 26380.691f,
-                            revenue = 479535f
+                            date = new DateTime(2020, 6, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 99578.46f,
+                            net_income = 34191.875f,
+                            revenue = 746320f
                         },
                         new
                         {
                             id = 178,
-                            date = new DateTime(2020, 1, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 63438.008f,
-                            net_income = 33760.05f,
-                            revenue = 848089f
+                            date = new DateTime(2020, 2, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 50028.188f,
+                            net_income = 13991.452f,
+                            revenue = 600595f
                         },
                         new
                         {
                             id = 179,
-                            date = new DateTime(2020, 12, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 58814.355f,
-                            net_income = 9310.245f,
-                            revenue = 763324f
+                            date = new DateTime(2020, 10, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 14887.149f,
+                            net_income = 8341.007f,
+                            revenue = 274473f
                         },
                         new
                         {
                             id = 180,
-                            date = new DateTime(2020, 11, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 41739.973f,
-                            net_income = 18370.936f,
-                            revenue = 620270f
+                            date = new DateTime(2020, 1, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 48942.508f,
+                            net_income = 14748.877f,
+                            revenue = 527888f
                         },
                         new
                         {
                             id = 181,
-                            date = new DateTime(2020, 2, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 74003.734f,
-                            net_income = 55910.72f,
-                            revenue = 990521f
+                            date = new DateTime(2020, 9, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 29040.455f,
+                            net_income = 15832.604f,
+                            revenue = 419129f
                         },
                         new
                         {
                             id = 182,
-                            date = new DateTime(2020, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 77792.44f,
-                            net_income = 17707.785f,
-                            revenue = 579990f
+                            date = new DateTime(2020, 5, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 47348.43f,
+                            net_income = 15837.935f,
+                            revenue = 507187f
                         },
                         new
                         {
                             id = 183,
-                            date = new DateTime(2020, 10, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 14096.904f,
-                            net_income = 3095.85f,
-                            revenue = 108661f
+                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 53863.875f,
+                            net_income = 29058.68f,
+                            revenue = 497551f
                         },
                         new
                         {
                             id = 184,
-                            date = new DateTime(2020, 7, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 60489.883f,
-                            net_income = 10902.735f,
-                            revenue = 434889f
+                            date = new DateTime(2020, 10, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 114365.33f,
+                            net_income = 48277.547f,
+                            revenue = 960290f
                         },
                         new
                         {
                             id = 185,
-                            date = new DateTime(2020, 4, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 48439.867f,
-                            net_income = 8353.593f,
-                            revenue = 575790f
+                            date = new DateTime(2020, 12, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 27344.125f,
+                            net_income = 20373.314f,
+                            revenue = 348900f
                         },
                         new
                         {
                             id = 186,
-                            date = new DateTime(2020, 4, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 107809.336f,
-                            net_income = 13414.624f,
-                            revenue = 794665f
+                            date = new DateTime(2020, 11, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 79863.234f,
+                            net_income = 16138.673f,
+                            revenue = 580174f
                         },
                         new
                         {
                             id = 187,
-                            date = new DateTime(2020, 10, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 55805.367f,
-                            net_income = 22551.465f,
-                            revenue = 400063f
+                            date = new DateTime(2020, 11, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 6046.56f,
+                            net_income = 4707.344f,
+                            revenue = 105512f
                         },
                         new
                         {
                             id = 188,
-                            date = new DateTime(2020, 8, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 14959.28f,
-                            net_income = 13720.782f,
-                            revenue = 265832f
+                            date = new DateTime(2020, 2, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 23212.602f,
+                            net_income = 8763.78f,
+                            revenue = 440468f
                         },
                         new
                         {
                             id = 189,
-                            date = new DateTime(2020, 8, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 41622.41f,
-                            net_income = 22365.705f,
-                            revenue = 482918f
+                            date = new DateTime(2020, 10, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 46186.3f,
+                            net_income = 27588.625f,
+                            revenue = 514337f
                         },
                         new
                         {
                             id = 190,
-                            date = new DateTime(2020, 1, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 6880.5107f,
-                            net_income = 4703.9175f,
-                            revenue = 136915f
+                            date = new DateTime(2020, 12, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 54765.574f,
+                            net_income = 7528.805f,
+                            revenue = 526282f
                         },
                         new
                         {
                             id = 191,
-                            date = new DateTime(2020, 9, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 41664.844f,
-                            net_income = 19553.408f,
-                            revenue = 394880f
+                            date = new DateTime(2020, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 103740.82f,
+                            net_income = 9172.902f,
+                            revenue = 748512f
                         },
                         new
                         {
                             id = 192,
-                            date = new DateTime(2020, 5, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 58098.49f,
-                            net_income = 9058.483f,
-                            revenue = 470421f
+                            date = new DateTime(2020, 12, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 120031.56f,
+                            net_income = 28454.799f,
+                            revenue = 871929f
                         },
                         new
                         {
                             id = 193,
-                            date = new DateTime(2020, 7, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 67868.39f,
-                            net_income = 35197.273f,
-                            revenue = 617916f
+                            date = new DateTime(2020, 7, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 136519.95f,
+                            net_income = 41867.543f,
+                            revenue = 978104f
                         },
                         new
                         {
                             id = 194,
-                            date = new DateTime(2020, 3, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 25843.248f,
-                            net_income = 4696.013f,
-                            revenue = 324851f
+                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 44473.625f,
+                            net_income = 11320.228f,
+                            revenue = 450507f
                         },
                         new
                         {
                             id = 195,
-                            date = new DateTime(2020, 2, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 82079.63f,
-                            net_income = 31770.32f,
-                            revenue = 838108f
+                            date = new DateTime(2020, 2, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 37115.77f,
+                            net_income = 13130.335f,
+                            revenue = 595381f
                         },
                         new
                         {
                             id = 196,
-                            date = new DateTime(2020, 3, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 99069.1f,
-                            net_income = 28070.047f,
-                            revenue = 946573f
+                            date = new DateTime(2020, 9, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 32772.504f,
+                            net_income = 11269.528f,
+                            revenue = 238916f
                         },
                         new
                         {
                             id = 197,
-                            date = new DateTime(2020, 8, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 66168.87f,
-                            net_income = 40438.047f,
-                            revenue = 819129f
+                            date = new DateTime(2020, 8, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 21427.447f,
+                            net_income = 4486.6533f,
+                            revenue = 178289f
                         },
                         new
                         {
                             id = 198,
-                            date = new DateTime(2020, 1, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 16022.449f,
-                            net_income = 6256.7676f,
-                            revenue = 132114f
+                            date = new DateTime(2020, 4, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 55429.92f,
+                            net_income = 12100.817f,
+                            revenue = 466330f
                         },
                         new
                         {
                             id = 199,
-                            date = new DateTime(2020, 10, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 72146.805f,
-                            net_income = 27161.996f,
-                            revenue = 695598f
+                            date = new DateTime(2020, 3, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 30811.164f,
+                            net_income = 8050.175f,
+                            revenue = 273124f
                         },
                         new
                         {
                             id = 200,
-                            date = new DateTime(2020, 5, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 64696.86f,
-                            net_income = 35802.008f,
-                            revenue = 945305f
+                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 25379.045f,
+                            net_income = 5310.615f,
+                            revenue = 461417f
                         },
                         new
                         {
                             id = 201,
-                            date = new DateTime(2020, 2, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 102777.414f,
-                            net_income = 27946.955f,
-                            revenue = 845425f
+                            date = new DateTime(2020, 8, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 37130.008f,
+                            net_income = 17741.133f,
+                            revenue = 510549f
                         },
                         new
                         {
                             id = 202,
-                            date = new DateTime(2020, 9, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 73753.67f,
-                            net_income = 17124.021f,
-                            revenue = 529683f
+                            date = new DateTime(2020, 5, 23, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 72665.805f,
+                            net_income = 24587.068f,
+                            revenue = 580264f
                         },
                         new
                         {
                             id = 203,
-                            date = new DateTime(2020, 2, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 88150.91f,
-                            net_income = 9136.944f,
-                            revenue = 897917f
+                            date = new DateTime(2020, 5, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 97858.53f,
+                            net_income = 34776.96f,
+                            revenue = 774469f
                         },
                         new
                         {
                             id = 204,
-                            date = new DateTime(2020, 4, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 123363.72f,
-                            net_income = 35190.844f,
-                            revenue = 898595f
+                            date = new DateTime(2020, 11, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 29538.994f,
+                            net_income = 8455.703f,
+                            revenue = 288214f
                         },
                         new
                         {
                             id = 205,
-                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 49580.25f,
-                            net_income = 17987.5f,
-                            revenue = 335649f
+                            date = new DateTime(2020, 8, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 115809.45f,
+                            net_income = 36977.79f,
+                            revenue = 909591f
                         },
                         new
                         {
                             id = 206,
-                            date = new DateTime(2020, 11, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 85798.805f,
-                            net_income = 13185.622f,
-                            revenue = 614531f
+                            date = new DateTime(2020, 3, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 13697.2f,
+                            net_income = 2361.005f,
+                            revenue = 101288f
                         },
                         new
                         {
                             id = 207,
-                            date = new DateTime(2020, 5, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 99206.77f,
-                            net_income = 40523.54f,
-                            revenue = 776844f
+                            date = new DateTime(2020, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 33840.55f,
+                            net_income = 8206.359f,
+                            revenue = 249191f
                         },
                         new
                         {
                             id = 208,
-                            date = new DateTime(2020, 4, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 39194.562f,
-                            net_income = 26590.027f,
-                            revenue = 641813f
+                            date = new DateTime(2020, 10, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 87337.29f,
+                            net_income = 22875.354f,
+                            revenue = 794692f
                         },
                         new
                         {
                             id = 209,
-                            date = new DateTime(2020, 2, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 65475.715f,
-                            net_income = 6209.806f,
-                            revenue = 610946f
+                            date = new DateTime(2020, 9, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 23347.271f,
+                            net_income = 15708.899f,
+                            revenue = 371730f
                         },
                         new
                         {
                             id = 210,
-                            date = new DateTime(2020, 4, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 26052.514f,
-                            net_income = 15356.274f,
-                            revenue = 292020f
+                            date = new DateTime(2020, 2, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 62863.117f,
+                            net_income = 48526.703f,
+                            revenue = 898675f
                         },
                         new
                         {
                             id = 211,
-                            date = new DateTime(2020, 11, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 100096.19f,
-                            net_income = 29982.035f,
-                            revenue = 680801f
+                            date = new DateTime(2020, 1, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 73488.77f,
+                            net_income = 16941.605f,
+                            revenue = 501438f
                         },
                         new
                         {
                             id = 212,
-                            date = new DateTime(2020, 8, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 23359.125f,
-                            net_income = 4730.075f,
-                            revenue = 175945f
+                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 57107.617f,
+                            net_income = 34508.367f,
+                            revenue = 895507f
                         },
                         new
                         {
                             id = 213,
-                            date = new DateTime(2020, 9, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 60199.46f,
-                            net_income = 16949.674f,
-                            revenue = 412810f
+                            date = new DateTime(2020, 8, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 48840.4f,
+                            net_income = 11249.827f,
+                            revenue = 863791f
                         },
                         new
                         {
                             id = 214,
-                            date = new DateTime(2020, 8, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 77119.33f,
-                            net_income = 20477.557f,
-                            revenue = 799703f
+                            date = new DateTime(2020, 1, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 17734.29f,
+                            net_income = 3944.8047f,
+                            revenue = 195709f
                         },
                         new
                         {
                             id = 215,
-                            date = new DateTime(2020, 9, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 40558.414f,
-                            net_income = 16668.943f,
-                            revenue = 804939f
+                            date = new DateTime(2020, 7, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 59583.184f,
+                            net_income = 11278.767f,
+                            revenue = 727724f
                         },
                         new
                         {
                             id = 216,
-                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 22183.572f,
-                            net_income = 17333.441f,
-                            revenue = 422157f
+                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 47747.91f,
+                            net_income = 13950.215f,
+                            revenue = 355864f
                         },
                         new
                         {
                             id = 217,
-                            date = new DateTime(2020, 7, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 33067.902f,
-                            net_income = 18485.645f,
-                            revenue = 505903f
+                            date = new DateTime(2020, 2, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 16017.916f,
+                            net_income = 9298.748f,
+                            revenue = 281266f
                         },
                         new
                         {
                             id = 218,
-                            date = new DateTime(2020, 11, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 84231.375f,
-                            net_income = 35194.63f,
-                            revenue = 608844f
+                            date = new DateTime(2020, 1, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 97099.21f,
+                            net_income = 27586.484f,
+                            revenue = 787675f
                         },
                         new
                         {
                             id = 219,
-                            date = new DateTime(2020, 6, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 39187.992f,
-                            net_income = 11697.695f,
-                            revenue = 284751f
+                            date = new DateTime(2020, 2, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 104217.62f,
+                            net_income = 34554.73f,
+                            revenue = 914157f
                         },
                         new
                         {
                             id = 220,
-                            date = new DateTime(2020, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 13991.335f,
-                            net_income = 6131.085f,
-                            revenue = 125535f
+                            date = new DateTime(2020, 10, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 14194.057f,
+                            net_income = 10896.031f,
+                            revenue = 207634f
                         },
                         new
                         {
                             id = 221,
-                            date = new DateTime(2020, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 96692.3f,
-                            net_income = 56516.18f,
-                            revenue = 952754f
+                            date = new DateTime(2020, 10, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 25412.822f,
+                            net_income = 5785.9575f,
+                            revenue = 394266f
                         },
                         new
                         {
                             id = 222,
-                            date = new DateTime(2020, 8, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 21031.287f,
-                            net_income = 3934.5168f,
-                            revenue = 154355f
+                            date = new DateTime(2020, 7, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 58287.25f,
+                            net_income = 36625.38f,
+                            revenue = 916081f
                         },
                         new
                         {
                             id = 223,
-                            date = new DateTime(2020, 9, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 105614.18f,
-                            net_income = 10679.802f,
-                            revenue = 805354f
+                            date = new DateTime(2020, 8, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 63287.95f,
+                            net_income = 25443.682f,
+                            revenue = 472154f
                         },
                         new
                         {
                             id = 224,
-                            date = new DateTime(2020, 7, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 66021.91f,
-                            net_income = 16552.363f,
-                            revenue = 490992f
+                            date = new DateTime(2020, 8, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 54411.406f,
+                            net_income = 20046.297f,
+                            revenue = 467348f
                         },
                         new
                         {
                             id = 225,
-                            date = new DateTime(2020, 11, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 79589.945f,
-                            net_income = 19175.06f,
-                            revenue = 609736f
+                            date = new DateTime(2020, 9, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 79934.86f,
+                            net_income = 7324.368f,
+                            revenue = 592479f
                         },
                         new
                         {
                             id = 226,
-                            date = new DateTime(2020, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 24155.176f,
-                            net_income = 7582.9585f,
-                            revenue = 180005f
+                            date = new DateTime(2020, 1, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 42630.707f,
+                            net_income = 16688.752f,
+                            revenue = 666550f
                         },
                         new
                         {
                             id = 227,
-                            date = new DateTime(2020, 3, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 20934.717f,
-                            net_income = 8951.967f,
-                            revenue = 245414f
+                            date = new DateTime(2020, 7, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 119232.305f,
+                            net_income = 56860.258f,
+                            revenue = 961655f
                         },
                         new
                         {
                             id = 228,
-                            date = new DateTime(2020, 11, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 61648.395f,
-                            net_income = 29140.846f,
-                            revenue = 889026f
+                            date = new DateTime(2020, 7, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 56743.17f,
+                            net_income = 19146.273f,
+                            revenue = 487679f
                         },
                         new
                         {
                             id = 229,
-                            date = new DateTime(2020, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 17486.182f,
-                            net_income = 12729.083f,
-                            revenue = 337890f
+                            date = new DateTime(2020, 8, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 34517.555f,
+                            net_income = 7406.0454f,
+                            revenue = 249400f
                         },
                         new
                         {
                             id = 230,
-                            date = new DateTime(2020, 4, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 16291.317f,
-                            net_income = 2088.2488f,
-                            revenue = 117423f
+                            date = new DateTime(2020, 9, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 60569.266f,
+                            net_income = 25021.867f,
+                            revenue = 562689f
                         },
                         new
                         {
                             id = 231,
-                            date = new DateTime(2020, 9, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 103585.08f,
-                            net_income = 12066.375f,
-                            revenue = 816093f
+                            date = new DateTime(2020, 12, 27, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 32296.916f,
+                            net_income = 26096.533f,
+                            revenue = 529339f
                         },
                         new
                         {
                             id = 232,
-                            date = new DateTime(2020, 1, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 61970.668f,
-                            net_income = 14763.532f,
-                            revenue = 741178f
+                            date = new DateTime(2020, 4, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 44258.098f,
+                            net_income = 4694.1006f,
+                            revenue = 316853f
                         },
                         new
                         {
                             id = 233,
-                            date = new DateTime(2020, 12, 19, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 63000.785f,
-                            net_income = 8974.094f,
-                            revenue = 593033f
+                            date = new DateTime(2020, 6, 28, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 60462.492f,
+                            net_income = 35896.58f,
+                            revenue = 924071f
                         },
                         new
                         {
                             id = 234,
-                            date = new DateTime(2020, 8, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 39603.152f,
-                            net_income = 12011.084f,
-                            revenue = 287726f
+                            date = new DateTime(2020, 7, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 50074.242f,
+                            net_income = 21215.438f,
+                            revenue = 367738f
                         },
                         new
                         {
                             id = 235,
-                            date = new DateTime(2020, 3, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 44023.74f,
-                            net_income = 7886.339f,
-                            revenue = 697305f
+                            date = new DateTime(2020, 2, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 34274.54f,
+                            net_income = 25713.057f,
+                            revenue = 452735f
                         },
                         new
                         {
                             id = 236,
-                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 41186.05f,
-                            net_income = 16345.805f,
-                            revenue = 322079f
+                            date = new DateTime(2020, 11, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 74362.24f,
+                            net_income = 34360.89f,
+                            revenue = 984322f
                         },
                         new
                         {
                             id = 237,
-                            date = new DateTime(2020, 4, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 32986.1f,
-                            net_income = 16572.596f,
-                            revenue = 319919f
+                            date = new DateTime(2020, 3, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 93343.65f,
+                            net_income = 44654.977f,
+                            revenue = 892009f
                         },
                         new
                         {
                             id = 238,
-                            date = new DateTime(2020, 2, 21, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 12843.794f,
-                            net_income = 11157.173f,
-                            revenue = 191526f
+                            date = new DateTime(2020, 1, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 55218.383f,
+                            net_income = 21330.76f,
+                            revenue = 626106f
                         },
                         new
                         {
                             id = 239,
-                            date = new DateTime(2020, 12, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 128335.9f,
-                            net_income = 36559.05f,
-                            revenue = 946409f
+                            date = new DateTime(2020, 5, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 96934.68f,
+                            net_income = 9746.547f,
+                            revenue = 661320f
                         },
                         new
                         {
                             id = 240,
-                            date = new DateTime(2020, 10, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 30437.58f,
-                            net_income = 5665.4644f,
-                            revenue = 350274f
+                            date = new DateTime(2020, 6, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 90083.484f,
+                            net_income = 33139.734f,
+                            revenue = 869604f
                         },
                         new
                         {
                             id = 241,
-                            date = new DateTime(2020, 12, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 57742.45f,
-                            net_income = 43987.93f,
-                            revenue = 969767f
+                            date = new DateTime(2020, 3, 18, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 63552.02f,
+                            net_income = 18643.385f,
+                            revenue = 471993f
                         },
                         new
                         {
                             id = 242,
-                            date = new DateTime(2020, 10, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 12171.581f,
-                            net_income = 3509.1365f,
-                            revenue = 102161f
+                            date = new DateTime(2020, 2, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 82378.63f,
+                            net_income = 32290.469f,
+                            revenue = 805250f
                         },
                         new
                         {
                             id = 243,
-                            date = new DateTime(2020, 7, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 104362.04f,
-                            net_income = 45299.766f,
-                            revenue = 910132f
+                            date = new DateTime(2020, 8, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 28618.658f,
+                            net_income = 4990.9326f,
+                            revenue = 227425f
                         },
                         new
                         {
                             id = 244,
-                            date = new DateTime(2020, 2, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 106660.79f,
-                            net_income = 45086.55f,
-                            revenue = 823827f
+                            date = new DateTime(2020, 3, 26, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 61477.035f,
+                            net_income = 24193.268f,
+                            revenue = 745318f
                         },
                         new
                         {
                             id = 245,
-                            date = new DateTime(2020, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 50461.066f,
-                            net_income = 24368.586f,
-                            revenue = 453382f
+                            date = new DateTime(2020, 2, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 48238.574f,
+                            net_income = 14341.67f,
+                            revenue = 341543f
                         },
                         new
                         {
                             id = 246,
-                            date = new DateTime(2020, 7, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 37548.25f,
-                            net_income = 14982.116f,
-                            revenue = 695458f
+                            date = new DateTime(2020, 4, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 60436.055f,
+                            net_income = 20891.479f,
+                            revenue = 567786f
                         },
                         new
                         {
                             id = 247,
-                            date = new DateTime(2020, 7, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 39256.062f,
-                            net_income = 16540.639f,
-                            revenue = 426562f
+                            date = new DateTime(2020, 8, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 18044.316f,
+                            net_income = 2238.7734f,
+                            revenue = 174080f
                         },
                         new
                         {
                             id = 248,
-                            date = new DateTime(2020, 4, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 34090.113f,
-                            net_income = 22728.547f,
-                            revenue = 660002f
+                            date = new DateTime(2020, 4, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 65818.73f,
+                            net_income = 26536.35f,
+                            revenue = 607119f
                         },
                         new
                         {
                             id = 249,
-                            date = new DateTime(2020, 7, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 42917.09f,
-                            net_income = 21509.006f,
-                            revenue = 705664f
+                            date = new DateTime(2020, 6, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 87361.15f,
+                            net_income = 15382.416f,
+                            revenue = 925773f
                         },
                         new
                         {
                             id = 250,
-                            date = new DateTime(2020, 10, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            expenses = 76241.53f,
-                            net_income = 10336.299f,
-                            revenue = 526784f
+                            date = new DateTime(2020, 9, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            expenses = 85382.58f,
+                            net_income = 29726.297f,
+                            revenue = 825752f
                         });
                 });
 #pragma warning restore 612, 618

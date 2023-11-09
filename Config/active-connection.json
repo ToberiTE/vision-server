@@ -1,1 +1,1 @@
-"Server=tcp:visionsql.database.windows.net,1433;Initial Catalog=vision;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;Authentication='Active Directory Default'"
+"Server=tcp:visionsql.database.windows.net,1433;Initial Catalog=vision;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;Authentication=Active Directory Default"
