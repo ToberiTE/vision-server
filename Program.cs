@@ -31,7 +31,7 @@ app.UseCors(x => x
     .SetIsOriginAllowed(origin =>
     {
         if (origin == "https://vision-client.azurewebsites.net" ||
-           origin.StartsWith("http://localhost"))
+           origin.StartsWith("http://DESKTOP-P414O6H"))
         {
             return true;
         }
