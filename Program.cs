@@ -13,7 +13,7 @@ var connection = string.Empty;
 if (builder.Environment.IsDevelopment())
 {
     builder.Configuration.AddEnvironmentVariables().AddJsonFile("appsettings.Development.json");
-    connection = builder.Configuration.GetConnectionString("AZURE_SQL_CONNECTIONSTRING");
+    connection = builder.Configuration.GetConnectionString("LOCAL_SQL_CONNECTIONSTRING");
 }
 else
 {
@@ -31,7 +31,7 @@ app.UseCors(x => x
     .SetIsOriginAllowed(origin =>
     {
         if (origin == "https://vision-client.azurewebsites.net" ||
-           origin.StartsWith("http://DESKTOP-P414O6H"))
+           origin.StartsWith("http://localhost"))
         {
             return true;
         }
