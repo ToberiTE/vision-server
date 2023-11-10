@@ -44,9 +44,9 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-app.MapGet("/transactions", async (VisionContext db) =>
+app.MapGet("/transactions", async (VisionContext db, CancellationToken cancellationToken) =>
 {
-    var transactions = await db.Transaction.ToListAsync();
+    var transactions = await db.Transaction.AsNoTracking().ToListAsync();
     return Results.Json(transactions);
 });
 
@@ -60,7 +60,7 @@ app.MapPost("/transactions", async (Transaction model, VisionContext db, Cancell
 app.MapGet("/projects", async (VisionContext db) =>
 {
 
-    var projects = await db.Project.ToListAsync();
+    var projects = await db.Project.AsNoTracking().ToListAsync();
     return Results.Json(projects);
 });
 
@@ -99,7 +99,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                 switch (groupBy)
                 {
                     case "Year":
-                        var queryYear = dbSet.AsQueryable();
+                        var queryYear = dbSet.AsQueryable().AsNoTracking();
                         var groupedByYear = queryYear.AsEnumerable().GroupBy(x => x.date.Year).Select(g => new
                         {
                             Date = g.Key,
@@ -109,7 +109,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                         return Results.Ok(groupedByYear);
 
                     case "Quarter":
-                        var queryQuarter = dbSet.AsQueryable();
+                        var queryQuarter = dbSet.AsQueryable().AsNoTracking();
                         var groupedByQuarter = queryQuarter.AsEnumerable()
                           .GroupBy(x => new
                           {
@@ -125,7 +125,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                         return Results.Ok(groupedByQuarter);
 
                     case "Month":
-                        var queryMonth = dbSet.AsQueryable();
+                        var queryMonth = dbSet.AsQueryable().AsNoTracking();
                         var groupedByMonth = queryMonth.AsEnumerable()
                           .GroupBy(x => new
                           {
@@ -141,7 +141,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                         return Results.Ok(groupedByMonth);
 
                     case "Week":
-                        var queryWeek = dbSet.AsQueryable();
+                        var queryWeek = dbSet.AsQueryable().AsNoTracking();
                         var groupedByWeek = queryWeek.AsEnumerable()
                           .GroupBy(x => new
                           {
@@ -170,7 +170,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                 switch (groupBy)
                 {
                     case "Year":
-                        var query = dbSet.AsQueryable();
+                        var query = dbSet.AsQueryable().AsNoTracking();
                         var groupedByYear = query.AsEnumerable().GroupBy(x => x.date.Year).Select(g => new
                         {
                             Date = g.Key,
@@ -179,7 +179,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                         return Results.Ok(groupedByYear);
 
                     case "Quarter":
-                        var queryQuarter = dbSet.AsQueryable();
+                        var queryQuarter = dbSet.AsQueryable().AsNoTracking();
                         var groupedByQuarter = queryQuarter.AsEnumerable()
                           .GroupBy(x => new
                           {
@@ -194,7 +194,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                         return Results.Ok(groupedByQuarter);
 
                     case "Month":
-                        var queryMonth = dbSet.AsQueryable();
+                        var queryMonth = dbSet.AsQueryable().AsNoTracking();
                         var groupedByMonth = queryMonth.AsEnumerable()
                           .GroupBy(x => new
                           {
@@ -209,7 +209,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                         return Results.Ok(groupedByMonth);
 
                     case "Week":
-                        var queryWeek = dbSet.AsQueryable();
+                        var queryWeek = dbSet.AsQueryable().AsNoTracking();
                         var groupedByWeek = queryWeek.AsEnumerable()
                           .GroupBy(x => new
                           {
@@ -237,7 +237,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                 switch (groupBy)
                 {
                     case "Year":
-                        var queryYear = dbSet.AsQueryable();
+                        var queryYear = dbSet.AsQueryable().AsNoTracking();
                         var groupedByYear = queryYear.AsEnumerable().GroupBy(x => x.date.Year).Select(g => new
                         {
                             Date = g.Key,
@@ -246,7 +246,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                         return Results.Ok(groupedByYear);
 
                     case "Quarter":
-                        var queryQuarter = dbSet.AsQueryable();
+                        var queryQuarter = dbSet.AsQueryable().AsNoTracking();
                         var groupedByQuarter = queryQuarter.AsEnumerable()
                           .GroupBy(x => new
                           {
@@ -261,7 +261,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                         return Results.Ok(groupedByQuarter);
 
                     case "Month":
-                        var queryMonth = dbSet.AsQueryable();
+                        var queryMonth = dbSet.AsQueryable().AsNoTracking();
                         var groupedByMonth = queryMonth.AsEnumerable()
                           .GroupBy(x => new
                           {
@@ -276,7 +276,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                         return Results.Ok(groupedByMonth);
 
                     case "Week":
-                        var queryWeek = dbSet.AsQueryable();
+                        var queryWeek = dbSet.AsQueryable().AsNoTracking();
                         var groupedByWeek = queryWeek.AsEnumerable()
                           .GroupBy(x => new
                           {
