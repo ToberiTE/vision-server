@@ -25,6 +25,8 @@ builder.Services.AddDbContext<VisionContext>(options =>
 
 var app = builder.Build();
 
+app.UseMiddleware<ValidateOriginMiddleware>();
+
 if (builder.Environment.IsDevelopment())
 {
     app.UseCors(x => x
@@ -40,15 +42,8 @@ if (builder.Environment.IsDevelopment())
 }
 else
 {
-    app.UseCors(x => x
-       .SetIsOriginAllowed(origin =>
-       {
-           if (origin == "https://vision-client.azurewebsites.net")
-           {
-               return true;
-           }
-           return false;
-       })
+    app.UseCors(policy =>
+           policy.WithOrigins("https://yourclientapp.com")
     );
 }
 
@@ -60,28 +55,28 @@ app.MapGet("/transactions", async (VisionContext db, CancellationToken cancellat
 {
     var transactions = await db.Transaction.AsNoTracking().ToListAsync();
     return Results.Json(transactions);
-});
+}).RequireAuthorization();
 
 app.MapPost("/transactions", async (Transaction model, VisionContext db, CancellationToken cancellationToken) =>
 {
     db.Transaction?.Add(model);
     await db.SaveChangesAsync(cancellationToken);
     return Results.Created($"/transactions/{model.id}", model);
-});
+}).RequireAuthorization(); ;
 
 app.MapGet("/projects", async (VisionContext db) =>
 {
 
     var projects = await db.Project.AsNoTracking().ToListAsync();
     return Results.Json(projects);
-});
+}).RequireAuthorization(); ;
 
 app.MapPost("/projects", async (Project model, VisionContext db, CancellationToken cancellationToken) =>
 {
     db.Project?.Add(model);
     await db.SaveChangesAsync(cancellationToken);
     return Results.Created($"/projects/{model.id}", model);
-});
+}).RequireAuthorization(); ;
 
 
 app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionContext db, CancellationToken cancellationToken) =>
@@ -317,7 +312,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
         return Results.Ok(data);
     }
     return Results.NotFound();
-});
+}).RequireAuthorization(); ;
 
 app.MapGet("/dashboard/tables", (VisionContext db, CancellationToken cancellationToken) =>
 {
@@ -327,7 +322,7 @@ app.MapGet("/dashboard/tables", (VisionContext db, CancellationToken cancellatio
     .Distinct()
     .ToList();
     return Results.Ok(tables);
-});
+}).RequireAuthorization(); ;
 
 app.MapGet("/sidenav/tables", (VisionContext db, CancellationToken cancellationToken) =>
 {
@@ -337,6 +332,6 @@ app.MapGet("/sidenav/tables", (VisionContext db, CancellationToken cancellationT
     .Distinct()
     .ToList();
     return Results.Ok(tables);
-});
+}).RequireAuthorization(); ;
 
 app.Run();
