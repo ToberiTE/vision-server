@@ -25,23 +25,15 @@ builder.Services.AddDbContext<VisionContext>(options =>
 
 var app = builder.Build();
 
-app.UseMiddleware<ValidateOriginMiddleware>();
-
 if (builder.Environment.IsDevelopment())
 {
-    app.UseCors(x => x
-       .SetIsOriginAllowed(origin =>
-       {
-           if (origin == "http://localhost")
-           {
-               return true;
-           }
-           return false;
-       })
+    app.UseCors(policy =>
+           policy.WithOrigins("http://localhost:8080")
     );
 }
 else
 {
+    app.UseMiddleware<ValidateOriginMiddleware>();
     app.UseCors(policy =>
            policy.WithOrigins("https://vision-client.azurewebsites.net")
     );
