@@ -25,20 +25,32 @@ builder.Services.AddDbContext<VisionContext>(options =>
 
 var app = builder.Build();
 
-app.UseCors(x => x
-    .AllowAnyMethod()
-    .AllowAnyHeader()
-    .SetIsOriginAllowed(origin =>
-    {
-        if (origin == "https://vision-client.azurewebsites.net" ||
-           origin.StartsWith("http://localhost"))
-        {
-            return true;
-        }
-
-        return false;
-    })
-    .AllowCredentials());
+if (builder.Environment.IsDevelopment())
+{
+    app.UseCors(x => x
+       .SetIsOriginAllowed(origin =>
+       {
+           if (origin == "http://localhost")
+           {
+               return true;
+           }
+           return false;
+       })
+    );
+}
+else
+{
+    app.UseCors(x => x
+       .SetIsOriginAllowed(origin =>
+       {
+           if (origin == "https://vision-client.azurewebsites.net")
+           {
+               return true;
+           }
+           return false;
+       })
+    );
+}
 
 app.UseHttpsRedirection();
 
