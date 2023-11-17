@@ -1,28 +1,31 @@
-public class ValidateOriginMiddleware
+namespace Server
 {
-    private readonly RequestDelegate _next;
-
-    public ValidateOriginMiddleware(RequestDelegate next)
+    public record ValidateOriginMiddleware
     {
-        _next = next;
-    }
+        private readonly RequestDelegate _next;
 
-    public async Task Invoke(HttpContext context)
-    {
-        if (!context.Request.Headers.ContainsKey("Origin"))
+        public ValidateOriginMiddleware(RequestDelegate next)
         {
-            context.Response.StatusCode = 401;
-            return;
+            _next = next;
         }
 
-        var origin = context.Request.Headers["Origin"];
-
-        if (origin != "https://vision-client.azurewebsites.net")
+        public async Task Invoke(HttpContext context)
         {
-            context.Response.StatusCode = 403;
-            return;
-        }
+            if (!context.Request.Headers.ContainsKey("Origin"))
+            {
+                context.Response.StatusCode = 401;
+                return;
+            }
 
-        await _next(context);
+            var origin = context.Request.Headers["Origin"];
+
+            if (origin != "https://vision-client.azurewebsites.net")
+            {
+                context.Response.StatusCode = 403;
+                return;
+            }
+
+            await _next(context);
+        }
     }
 }

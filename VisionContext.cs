@@ -8,13 +8,13 @@ namespace Server
         {
         }
 
-        public DbSet<Bar_Revenue>? Bar_Revenue { get; set; }
-        public DbSet<Pie_Production>? Pie_Production { get; set; }
-        public DbSet<Radar_Production>? Radar_Production { get; set; }
-        public DbSet<Scatter_Revenue>? Scatter_Revenue { get; set; }
-        public DbSet<Scatter_Production>? Scatter_Production { get; set; }
-        public DbSet<Project>? Project { get; set; }
-        public DbSet<Transaction>? Transaction { get; set; }
+        public DbSet<Bar_Revenue> Bar_Revenue { get; set; }
+        public DbSet<Pie_Production> Pie_Production { get; set; }
+        public DbSet<Radar_Production> Radar_Production { get; set; }
+        public DbSet<Scatter_Revenue> Scatter_Revenue { get; set; }
+        public DbSet<Scatter_Production> Scatter_Production { get; set; }
+        public DbSet<Project> Project { get; set; }
+        public DbSet<Transaction> Transaction { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
