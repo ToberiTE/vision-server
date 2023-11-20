@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Server;
 using Server.Models;
 using System.Globalization;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -88,213 +89,79 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
 
     if (!string.IsNullOrEmpty(groupBy))
     {
-        switch (selectedTable.ToLower())
+        IEnumerable<dynamic> result = selectedTable.ToLower() switch
         {
-            case "bar_revenue":
-                var bar_revenue = dbSet.AsQueryable().ElementType;
-                var barDate = bar_revenue.GetProperty("date");
-                var barExpenses = bar_revenue.GetProperty("expenses");
-                var barNetIncome = bar_revenue.GetProperty("net_income");
+            "bar_revenue" => Grouping(data, groupBy)
+            .Select(g => new
+            {
+                Date = g.Key,
+                Revenue = g.Sum(p => ((Bar_Revenue)p).expenses),
+                Net_income = g.Sum(p => ((Bar_Revenue)p).net_income)
+            }),
 
-                switch (groupBy.ToLower())
-                {
-                    case "year":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => x.date.Year)
-                        .Select(g => new
-                        {
-                            Date = g.Key,
-                            Expenses = g.Sum(x => (float)barExpenses?.GetValue(x)),
-                            Net_income = g.Sum(x => (float)barNetIncome?.GetValue(x))
-                        }));
+            "radar_production" => Grouping(data, groupBy)
+            .Select(g => new
+            {
+                Date = g.Key,
+                Production = g.Sum(p => ((Radar_Production)p).production),
+            }),
 
-                    case "quarter":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => new
-                        {
-                            x.date.Year,
-                            Quarter = ((x.date.Month - 1) / 3) + 1
-                        })
-                        .Select(g => new
-                        {
-                            Date = $"{g.Key.Year} Q{g.Key.Quarter}",
-                            Expenses = g.Sum(x => (float)barExpenses?.GetValue(x)),
-                            Net_income = g.Sum(x => (float)barNetIncome?.GetValue(x))
-                        }));
-
-                    case "month":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => new
-                        {
-                            x.date.Year,
-                            x.date.Month
-                        })
-                        .Select(g => new
-                        {
-                            Date = $"{g.Key.Year}-{g.Key.Month:00}",
-                            Expenses = g.Sum(x => (float)barExpenses?.GetValue(x)),
-                            Net_income = g.Sum(x => (float)barNetIncome?.GetValue(x))
-                        }));
-
-                    case "week":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => new
-                        {
-                            x.date.Year,
-                            Week = CultureInfo.InvariantCulture.Calendar.GetWeekOfYear(
-                            x.date,
-                            CalendarWeekRule.FirstFourDayWeek,
-                            DayOfWeek.Monday
-                          )
-                        })
-                        .Select(g => new
-                        {
-                            Date = $"{g.Key.Year} W{g.Key.Week}",
-                            Expenses = g.Sum(x => (float)barExpenses?.GetValue(x)),
-                            Net_income = g.Sum(x => (float)barNetIncome?.GetValue(x))
-                        }));
-                }
-                break;
-
-            case "radar_production":
-                var radar_production = dbSet.AsQueryable().ElementType;
-                var radarDate = radar_production.GetProperty("date");
-                var radarProduction = radar_production.GetProperty("production");
-
-                switch (groupBy.ToLower())
-                {
-                    case "year":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => x.date.Year)
-                        .Select(g => new
-                        {
-                            Date = g.Key,
-                            Production = g.Sum(x => (float)radarProduction?.GetValue(x)),
-                        }));
-
-                    case "quarter":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => new
-                        {
-                            x.date.Year,
-                            Quarter = ((x.date.Month - 1) / 3) + 1
-                        })
-                        .Select(g => new
-                        {
-                            Date = $"{g.Key.Year} Q{g.Key.Quarter}",
-                            Production = g.Sum(x => (float)radarProduction?.GetValue(x)),
-                        }));
-
-                    case "month":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => new
-                        {
-                            x.date.Year,
-                            x.date.Month
-                        })
-                        .Select(g => new
-                        {
-                            Date = $"{g.Key.Year}-{g.Key.Month:00}",
-                            Production = g.Sum(x => (float)radarProduction?.GetValue(x)),
-                        }));
-
-                    case "week":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => new
-                        {
-                            x.date.Year,
-                            Week = CultureInfo.InvariantCulture.Calendar.GetWeekOfYear(
-                            x.date,
-                            CalendarWeekRule.FirstFourDayWeek,
-                            DayOfWeek.Monday
-                          )
-                        })
-                        .Select(g => new
-                        {
-                            Date = $"{g.Key.Year} W{g.Key.Week}",
-                            Production = g.Sum(x => (float)radarProduction?.GetValue(x)),
-                        }));
-                }
-                break;
-
-            case "pie_production":
-                var pie_production = dbSet.AsQueryable().ElementType;
-                var pieDate = pie_production.GetProperty("date");
-                var pieProduction = pie_production.GetProperty("production");
-
-                switch (groupBy.ToLower())
-                {
-                    case "year":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => x.date.Year).Select(g => new
-                        {
-                            Date = g.Key,
-                            Production = g.Sum(x => (float)pieProduction?.GetValue(x)),
-                        }));
-
-                    case "quarter":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => new
-                        {
-                            x.date.Year,
-                            Quarter = ((x.date.Month - 1) / 3) + 1
-                        })
-                        .Select(g => new
-                        {
-                            Date = $"{g.Key.Year} Q{g.Key.Quarter}",
-                            Production = g.Sum(x => (float)pieProduction?.GetValue(x)),
-                        }));
-
-                    case "month":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => new
-                        {
-                            x.date.Year,
-                            x.date.Month
-                        })
-                        .Select(g => new
-                        {
-                            Date = $"{g.Key.Year}-{g.Key.Month:00}",
-                            Production = g.Sum(x => (float)pieProduction?.GetValue(x)),
-                        }));
-
-                    case "week":
-                        return Results.Ok(data
-                        .AsEnumerable()
-                        .GroupBy(x => new
-                        {
-                            x.date.Year,
-                            Week = CultureInfo.InvariantCulture.Calendar.GetWeekOfYear(
-                             x.date,
-                             CalendarWeekRule.FirstFourDayWeek,
-                             DayOfWeek.Monday
-                           )
-                        })
-                         .Select(g => new
-                         {
-                             Date = $"{g.Key.Year} W{g.Key.Week}",
-                             Production = g.Sum(x => (float)pieProduction?.GetValue(x)),
-                         }));
-                }
-                break;
-            default:
-                break;
-        }
-        return Results.NotFound();
+            "pie_production" => Grouping(data, groupBy)
+            .Select(g => new
+            {
+                Date = g.Key,
+                Production = g.Sum(p => ((Pie_Production)p).production),
+            }),
+            _ => (IEnumerable<dynamic>)Results.NotFound(),
+        };
+        return Results.Ok(result);
     }
     return Results.Ok(data);
 });
+
+IEnumerable<IGrouping<dynamic, dynamic>> Grouping(IEnumerable<dynamic> data, dynamic groupBy)
+{
+    switch (groupBy.ToLower())
+    {
+        case "year": return GroupByYear(data);
+        case "quarter": return GroupByQuarter(data);
+        case "month": return GroupByMonth(data);
+        case "week": return GroupByWeek(data);
+    };
+    return (IEnumerable<IGrouping<dynamic, dynamic>>)Results.NotFound();
+}
+
+IEnumerable<IGrouping<dynamic, dynamic>> GroupByYear(IEnumerable<dynamic> data)
+{
+    return data
+    .GroupBy(x => x.date.Year);
+}
+
+IEnumerable<IGrouping<dynamic, dynamic>> GroupByQuarter(IEnumerable<dynamic> data)
+{
+    return data
+    .GroupBy(x => $"{x.date.Year} Q{((x.date.Month - 1) / 3) + 1}");
+}
+
+IEnumerable<IGrouping<dynamic, dynamic>> GroupByMonth(IEnumerable<dynamic> data)
+{
+    return data
+    .GroupBy(x => $"{x.date.Year}-{x.date.Month:00}");
+}
+
+IEnumerable<IGrouping<dynamic, dynamic>> GroupByWeek(IEnumerable<dynamic> data)
+{
+    return data
+    .GroupBy(x =>
+       $"{x.date.Year} W{CultureInfo.InvariantCulture.Calendar
+        .GetWeekOfYear
+        (
+            x.date,
+            CalendarWeekRule.FirstFourDayWeek,
+            DayOfWeek.Monday
+        )}"
+    );
+}
 
 app.MapGet("/dashboard/tables", (VisionContext db, CancellationToken cancellationToken) =>
 {
