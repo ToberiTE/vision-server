@@ -23,102 +23,89 @@ namespace Server
             if (!modelBuilder.Model.GetEntityTypes().Any(e => e.Name == typeof(Bar_Revenue).Name))
             {
                 var records = new List<Bar_Revenue>();
-
                 var random = new Random();
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateTime(2020, 1, 1).AddDays(random.Next(365));
-                    var netIncome = random.NextDouble();
-                    var expenses = random.NextDouble();
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var netIncome = random.Next(100, 10000);
+                    var expenses = random.Next(100, 10000);
 
-                    records.Add(new Bar_Revenue(i, date, (float)netIncome, (float)expenses));
+                    records.Add(new Bar_Revenue(i, date, netIncome, expenses));
                 }
-
                 modelBuilder.Entity<Bar_Revenue>().HasData(records);
             }
 
             if (!modelBuilder.Model.GetEntityTypes().Any(e => e.Name == typeof(Pie_Production).Name))
             {
                 var records = new List<Pie_Production>();
-
                 var random = new Random();
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateTime(2020, 1, 1).AddDays(random.Next(365));
-
-                    var production = random.Next(1000, 10000);
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var production = random.Next(100, 10000);
 
                     records.Add(new Pie_Production(i, date, production));
                 }
-
                 modelBuilder.Entity<Pie_Production>().HasData(records);
             }
 
             if (!modelBuilder.Model.GetEntityTypes().Any(e => e.Name == typeof(Radar_Production).Name))
             {
                 var records = new List<Radar_Production>();
-
                 var random = new Random();
+
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateTime(2020, 1, 1).AddDays(random.Next(365));
-
-                    var production = random.Next(1000, 10000);
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var production = random.Next(100, 10000);
 
                     records.Add(new Radar_Production(i, date, production));
-
                 }
-
                 modelBuilder.Entity<Radar_Production>().HasData(records);
             }
 
             if (!modelBuilder.Model.GetEntityTypes().Any(e => e.Name == typeof(Scatter_Production).Name))
             {
                 var records = new List<Scatter_Production>();
-
                 var random = new Random();
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateTime(2020, 1, 1).AddDays(random.Next(365));
-                    var productionGross = random.NextDouble();
-                    var fuelConsumption = random.NextDouble();
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var productionGross = random.Next(100, 10000);
+                    var fuelConsumption = random.Next(100, 10000);
 
-                    records.Add(new Scatter_Production(i, date, (float)productionGross, (float)fuelConsumption));
+                    records.Add(new Scatter_Production(i, date, productionGross, fuelConsumption));
                 }
-
                 modelBuilder.Entity<Scatter_Production>().HasData(records);
             }
 
             if (!modelBuilder.Model.GetEntityTypes().Any(e => e.Name == typeof(Scatter_Revenue).Name))
             {
                 var records = new List<Scatter_Revenue>();
-
                 var random = new Random();
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateTime(2020, 1, 1).AddDays(random.Next(365));
-                    var expenses = random.NextDouble();
-                    var netIncome = random.NextDouble();
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var expenses = random.Next(100, 10000);
+                    var netIncome = random.Next(100, 10000);
 
-                    records.Add(new Scatter_Revenue(i, date, (float)expenses, (float)netIncome));
+                    records.Add(new Scatter_Revenue(i, date, expenses, netIncome));
                 }
-
                 modelBuilder.Entity<Scatter_Revenue>().HasData(records);
             }
 
             if (!modelBuilder.Model.GetEntityTypes().Any(e => e.Name == typeof(Transaction).Name))
             {
                 var records = new List<Transaction>();
-
                 var random = new Random();
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateTime(2020, 1, 1).AddDays(random.Next(365));
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
                     var revenue = random.Next(100000, 1000000);
                     var netIncome = revenue * (random.NextDouble() * 0.1 + 0.05);
                     var expenses = revenue * (random.NextDouble() * 0.05 + 0.01);
@@ -132,7 +119,6 @@ namespace Server
             if (!modelBuilder.Model.GetEntityTypes().Any(e => e.Name == typeof(Project).Name))
             {
                 var records = new List<Project>();
-
                 var random = new Random();
 
                 for (int i = 1; i <= 50; i++)
@@ -171,15 +157,8 @@ namespace Server
 
                     records.Add(new Project(i, customer, description, status, elapsed_time, estimated_time, (float)price));
                 }
-
                 modelBuilder.Entity<Project>().HasData(records);
             }
         }
-
-        public void EnsureCreated()
-        {
-            base.Database.EnsureCreated();
-        }
-
     }
 }

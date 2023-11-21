@@ -1,5 +1,5 @@
 
 namespace Server.Models;
 
-public record Scatter_Production(int id, DateTime date, float production_gross, float fuel_consumption);
+public record Scatter_Production(int id, string date, int production_gross, int fuel_consumption);
 

@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Server;
 
@@ -10,9 +11,11 @@ using Server;
 namespace Server.Migrations
 {
     [DbContext(typeof(VisionContext))]
-    partial class VisionContextModelSnapshot : ModelSnapshot
+    [Migration("20231121221241_changed DateTime to to string")]
+    partial class changedDateTimetotostring
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
