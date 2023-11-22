@@ -1,5 +1,5 @@
 
 namespace Server.Models;
 
-public record Pie_Production(int id, string date, int production);
+public record Pie_Production(int id, DateOnly date, int production);
 

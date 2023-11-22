@@ -27,7 +27,7 @@ namespace Server
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365));
                     var netIncome = random.Next(100, 10000);
                     var expenses = random.Next(100, 10000);
 
@@ -43,7 +43,7 @@ namespace Server
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365));
                     var production = random.Next(100, 10000);
 
                     records.Add(new Pie_Production(i, date, production));
@@ -58,7 +58,7 @@ namespace Server
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365));
                     var production = random.Next(100, 10000);
 
                     records.Add(new Radar_Production(i, date, production));
@@ -73,7 +73,7 @@ namespace Server
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365));
                     var productionGross = random.Next(100, 10000);
                     var fuelConsumption = random.Next(100, 10000);
 
@@ -89,7 +89,7 @@ namespace Server
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365));
                     var expenses = random.Next(100, 10000);
                     var netIncome = random.Next(100, 10000);
 
@@ -105,7 +105,7 @@ namespace Server
 
                 for (int i = 1; i <= 250; i++)
                 {
-                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365)).ToString();
+                    var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365));
                     var revenue = random.Next(100000, 1000000);
                     var netIncome = revenue * (random.NextDouble() * 0.1 + 0.05);
                     var expenses = revenue * (random.NextDouble() * 0.05 + 0.01);

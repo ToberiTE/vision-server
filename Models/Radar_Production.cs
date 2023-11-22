@@ -1,5 +1,5 @@
 
 namespace Server.Models;
 
-public record Radar_Production(int id, string date, int production);
+public record Radar_Production(int id, DateOnly date, int production);
 

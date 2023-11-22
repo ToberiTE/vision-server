@@ -1,4 +1,4 @@
 
 namespace Server.Models;
 
-public record Bar_Revenue(int id, string date, int expenses, int net_income);
+public record Bar_Revenue(int id, DateOnly date, int expenses, int net_income);

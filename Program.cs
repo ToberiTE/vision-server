@@ -156,7 +156,7 @@ IEnumerable<IGrouping<dynamic, dynamic>> GroupByWeek(IEnumerable<dynamic> data)
        $"{x.date.Year} W{CultureInfo.InvariantCulture.Calendar
         .GetWeekOfYear
         (
-            x.date,
+            x.date.ToDateTime(TimeOnly.MinValue),
             CalendarWeekRule.FirstFourDayWeek,
             DayOfWeek.Monday
         )}"
