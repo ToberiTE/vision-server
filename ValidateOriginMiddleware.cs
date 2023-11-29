@@ -17,7 +17,7 @@ namespace Server
                 return;
             }
 
-            var origin = context.Request.Headers["Origin"];
+            var origin = context.Request.Headers.Origin;
 
             if (origin != "https://vision-client.azurewebsites.net")
             {

@@ -2,12 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Server.Models;
 namespace Server
 {
-    public class VisionContext : DbContext
+    public class VisionContext(DbContextOptions<VisionContext> opt) : DbContext(opt)
     {
-        public VisionContext(DbContextOptions<VisionContext> opt) : base(opt)
-        {
-        }
-
         public DbSet<Bar_Revenue> Bar_Revenue { get; set; }
         public DbSet<Pie_Production> Pie_Production { get; set; }
         public DbSet<Radar_Production> Radar_Production { get; set; }

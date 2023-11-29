@@ -2,7 +2,6 @@ using Microsoft.EntityFrameworkCore;
 using Server;
 using Server.Models;
 using System.Globalization;
-using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -112,6 +111,15 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
                 Date = g.Key,
                 Production = g.Sum(p => ((Pie_Production)p).production),
             }),
+
+            "transaction" => Grouping(data, groupBy)
+            .Select(g => new
+            {
+                Date = g.Key,
+                Revenue = g.Sum(p => ((Transaction)p).revenue),
+                Expenses = g.Sum(p => ((Transaction)p).expenses),
+                Net_income = g.Sum(p => ((Transaction)p).net_income)
+            }),
             _ => (IEnumerable<dynamic>)Results.NotFound(),
         };
         return Results.Ok(result);
@@ -167,7 +175,7 @@ app.MapGet("/dashboard/tables", (VisionContext db, CancellationToken cancellatio
 {
     var tables = db.Model.GetEntityTypes()
     .Select(t => t.GetTableName())
-    .Where(t => t != null && t.Contains('_'))
+    .Where(t => t != null && t.Contains('_') || t == "Transaction")
     .Distinct()
     .ToArray();
     return Results.Ok(tables);
