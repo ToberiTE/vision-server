@@ -90,6 +90,22 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, VisionConte
     {
         IEnumerable<dynamic> result = selectedTable.ToLower() switch
         {
+            "scatter_production" => Grouping(data, groupBy)
+            .Select(g => new
+            {
+                Date = g.Key,
+                Production_gross = g.Sum(p => ((Scatter_Production)p).production_gross),
+                Fuel_consumption = g.Sum(p => ((Scatter_Production)p).fuel_consumption)
+            }),
+
+            "scatter_revenue" => Grouping(data, groupBy)
+            .Select(g => new
+            {
+                Date = g.Key,
+                Revenue = g.Sum(p => ((Scatter_Revenue)p).expenses),
+                Net_income = g.Sum(p => ((Scatter_Revenue)p).net_income)
+            }),
+
             "bar_revenue" => Grouping(data, groupBy)
             .Select(g => new
             {
