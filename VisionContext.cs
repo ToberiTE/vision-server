@@ -24,12 +24,15 @@ namespace Server
                 for (int i = 1; i <= 250; i++)
                 {
                     var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365));
-                    var netIncome = random.Next(100, 10000);
-                    var expenses = random.Next(100, 10000);
+                    var revenue = random.Next(100000, 1000000);
+                    var net_income = revenue * (random.NextDouble() * 0.1 + 0.05);
+                    var expenses = revenue * (random.NextDouble() * 0.05 + 0.01);
 
-                    records.Add(new Bar_Revenue(i, date, netIncome, expenses));
+                    records.Add(new Bar_Revenue(i, date, revenue, (decimal)net_income, (decimal)expenses));
                 }
                 modelBuilder.Entity<Bar_Revenue>().HasData(records);
+                modelBuilder.Entity<Bar_Revenue>().Property(t => t.Net_income).HasColumnType("decimal(18,2)");
+                modelBuilder.Entity<Bar_Revenue>().Property(t => t.Expenses).HasColumnType("decimal(18,2)");
             }
 
             if (!modelBuilder.Model.GetEntityTypes().Any(e => e.Name == typeof(Pie_Production).Name))
@@ -70,10 +73,10 @@ namespace Server
                 for (int i = 1; i <= 250; i++)
                 {
                     var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365));
-                    var productionGross = random.Next(100, 10000);
-                    var fuelConsumption = random.Next(100, 10000);
+                    var production_gross = random.Next(100, 10000);
+                    var fuel_consumption = random.Next(100, 10000);
 
-                    records.Add(new Scatter_Production(i, date, productionGross, fuelConsumption));
+                    records.Add(new Scatter_Production(i, date, production_gross, fuel_consumption));
                 }
                 modelBuilder.Entity<Scatter_Production>().HasData(records);
             }
@@ -86,12 +89,15 @@ namespace Server
                 for (int i = 1; i <= 250; i++)
                 {
                     var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365));
-                    var expenses = random.Next(100, 10000);
-                    var netIncome = random.Next(100, 10000);
+                    var revenue = random.Next(100000, 1000000);
+                    var net_income = revenue * (random.NextDouble() * 0.1 + 0.05);
+                    var expenses = revenue * (random.NextDouble() * 0.05 + 0.01);
 
-                    records.Add(new Scatter_Revenue(i, date, expenses, netIncome));
+                    records.Add(new Scatter_Revenue(i, date, revenue, (decimal)expenses, (decimal)net_income));
                 }
                 modelBuilder.Entity<Scatter_Revenue>().HasData(records);
+                modelBuilder.Entity<Scatter_Revenue>().Property(t => t.Net_income).HasColumnType("decimal(18,2)");
+                modelBuilder.Entity<Scatter_Revenue>().Property(t => t.Expenses).HasColumnType("decimal(18,2)");
             }
 
             if (!modelBuilder.Model.GetEntityTypes().Any(e => e.Name == typeof(Transaction).Name))
@@ -103,13 +109,16 @@ namespace Server
                 {
                     var date = new DateOnly(2010, 1, 1).AddYears(random.Next(10)).AddDays(random.Next(365));
                     var revenue = random.Next(100000, 1000000);
-                    var netIncome = revenue * (random.NextDouble() * 0.1 + 0.05);
+                    var net_income = revenue * (random.NextDouble() * 0.1 + 0.05);
                     var expenses = revenue * (random.NextDouble() * 0.05 + 0.01);
 
-                    records.Add(new Transaction(i, date, revenue, (float)netIncome, (float)expenses));
+                    records.Add(new Transaction(i, date, revenue, (decimal)net_income, (decimal)expenses));
                 }
 
                 modelBuilder.Entity<Transaction>().HasData(records);
+                modelBuilder.Entity<Transaction>().Property(t => t.Net_income).HasColumnType("decimal(18,2)");
+                modelBuilder.Entity<Transaction>().Property(t => t.Expenses).HasColumnType("decimal(18,2)");
+                modelBuilder.Entity<Transaction>().Property(t => t.Revenue).HasColumnType("decimal(18,2)");
             }
 
             if (!modelBuilder.Model.GetEntityTypes().Any(e => e.Name == typeof(Project).Name))

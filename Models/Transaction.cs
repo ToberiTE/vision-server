@@ -1,3 +1,3 @@
 namespace Server.Models;
 
-public record Transaction(int id, DateOnly date, float revenue, float expenses, float net_income);
+public record Transaction(int Id, DateOnly Date, int Revenue, decimal Net_income, decimal Expenses);
