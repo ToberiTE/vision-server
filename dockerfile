@@ -16,7 +16,7 @@ COPY --from=build /app/publish .
 
 # Install Python and dependencies
 RUN apt-get update \
-    && apt-get install -y python3 python3-pip python3-venv \
+    && apt-get install -y python3 python3-pip \
     && rm -rf /var/lib/apt/lists/*
 
 # Install Python dependencies
