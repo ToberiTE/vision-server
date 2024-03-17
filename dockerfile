@@ -32,6 +32,7 @@ RUN pip install --no-cache-dir --upgrade pip \
 COPY . .
 
 # Set environment variables
+ENV PYTHON_DLL_PATH=/usr/lib/python3.11
 ENV PYTHON_SCRIPT_PATH=/app
 ENV DOTNET_URLS=http://+:5000
 
