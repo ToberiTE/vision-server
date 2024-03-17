@@ -19,10 +19,6 @@ RUN apt-get update \
     && apt-get install -y python3 python3-pip python3-venv \
     && rm -rf /var/lib/apt/lists/*
 
-# Create a virtual environment and activate it
-RUN python3 -m venv /app/venv
-ENV PATH="/app/venv/bin:$PATH"
-
 # Install Python dependencies
 COPY requirements.txt ./
 RUN pip install --no-cache-dir --upgrade pip \
