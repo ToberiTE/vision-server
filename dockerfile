@@ -16,13 +16,17 @@ COPY --from=build /app/publish .
 
 # Install Python and dependencies
 RUN apt-get update \
-    && apt-get install -y python3 python3-pip \
+    && apt-get install -y python3 python3-pip python3-venv \
     && rm -rf /var/lib/apt/lists/*
 
-# Install Python dependencies
+# Create a virtual environment and activate it
+RUN python3 -m venv /app/venv
+ENV PATH="/app/venv/bin:$PATH"
+
+# Install Python dependencies within the virtual environment
 COPY requirements.txt ./
-RUN pip install --no-cache-dir --upgrade pip \
-    && pip install --no-cache-dir -r requirements.txt
+RUN /app/venv/bin/pip install --no-cache-dir --upgrade pip \
+    && /app/venv/bin/pip install --no-cache-dir -r requirements.txt
 
 # Copy Python script and any other necessary files
 COPY . .
