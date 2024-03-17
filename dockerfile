@@ -6,7 +6,7 @@ COPY ./*.csproj ./
 
 RUN dotnet restore
 
-COPY ./ ./
+COPY . .
 
 RUN dotnet build --configuration Release
 
@@ -18,17 +18,18 @@ WORKDIR /app
 
 COPY --from=build /app/publish .
 
-RUN apt-get update && apt-get install -y python3.12 python3.12-dev
+FROM python:3
 
-RUN curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+WORKDIR /app
 
-RUN python3.12 get-pip.py
+COPY requirements.txt ./
 
-COPY requirements.txt .
+RUN pip install --no-cache-dir --upgrade pip \
+  && pip install --no-cache-dir -r requirements.txt
 
-RUN python3.12 -m pip install --no-cache-dir -r requirements.txt
+COPY . .
 
-ENV PYTHON_DLL_PATH=/usr/bin/python3.12/python3.12.dll
+ENV PYTHON_DLL_PATH=/app/python3/python3.dll
 
 ENV PYTHON_SCRIPT_PATH=/app
 
