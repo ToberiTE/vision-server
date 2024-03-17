@@ -21,12 +21,16 @@ if (builder.Environment.IsDevelopment())
     pythonScriptPath = builder.Configuration.GetSection("Python")["SCRIPT_PATH"];
     builder.Configuration.AddEnvironmentVariables().AddJsonFile("appsettings.Development.json");
     connection = builder.Configuration.GetConnectionString("LOCAL_SQL_CONNECTIONSTRING");
-    Runtime.PythonDLL = pythonDLLPath;
 }
 else
 {
+    pythonDLLPath = Environment.GetEnvironmentVariable("PYTHON_DLL_PATH");
+    pythonScriptPath = Environment.GetEnvironmentVariable("PYTHON_SCRIPT_PATH");
     connection = Environment.GetEnvironmentVariable("AZURE_SQL_CONNECTIONSTRING");
 }
+
+Runtime.PythonDLL = pythonDLLPath;
+
 
 dynamic ForecastData(List<string> dates, List<double> revenues, int? period)
 {

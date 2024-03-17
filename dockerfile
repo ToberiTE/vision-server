@@ -14,11 +14,11 @@ COPY --from=build /app/publish .
 
 # Install Python and dependencies
 RUN apt-get update \
-    && apt-get install -y python3 python3-pip \
+    && apt-get install -y python3.12 python3.12-pip \
     && rm -rf /var/lib/apt/lists/*
 COPY requirements.txt ./
-RUN pip3 install --no-cache-dir --upgrade pip \
-    && pip3 install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir --upgrade pip \
+    && pip install --no-cache-dir -r requirements.txt
 
 # Copy Python script and any other necessary files
 COPY . .
