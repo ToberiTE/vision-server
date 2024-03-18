@@ -31,7 +31,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: index.docker.io/${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_BE210335C5564249ADA5842821B7667B }}/toberi/vision-server:${{ github.sha }}
+          tags: "index.docker.io/${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_BE210335C5564249ADA5842821B7667B }}/toberi/vision-server:${{ github.sha }}"
           file: ./Dockerfile
 #       - name: Set up .NET Core
 #         uses: actions/setup-dotnet@v1
