@@ -63,4 +63,4 @@ jobs:
           app-name: 'vision-backend'
           slot-name: 'production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
-          images: 'index.docker.io/${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_BE210335C5564249ADA5842821B7667B }}/toberi/vision-backend:latest'
+          images: 'index.docker.io/${{ secrets.DOCKERHUB_USERNAME }}/toberi/vision-backend:latest'
