@@ -24,14 +24,14 @@ jobs:
         with:
           registry: https://index.docker.io/v1/
           username: ${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_BE210335C5564249ADA5842821B7667B }}
-          password: ${{ secrets.AZUREAPPSERVICE_CONTAINERPASSWORD_128ECD5BB5E14760A7F332D6601DBDB8}}
+          password: ${{ secrets.AZUREAPPSERVICE_CONTAINERPASSWORD_128ECD5BB5E14760A7F332D6601DBDB8 }}
 
       - name: Build and push container image to registry
         uses: docker/build-push-action@v3
         with:
           context: .
           push: true
-          tags: index.docker.io/${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_BE210335C5564249ADA5842821B7667B}}/toberi/vision-server:${{ github.sha }}
+          tags: index.docker.io/${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_BE210335C5564249ADA5842821B7667B }}/toberi/vision-server:${{ github.sha }}
           file: ./Dockerfile
 #       - name: Set up .NET Core
 #         uses: actions/setup-dotnet@v1
@@ -66,4 +66,4 @@ jobs:
           app-name: 'vision-backend'
           slot-name: 'production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
-          images: 'index.docker.io/${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_BE210335C5564249ADA5842821B7667B}}/toberi/vision-server:${{ github.sha }}'
+          images: 'index.docker.io/${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_BE210335C5564249ADA5842821B7667B }}/toberi/vision-server:${{ github.sha }}'
