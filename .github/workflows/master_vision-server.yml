@@ -20,7 +20,7 @@ jobs:
         run: echo "${{ secrets.DOCKERHUB_TOKEN }}" | docker login -u "${{ secrets.DOCKERHUB_USERNAME }}" --password-stdin
 
       - name: Build Docker image
-        run: docker build -t toberi/vision-server .
+        run: docker build -t toberi/vision-server:latest .
 
       - name: Push Docker image to Docker Hub
         run: docker push toberi/vision-server:latest
