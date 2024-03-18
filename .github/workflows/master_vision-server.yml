@@ -20,7 +20,7 @@ jobs:
         run: echo "${{ secrets.DOCKERHUB_TOKEN }}" | docker login -u "${{ secrets.DOCKERHUB_USERNAME }}" --password-stdin
 
       - name: Push Docker image to Docker Hub
-        run: docker push vision/vision-server:latest
+        run: docker push toberi/vision-server:latest
 
 #       - name: Set up .NET Core
 #         uses: actions/setup-dotnet@v1
