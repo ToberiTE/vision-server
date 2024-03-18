@@ -21,7 +21,7 @@ jobs:
         with:
           registry: https://index.docker.io/v1/
           username: ${{ secrets.DOCKERHUB_USERNAME }}
-          password: ${{ secrets.DOCKERHUB_PASSWORD }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
 
       - name: Build and push container image to registry
         uses: docker/build-push-action@v3
