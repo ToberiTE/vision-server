@@ -28,7 +28,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: "index.docker.io/toberi/toberi/vision-backend:latest"
+          tags: "index.docker.io/toberi/vision-backend:latest"
           file: ./dockerfile
 #       - name: Set up .NET Core
 #         uses: actions/setup-dotnet@v1
@@ -63,4 +63,4 @@ jobs:
           app-name: 'vision-backend'
           slot-name: 'production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
-          images: 'index.docker.io/toberi/toberi/vision-backend:latest'
+          images: 'index.docker.io/toberi/vision-backend:latest'
