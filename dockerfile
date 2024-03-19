@@ -27,7 +27,7 @@ RUN /app/venv/bin/pip install --no-cache-dir --upgrade pip \
     && /app/venv/bin/pip install --no-cache-dir -r requirements.txt
 
 # Set environment variables
-ENV PYTHON_DLL_PATH=/usr/lib/python3.11
+ENV PYTHON_DLL_PATH=/app/venv/bin/python3.11
 ENV PYTHON_SCRIPT_PATH=/app
 
 ENV ASPNETCORE_URLS=http://*:80
