@@ -30,7 +30,7 @@ COPY forecastservice.py ./
 
 # Set environment variables
 ENV PYTHON_DLL_PATH=/usr/lib/x86_64-linux-gnu/libpython3.11.so
-ENV PYTHON_SCRIPT_PATH=/app/forecastservice.py
+ENV PYTHON_SCRIPT_PATH=./
 
 ENV ASPNETCORE_URLS=http://*:80
 
