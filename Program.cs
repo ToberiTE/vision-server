@@ -30,7 +30,7 @@ else
 }
 Runtime.PythonDLL = pythonDLLPath;
 
-dynamic ForecastData(List<string> dates, List<double> revenues, int? period)
+async Task<dynamic> ForecastData(List<string> dates, List<double> revenues, int? period)
 {
     try
     {
@@ -41,37 +41,38 @@ dynamic ForecastData(List<string> dates, List<double> revenues, int? period)
         }
 
         string? forecasts = string.Empty;
-        IEnumerable<dynamic>? result;
+        IEnumerable<dynamic>? result = null;
         List<Dictionary<string, dynamic>>? forecastList = [];
 
-        using (Py.GIL())
+        await Task.Run(() =>
         {
-            PythonEngine.Exec($@"import sys; sys.path.insert(0, '{pythonScriptPath?.Replace("\\", "\\\\")}')");
-
-            using PyObject mod = Py.Import("forecastservice");
-            dynamic forecast_data = mod.GetAttr("forecast_data");
-
-            using PyObject obj = forecast_data(dates, revenues, period);
-
-            forecasts = obj.ToString();
-            forecastList = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(forecasts ?? "");
-            result = forecastList?.Select(t => new
+            using (Py.GIL())
             {
-                Ds = DateTime.Parse((string)t["ds"].GetString()).ToString("yyyy-MM-dd"),
-                Yhat = Math.Round(t["yhat"].GetDouble()),
-                Yhat_lower = Math.Round(t["yhat_lower"].GetDouble()),
-                Yhat_upper = Math.Round(t["yhat_upper"].GetDouble())
-            });
+                PythonEngine.Exec($@"import sys; sys.path.insert(0, '{pythonScriptPath?.Replace("\\", "\\\\")}')");
 
-            return result ?? [];
-        }
+                using PyObject mod = Py.Import("forecastservice");
+                dynamic forecast_data = mod.GetAttr("forecast_data");
+
+                using PyObject obj = forecast_data(dates, revenues, period);
+
+                forecasts = obj.ToString();
+                forecastList = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(forecasts ?? "");
+                result = forecastList?.Select(t => new
+                {
+                    Date = DateTime.Parse((string)t["ds"].GetString()).ToString("yyyy-MM-dd"),
+                    Yhat = Math.Round(t["yhat"].GetDouble()),
+                    Yhat_lower = Math.Round(t["yhat_lower"].GetDouble()),
+                    Yhat_upper = Math.Round(t["yhat_upper"].GetDouble())
+                });
+            }
+        });
+
+        return result ?? [];
     }
-
     catch (Exception ex)
     {
         return Results.BadRequest(ex.ToString());
     }
-
 }
 
 builder.Services.AddDbContext<VisionContext>(options =>
@@ -124,9 +125,13 @@ app.MapPost("/projects", async (Project model, VisionContext db, CancellationTok
     return Results.Created($"/projects/{model.Id}", model);
 });
 
-app.MapGet("/selectedTable", (string selectedTable, string? groupBy, bool? shouldForecast, int? period, VisionContext db, CancellationToken cancellationToken) =>
+app.MapGet("/selectedTable", async (string selectedTable, string? groupBy, string? shouldForecast, int? period, VisionContext db, CancellationToken cancellationToken) =>
 {
-    var dbSetProperty = db.GetType().GetProperty(selectedTable);
+    dynamic? dbSetProperty = null;
+    IEnumerable<dynamic>? forecastData = [];
+
+    dbSetProperty = db.GetType().GetProperty(selectedTable);
+
     if (dbSetProperty == null)
     {
         return Results.NotFound();
@@ -139,23 +144,22 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, bool? shoul
 
     var data = dbSet.AsQueryable().AsNoTracking();
 
-    if (shouldForecast == true && selectedTable.ToLower() == "transaction" && period > 0)
+    if (shouldForecast == "true" && period > 0)
     {
-        var x = data.ToList();
+        var x = await data.ToListAsync(cancellationToken);
         var dates = x.Select(x => (string)x.Date.ToString("yyyy-MM-dd")).ToList();
         var revenues = x.Select(x => (double)x.Revenue).ToList();
 
-        dynamic forecastedData = ForecastData(dates, revenues, period);
+        forecastData = await ForecastData(dates, revenues, period);
 
-        return Results.Ok(forecastedData);
+        return Results.Ok(forecastData);
     }
-
 
     if (!string.IsNullOrEmpty(groupBy))
     {
         IEnumerable<dynamic> result = selectedTable.ToLower() switch
         {
-            "scatter_production" => Grouping(data, groupBy)
+            "scatter_production" => (await Grouping(data, groupBy))
             .Select(g => new
             {
                 Date = g.Key,
@@ -163,7 +167,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, bool? shoul
                 Fuel_consumption = g.Sum(p => ((Scatter_Production)p).Fuel_consumption)
             }),
 
-            "scatter_revenue" => Grouping(data, groupBy)
+            "scatter_revenue" => (await Grouping(data, groupBy))
             .Select(g => new
             {
                 Date = g.Key,
@@ -171,7 +175,7 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, bool? shoul
                 Net_income = g.Sum(p => ((Scatter_Revenue)p).Net_income)
             }),
 
-            "bar_revenue" => Grouping(data, groupBy)
+            "bar_revenue" => (await Grouping(data, groupBy))
             .Select(g => new
             {
                 Date = g.Key,
@@ -179,21 +183,21 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, bool? shoul
                 Net_income = g.Sum(p => ((Bar_Revenue)p).Net_income)
             }),
 
-            "radar_production" => Grouping(data, groupBy)
+            "radar_production" => (await Grouping(data, groupBy))
             .Select(g => new
             {
                 Date = g.Key,
                 Production = g.Sum(p => ((Radar_Production)p).Production),
             }),
 
-            "pie_production" => Grouping(data, groupBy)
+            "pie_production" => (await Grouping(data, groupBy))
             .Select(g => new
             {
                 Date = g.Key,
                 Production = g.Sum(p => ((Pie_Production)p).Production),
             }),
 
-            "transaction" => Grouping(data, groupBy)
+            "transaction" => (await Grouping(data, groupBy))
             .Select(g => new
             {
                 Date = g.Key,
@@ -201,14 +205,16 @@ app.MapGet("/selectedTable", (string selectedTable, string? groupBy, bool? shoul
                 Expenses = g.Sum(p => ((Transaction)p).Expenses),
                 Net_income = g.Sum(p => ((Transaction)p).Net_income),
             }),
-            _ => (IEnumerable<dynamic>)Results.NotFound(),
+            _ => [],
         };
         return Results.Ok(result);
     }
-    return Results.Ok(data);
+
+    var returnData = await data.ToListAsync(cancellationToken);
+    return Results.Ok(returnData);
 });
 
-IEnumerable<IGrouping<dynamic, dynamic>> Grouping(IEnumerable<dynamic> data, string groupBy)
+Task<IEnumerable<IGrouping<dynamic, dynamic>>> Grouping(IEnumerable<dynamic> data, string groupBy)
 {
     switch (groupBy.ToLower())
     {
@@ -217,30 +223,30 @@ IEnumerable<IGrouping<dynamic, dynamic>> Grouping(IEnumerable<dynamic> data, str
         case "month": return GroupByMonth(data);
         case "week": return GroupByWeek(data);
     };
-    return (IEnumerable<IGrouping<dynamic, dynamic>>)Results.NotFound();
+    return Task.FromResult(Enumerable.Empty<IGrouping<dynamic, dynamic>>());
 }
 
-IEnumerable<IGrouping<dynamic, dynamic>> GroupByYear(IEnumerable<dynamic> data)
+async Task<IEnumerable<IGrouping<dynamic, dynamic>>> GroupByYear(IEnumerable<dynamic> data)
 {
-    return data
-    .GroupBy(x => x.Date.Year);
+    return await Task.Run(() => data
+    .GroupBy(x => x.Date.Year));
 }
 
-IEnumerable<IGrouping<dynamic, dynamic>> GroupByQuarter(IEnumerable<dynamic> data)
+async Task<IEnumerable<IGrouping<dynamic, dynamic>>> GroupByQuarter(IEnumerable<dynamic> data)
 {
-    return data
-    .GroupBy(x => $"{x.Date.Year} Q{((x.Date.Month - 1) / 3) + 1}");
+    return await Task.Run(() => data
+    .GroupBy(x => $"{x.Date.Year} Q{((x.Date.Month - 1) / 3) + 1}"));
 }
 
-IEnumerable<IGrouping<dynamic, dynamic>> GroupByMonth(IEnumerable<dynamic> data)
+async Task<IEnumerable<IGrouping<dynamic, dynamic>>> GroupByMonth(IEnumerable<dynamic> data)
 {
-    return data
-    .GroupBy(x => $"{x.Date.Year}-{x.Date.Month:00}");
+    return await Task.Run(() => data
+    .GroupBy(x => $"{x.Date.Year}-{x.Date.Month:00}"));
 }
 
-IEnumerable<IGrouping<dynamic, dynamic>> GroupByWeek(IEnumerable<dynamic> data)
+async Task<IEnumerable<IGrouping<dynamic, dynamic>>> GroupByWeek(IEnumerable<dynamic> data)
 {
-    return data
+    return await Task.Run(() => data
     .GroupBy(x =>
        $"{x.Date.Year} W{CultureInfo.InvariantCulture.Calendar
         .GetWeekOfYear
@@ -249,7 +255,7 @@ IEnumerable<IGrouping<dynamic, dynamic>> GroupByWeek(IEnumerable<dynamic> data)
             CalendarWeekRule.FirstFourDayWeek,
             DayOfWeek.Monday
         )}"
-    );
+    ));
 }
 
 app.MapGet("/dashboard/tables", (VisionContext db, CancellationToken cancellationToken) =>
@@ -258,7 +264,7 @@ app.MapGet("/dashboard/tables", (VisionContext db, CancellationToken cancellatio
     .Select(t => t.GetTableName())
     .Where(t => t != null && t.Contains('_') || t == "Transaction")
     .Distinct()
-    .ToArray();
+    .ToList();
     return Results.Ok(tables);
 });
 
@@ -268,7 +274,7 @@ app.MapGet("/sidenav/tables", (VisionContext db, CancellationToken cancellationT
     .Select(t => t.GetTableName())
     .Where(t => t != null && !t.Contains('_'))
     .Distinct()
-    .ToArray();
+    .ToList();
     return Results.Ok(tables);
 });
 
