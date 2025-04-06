@@ -274,10 +274,13 @@ C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\staticweba
 C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
 C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
-C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\Server.csproj.CopyComplete
 C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\Server.dll
 C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\refint\Server.dll
 C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\Server.pdb
 C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\Server.genruntimeconfig.cache
 C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\ref\Server.dll
 C:\Users\Adminpc\Documents\Devprojects\vision-server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Adminpc\Documents\Devprojects\vision-server\bin\Debug\net8.0\Server.staticwebassets.endpoints.json
+C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Adminpc\Documents\Devprojects\vision-server\obj\Debug\net8.0\Server.csproj.Up2Date

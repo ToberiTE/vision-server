@@ -13,18 +13,24 @@
         "packagesPath": "C:\\Users\\Adminpc\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Adminpc\\Documents\\Devprojects\\vision-server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Adminpc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Adminpc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -32,39 +38,45 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Azure.Identity": {
               "target": "Package",
-              "version": "[1.10.3, )"
+              "version": "[1.13.2, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[9.0.2, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -72,11 +84,11 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[7.3.1, )"
             },
             "pythonnet": {
               "target": "Package",
-              "version": "[3.0.3, )"
+              "version": "[3.0.5, )"
             }
           },
           "imports": [
@@ -98,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

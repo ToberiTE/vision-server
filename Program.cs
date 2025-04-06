@@ -222,7 +222,8 @@ Task<IEnumerable<IGrouping<dynamic, dynamic>>> Grouping(IEnumerable<dynamic> dat
         case "quarter": return GroupByQuarter(data);
         case "month": return GroupByMonth(data);
         case "week": return GroupByWeek(data);
-    };
+    }
+    ;
     return Task.FromResult(Enumerable.Empty<IGrouping<dynamic, dynamic>>());
 }
 
